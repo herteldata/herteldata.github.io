@@ -35,36 +35,88 @@
   top:10%;
   left:20%;
   box-shadow: 0px 70px 100px -40px grey;
-  
-}
-
-#cpoSection{
-  width:90%;
-  height:20%;
-  top:25%;
-  left:5%;
-  background-color: lightblue;
-  position: absolute;
 
 }
+
+
 #progTitle {
   background-color: lightblue;
-  width:50%;
-  height:20%;
-  position: absolute;
+  width:60%;
+  height:15%;
+  position:relative;
   top:0%;
   left:0%;
 }
 
+#progName {
+  font-size: 20px;
+  padding:5px;
+}
+#orgName {
+  font-size:14px;
+  padding:5px;
+  font-style: italic;
+}
 
+#primaryOutcome {
+
+}
+
+
+
+#benchmarkSection {
+  background-color:green;
+  position: absolute;
+  top:22%;
+  left:5%;
+  width: 90%;
+  height: 30%;
+  font-size: 12px;
+
+}
+#benchmarkSection table {
+  height:100%;
+  width:100%;
+}
+#benchmarkSection table, th, td {
+  border-collapse:collapse;
+  border:10px solid #898D8D;
+  padding: 5px;
+}
+
+#benchmarkSection td {
+
+  text-align: center;
+  background-color:green;
+}
+#benchmarkSection th {
+
+
+  background-color:#898D8D;
+}
+#benchmarkSection th:first-child {
+  background-color: #898D8D;
+  width:35%;
+}
+
+#benchmarkSection td:first-child {
+  background-color: #898D8D;
+  width:35%;
+  text-align: left;
+  font-style: italic;
+}
+
+#additionalOutcomes {
+
+}
 
 #donateLink {
 
-  width:40%;
-  height:15%;
+  width:30%;
+  height:10%;
   position: absolute;
   top:2.5%;
-  left:55%;
+  left:65%;
   text-align: center;
 }
 #donateLink:link {

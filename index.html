@@ -17,17 +17,38 @@
         <div id="bghider"></div>
         <div id="topbar">
           <div id="progTitle" >
+              <div id='progName'></div>
             <div id="orgName"></div>
-            <div id='progName'></div>
+
           </div>
 
             <a id="donateLink" target="_blank" href="">
-
                 <span id="spanner">Donate</span>
+            </a>
 
-              </a>
-              <div id="cpoSection"></div>
+            <div id="benchmarkSection">
 
+                <table>
+                <tr>
+                  <th></th>
+                  <th>Cost Per Outcome</th>
+                  <th>Program Efficacy</th>
+                  <th>Evidence Quality</th>
+                </tr>
+                <tr>
+                  <td>Program Performance</td>
+                  <td id="progCPO"></td>
+                  <td id="progEff"></td>
+                  <td id="progEv"></td>
+                </tr>
+                <tr>
+                  <td>Benchmark Performance</td>
+                  <td id="benchCPO"></td>
+                  <td id="benchEff"></td>
+                  <td id="benchEv"></td>
+                </tr>
+              </table>
+            </div>
 
           </div>
 
@@ -47,6 +68,8 @@
                return rows.map(function (row) { return row[key]; });
            }
            var cpos = unpack(rows,'Benchmark CPO');
+           var effs = unpack(rows,'Benchmark Efficacy');
+           var evidence = unpack(rows,'Benchmark Evidence');
             data = [{
               type: "treemap",
               ids: unpack(rows,'UOID'),
@@ -109,8 +132,9 @@
                 orgName.innerHTML=clickedProg;
                 progName.innerHTML=showThis;
 
-                document.getElementById('cpoSection').innerHTML="Program CPO: "+cpos[showThis];
-
+                document.getElementById('progCPO').innerHTML=cpos[showThis];
+                document.getElementById('progEff').innerHTML=effs[showThis];
+                document.getElementById('progEv').innerHTML=evidence[showThis];
                 document.getElementById('donateLink').href=("http://www.google.com/search?q="+clickedProg);
                 //window.setTimeout(function(){
                   progInfo.style.display="block";
