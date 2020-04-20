@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+     <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Poppins">
+          <link rel="stylesheet"
+               href="https://fonts.googleapis.com/css?family=Roboto">
+          <link rel="stylesheet" type="text/css" href="css/styling.css">
+    <title>Testing Treemap</title>
+  </head>
+  <body>
+    <div id="wrapper">
+      <div id="tester"></div>
+      <div id="progInfo">
+        <div id="bghider"></div>
+        <div id="topbar">
+          <div id="progTitle" >
+            <div id="orgName"></div>
+            <div id='progName'></div>
+          </div>
+
+            <a id="donateLink" target="_blank" href="">
+
+                <span id="spanner">Donate</span>
+
+              </a>
+              <div id="cpoSection"></div>
+
+
+          </div>
+
+        </div>
+      </div>
+
+
+      <script>
+        var myPlot = document.getElementById('tester');
+        var progInfo = document.getElementById('progInfo');
+        var progTitle = document.getElementById('progTitle');
+        var bghider = document.getElementById('bghider');
+        var orgName = document.getElementById('orgName');
+
+        Plotly.d3.csv("fullTaxonomy.csv", function (err, rows) {
+           function unpack(rows, key) {
+               return rows.map(function (row) { return row[key]; });
+           }
+           var cpos = unpack(rows,'Benchmark CPO');
+            data = [{
+              type: "treemap",
+              ids: unpack(rows,'UOID'),
+              labels: unpack(rows,'Label'),
+              parents: unpack(rows,'Parent'),
+              text: unpack(rows,'Benchmark CPO'),
+              //values: unpack(rows,'Outcomes Adjusted'),
+              //branchvalues: 'total',
+              textposition:'middle center',
+              /*tiling:{
+                squarifyratio:2,
+                pad:1
+              },*/
+              maxdepth:4,
+
+              textfont:{
+
+                family:"Poppins"
+              },
+              hoverlabel:{
+                font:{
+                  family:"sans-serif",
+                  size:16
+                }
+              },
+              texttemplate:'%{label}<br>%{text}',
+              //hovertemplate:'%{label}<br>CPO: %{text}<br>Outcomes: %{value:,f}<extra></extra>',
+              marker: {"line": {"width": 2}}
+              /*pathbar:{
+                thickness:25,
+                textfont:{
+                  size:20
+                }
+              }*/
+            }];
+            layout={
+              margin:{
+                l:00,
+                r:00,
+                b:25,
+                t:25,
+                pad:0
+              },
+              colorway:["#cc5142","#64ac48","#c254b9","#9a963f","#7064cd","#c98542","#5a8fcd","#c6557c","#4aac8b","#b17dbe"]
+            }
+
+          Plotly.newPlot( 'tester', data,layout,{displayModeBar: false});
+          myPlot.on('plotly_click', function(data){
+              var pts = '';
+              var showThis = data.points[0].pointNumber;
+              var clickedProg = "";
+              var showThat = data.points.map(function(d){
+                clickedProg= String(d.data.labels[showThis]);
+                return d.data.ids[showThis];
+
+              });
+              showThat = String(showThat).charAt(0);
+              if (showThat!="Z" && showThat!="") {
+
+                orgName.innerHTML=clickedProg;
+                progName.innerHTML=showThis;
+
+                document.getElementById('cpoSection').innerHTML="Program CPO: "+cpos[showThis];
+
+                document.getElementById('donateLink').href=("http://www.google.com/search?q="+clickedProg);
+                //window.setTimeout(function(){
+                  progInfo.style.display="block";
+                //},900);
+              }
+          });
+
+      });
+      document.getElementById('bghider').addEventListener('click',function(){
+        document.getElementById('progInfo').style.display="none";
+      });
+      </script>
+  </body>
+</html>

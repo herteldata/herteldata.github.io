@@ -1,0 +1,1678 @@
+﻿UOID,Parent,Label,Impact Area,Genome,Outcome,Benchmark CPO,Benchmark Efficacy,Benchmark Evidence,Outcomes Produced,Outcomes Adjusted
+Z01,All Impact Areas,Arts,Arts,,,,,,0,1.0000000
+Z02,All Impact Areas,Criminal Justice,Criminal Justice,,,,,,0,1.0000000
+Z03,All Impact Areas,Critical Human Needs,Critical Human Needs,,,,,,0,1.0000000
+Z04,All Impact Areas,Culture & Identity,Culture & Identity,,,,,,0,1.0000000
+Z05,All Impact Areas,Economic Development,Economic Development,,,,,,0,1.0000000
+Z06,All Impact Areas,Education,Education,,,,,,0,1.0000000
+Z08,All Impact Areas,Public Health,Public Health,,,,,,0,1.0000000
+Z09,All Impact Areas,Science & Technology,Science & Technology,,,,,,0,1.0000000
+Z10,All Impact Areas,Sustainability and Environment,Sustainability and Environment,,,,,,0,1.0000000
+Z12,All Impact Areas,Youth,Youth,,,,,,0,1.0000000
+Z01.01,Z01,Access and Appreciation,Arts,Access and Appreciation,,,,,0,0.6808511
+Z01.02,Z01,Creative Community,Arts,Creative Community,,,,,0,0.3191489
+Z02.01,Z02,Crime Prevention,Criminal Justice,Crime Prevention,,,,,0,0.6000000
+Z02.02,Z02,Criminal Recidivism,Criminal Justice,Criminal Recidivism,,,,,0,0.4000000
+Z03.01,Z03,Child Welfare,Critical Human Needs,Child Welfare,,,,,0,0.0150943
+Z03.02,Z03,Disability,Critical Human Needs,Disability,,,,,0,0.1169811
+Z03.03,Z03,Food Security,Critical Human Needs,Food Security,,,,,0,0.4226415
+Z03.04,Z03,Housing,Critical Human Needs,Housing,,,,,0,0.1433962
+Z03.05,Z03,Homelessness,Critical Human Needs,Homelessness,,,,,0,0.2339623
+Z03.06,Z03,Elderly Care,Critical Human Needs,Elderly Care,,,,,0,0.0679245
+Z04.01,Z04,Civil Rights & Equality,Culture & Identity,Civil Rights & Equality,,,,,0,0.0266667
+Z04.02,Z04,Ethnic & Religious Identity,Culture & Identity,Ethnic & Religious Identity,,,,,0,0.3066667
+Z04.03,Z04,Immigration,Culture & Identity,Immigration,,,,,0,0.5866667
+Z04.04,Z04,Jewish Engagement,Culture & Identity,Jewish Engagement,,,,,0,0.0800000
+Z05.01,Z05,Local Economic Development,Economic Development,Local Economic Development,,,,,0,0.0083333
+Z05.02,Z05,Business Development & Job Creation,Economic Development,Business Development & Job Creation,,,,,0,0.1958333
+Z05.03,Z05,Workforce Development,Economic Development,Workforce Development,,,,,0,0.4833333
+Z05.04,Z05,Financial Health,Economic Development,Financial Health,,,,,0,0.3125000
+Z06.01,Z06,Quality Education,Education,Quality Education,,,,,0,0.1052632
+Z06.02,Z06,Early Childhood Education,Education,Early Childhood Education,,,,,0,0.1357341
+Z06.03,Z06,K-12 Student Achievement,Education,K-12 Student Achievement,,,,,0,0.2132964
+Z06.04,Z06,STEM,Education,STEM,,,,,0,0.1745152
+Z06.05,Z06,College & Career Readiness,Education,College & Career Readiness,,,,,0,0.3711911
+Z08.01,Z08,Healthcare Access,Public Health,Healthcare Access,,,,,0,0.0977011
+Z08.02,Z08,Mental Health,Public Health,Mental Health,,,,,0,0.1206897
+Z08.03,Z08,Patient Advocacy,Public Health,Patient Advocacy,,,,,0,0.0402299
+Z08.04,Z08,Intimate Partner Violence,Public Health,Intimate Partner Violence,,,,,0,0.6034483
+Z08.05,Z08,Reproductive Health,Public Health,Reproductive Health,,,,,0,0.0517241
+Z08.06,Z08,Substance Abuse & Addictive Behaviour,Public Health,Substance Abuse & Addictive Behaviour,,,,,0,0.0459770
+Z08.07,Z08,Obesity Prevention,Public Health,Obesity Prevention,,,,,0,0.0402299
+Z09.01,Z09,Innovation,Science & Technology,Innovation,,,,,0,0.8800000
+Z09.02,Z09,Technological Literacy,Science & Technology,Technological Literacy,,,,,0,0.1200000
+Z10.01,Z10,Climate Change Mitigation & Adaptation,Sustainability and Environment,Climate Change Mitigation & Adaptation,,,,,0,0.5675676
+Z10.02,Z10,Biodiversity & Habitat Protection,Sustainability and Environment,Biodiversity & Habitat Protection,,,,,0,0.4054054
+Z10.03,Z10,Animal Welfare,Sustainability and Environment,Animal Welfare,,,,,0,0.0270270
+Z12.01,Z12,Youth Development,Youth,Youth Development,,,,,0,1.0000000
+Z01.01.01,Z01.01,Enhance Arts Appreciation,Arts,Access and Appreciation,Enhance Arts Appreciation,$169 ,92.40%,27.5% Reliable Evidence,0,0.3617021
+Z01.01.02,Z01.01,Reach Diverse Audiences,Arts,Access and Appreciation,Reach Diverse Audiences,$62 ,88.00%,6.7% Reliable Evidence,0,0.3191489
+Z01.02.01,Z01.02,Strengthen Individual Creativity Skills,Arts,Creative Community,Strengthen Individual Creativity Skills,$741 ,92.10%,25.7% Reliable Evidence,0,0.2482270
+Z01.02.02,Z01.02,Strengthen Creative Community,Arts,Creative Community,Strengthen Creative Community,"$10,088 ",100.00%,16.7% Reliable Evidence,0,0.0425532
+Z01.02.03,Z01.02,Expose New Artistic Talent,Arts,Creative Community,Expose New Artistic Talent,$497 ,97.90%,0.0% Reliable Evidence,0,0.0283688
+Z02.01.01,Z02.01,Community Safety,Criminal Justice,Crime Prevention,Community Safety,,,,0,0.2000000
+Z02.01.02,Z02.01,Reduce Crime,Criminal Justice,Crime Prevention,Reduce Crime,,,,0,0.4000000
+Z02.02.01,Z02.02,Prisoner Re-Entry,Criminal Justice,Criminal Recidivism,Prisoner Re-Entry,"$22,595 ",92.50%,50.0% Reliable Evidence,0,0.4000000
+Z03.01.01,Z03.01,Prevent Child Abuse and Neglect,Critical Human Needs,Child Welfare,Prevent Child Abuse and Neglect,,,,0,0.0075472
+Z03.01.02,Z03.01,Reduce Child Abuse and Neglect Recurrence,Critical Human Needs,Child Welfare,Reduce Child Abuse and Neglect Recurrence,,,,0,0.0075472
+Z03.02.01,Z03.02,Access to Quality Resources,Critical Human Needs,Disability,Access to Quality Resources,"$1,953 ",81.70%,37.5% Reliable Evidence,0,0.0301887
+Z03.02.02,Z03.02,Mental and Physical Well-Being,Critical Human Needs,Disability,Mental and Physical Well-Being,"$2,083 ",85.40%,45.5% Reliable Evidence,0,0.0415094
+Z03.02.03,Z03.02,Social Competence,Critical Human Needs,Disability,Social Competence,"$1,848 ",82.30%,25.0% Reliable Evidence,0,0.0301887
+Z03.02.04,Z03.02,Financial Independence,Critical Human Needs,Disability,Financial Independence,"$72,048 ",47.50%,0.0% Reliable Evidence,0,0.0037736
+Z03.02.05,Z03.02,Academic Performance,Critical Human Needs,Disability,Academic Performance,"$16,396 ",96.40%,50.0% Reliable Evidence,0,0.0075472
+Z03.02.06,Z03.02,Reduce Stigma,Critical Human Needs,Disability,Reduce Stigma,$189 ,94.00%,0.0% Reliable Evidence,0,0.0037736
+Z03.03.01,Z03.03,Access to Nutritious Food,Critical Human Needs,Food Security,Access to Nutritious Food,$171 ,91.00%,10.0% Reliable Evidence,0,0.3396226
+Z03.03.02,Z03.03,Healthy Food Consumption and Behaviour,Critical Human Needs,Food Security,Healthy Food Consumption and Behaviour,$457 ,83.00%,70.0% Reliable Evidence,0,0.0377358
+Z03.03.03,Z03.03,Emergency Supply and Distribution of Food,Critical Human Needs,Food Security,Emergency Supply and Distribution of Food,$708 ,89.00%,0.0% Reliable Evidence,0,0.0452830
+Z03.04.01,Z03.04,Develop Affordable Permanent Housing,Critical Human Needs,Housing,Develop Affordable Permanent Housing,"$363,577 ",80.00%,7.7% Reliable Evidence,0,0.0490566
+Z03.04.03,Z03.04,Housing Stability,Critical Human Needs,Housing,Housing Stability,"$3,973 ",69.50%,44.0% Reliable Evidence,0,0.0943396
+Z03.05.01,Z03.05,Personal Well-Being,Critical Human Needs,Homelessness,Personal Well-Being,"$8,456 ",88.60%,11.1% Reliable Evidence,0,0.0339623
+Z03.05.02,Z03.05,Access to Temporary Housing,Critical Human Needs,Homelessness,Access to Temporary Housing,"$2,723 ",98.60%,11.1% Reliable Evidence,0,0.0679245
+Z03.05.03,Z03.05,Reduce Homelessness,Critical Human Needs,Homelessness,Reduce Homelessness,"$6,330 ",86.80%,48.1% Reliable Evidence,0,0.1018868
+Z03.05.04,Z03.05,Prevent Literal Homelessness through Housing Stabilization,Critical Human Needs,Homelessness,Prevent Literal Homelessness through Housing Stabilization,,,,0,0.0264151
+Z03.05.05,Z03.05,Prevent Literal Homelessness through Housing Retention,Critical Human Needs,Homelessness,Prevent Literal Homelessness through Housing Retention,,,,0,0.0037736
+Z03.06.01,Z03.06,Physical Well-Being,Critical Human Needs,Elderly Care,Physical Well-Being,,,,0,0.0037736
+Z03.06.03,Z03.06,Caregiver Well-Being,Critical Human Needs,Elderly Care,Caregiver Well-Being,$110 ,86.00%,100.0% Reliable Evidence,0,0.0113208
+Z03.06.04,Z03.06,Access to Affordable Housing,Critical Human Needs,Elderly Care,Access to Affordable Housing,,,,0,0.0075472
+Z03.06.05,Z03.06,Access to Legal and Financial Support,Critical Human Needs,Elderly Care,Access to Legal and Financial Support,$807 ,85.00%,50.0% Reliable Evidence,0,0.0075472
+Z03.06.09,Z03.06,Personal Independence and Condition Management,Critical Human Needs,Elderly Care,Personal Independence and Condition Management,,,,0,0.0037736
+Z03.06.10,Z03.06,Aging Awareness and Social Support,Critical Human Needs,Elderly Care,Aging Awareness and Social Support,$760 ,84.10%,33.3% Reliable Evidence,0,0.0339623
+Z04.01.03,Z04.01,Societal Participation,Culture & Identity,Civil Rights & Equality,Societal Participation,$279 ,97.20%,0.0% Reliable Evidence,0,0.0266667
+Z04.02.02,Z04.02,Cultural Educational Experiences,Culture & Identity,Ethnic & Religious Identity,Cultural Educational Experiences,"$1,278 ",94.50%,50.0% Reliable Evidence,0,0.0266667
+Z04.02.03,Z04.02,Cultural Tolerance,Culture & Identity,Ethnic & Religious Identity,Cultural Tolerance,$283 ,90.50%,46.7% Reliable Evidence,0,0.2000000
+Z04.02.04,Z04.02,Cultural Traditions and Heritage,Culture & Identity,Ethnic & Religious Identity,Cultural Traditions and Heritage,$307 ,88.80%,40.0% Reliable Evidence,0,0.0666667
+Z04.02.05,Z04.02,Ethnic or Religious Pride,Culture & Identity,Ethnic & Religious Identity,Ethnic or Religious Pride,,,,0,0.0133333
+Z04.03.01,Z04.03,Ensure Refugee Well-Being,Culture & Identity,Immigration,Ensure Refugee Well-Being,,,,0,0.0133333
+Z04.03.03,Z04.03,Immigrant-Safe Community,Culture & Identity,Immigration,Immigrant-Safe Community,,,,0,0.0133333
+Z04.03.04,Z04.03,Improved Immigration Status,Culture & Identity,Immigration,Improved Immigration Status,"$3,804 ",53.80%,60.0% Reliable Evidence,0,0.0666667
+Z04.03.05,Z04.03,Reduce Risk of Discrimination / Stigma,Culture & Identity,Immigration,Reduce Risk of Discrimination / Stigma,,,,0,0.0133333
+Z04.03.08,Z04.03,Housing Stability,Culture & Identity,Immigration,Housing Stability,"$2,607 ",70.60%,33.3% Reliable Evidence,0,0.0800000
+Z04.03.09,Z04.03,Access to Quality Legal Services,Culture & Identity,Immigration,Access to Quality Legal Services,$311 ,87.90%,0.0% Reliable Evidence,0,0.1866667
+Z04.03.11,Z04.03,Academic Performance,Culture & Identity,Immigration,Academic Performance,,,,0,0.0133333
+Z04.03.12,Z04.03,Job Readiness,Culture & Identity,Immigration,Job Readiness,"$6,755 ",74.90%,25.0% Reliable Evidence,0,0.1066667
+Z04.03.13,Z04.03,Acquire Employment,Culture & Identity,Immigration,Acquire Employment,"$7,909 ",52.10%,16.7% Reliable Evidence,0,0.0800000
+Z04.03.15,Z04.03,Cultural Traditions and Heritage,Culture & Identity,Immigration,Cultural Traditions and Heritage,,,,0,0.0133333
+Z04.04.01,Z04.04,Jewish Connectivity,Culture & Identity,Jewish Engagement,Jewish Connectivity,"$2,964 ",87.30%,66.7% Reliable Evidence,0,0.0400000
+Z04.04.02,Z04.04,Jewish Learning and Culture,Culture & Identity,Jewish Engagement,Jewish Learning and Culture,$136 ,71.70%,50.0% Reliable Evidence,0,0.0266667
+Z04.04.04,Z04.04,Israel Engagement,Culture & Identity,Jewish Engagement,Israel Engagement,,,,0,0.0133333
+Z05.01.01,Z05.01,Develop Community Infrastructure,Economic Development,Local Economic Development,Develop Community Infrastructure,,,,0,0.0041667
+Z05.01.02,Z05.01,Local Economic Growth,Economic Development,Local Economic Development,Local Economic Growth,,,,0,0.0041667
+Z05.02.01,Z05.02,Business Growth,Economic Development,Business Development & Job Creation,Business Growth,"$7,337 ",70.90%,41.7% Reliable Evidence,0,0.0500000
+Z05.02.03,Z05.02,Stimulate Entrepreneurship,Economic Development,Business Development & Job Creation,Stimulate Entrepreneurship,"$3,852 ",90.00%,48.6% Reliable Evidence,0,0.1458333
+Z05.03.01,Z05.03,Job Readiness,Economic Development,Workforce Development,Job Readiness,"$3,034 ",85.80%,34.4% Reliable Evidence,0,0.2541667
+Z05.03.03,Z05.03,Acquire Employment,Economic Development,Workforce Development,Acquire Employment,"$8,336 ",78.00%,12.0% Reliable Evidence,0,0.1041667
+Z05.03.04,Z05.03,Job Quality,Economic Development,Workforce Development,Job Quality,,,,0,0.0041667
+Z05.03.05,Z05.03,Career Advancement,Economic Development,Workforce Development,Career Advancement,"$2,226 ",89.40%,50.0% Reliable Evidence,0,0.0250000
+Z05.03.06,Z05.03,"Acquire Full-time, Non-Seasonal Employment",Economic Development,Workforce Development,"Acquire Full-time, Non-Seasonal Employment","$9,511 ",62.10%,65.2% Reliable Evidence,0,0.0958333
+Z05.04.01,Z05.04,Economic Well-Being,Economic Development,Financial Health,Economic Well-Being,$440 ,70.40%,25.0% Reliable Evidence,0,0.0333333
+Z05.04.02,Z05.04,Financial Literacy,Economic Development,Financial Health,Financial Literacy,$455 ,83.10%,46.4% Reliable Evidence,0,0.2333333
+Z05.04.03,Z05.04,Financial Resilience,Economic Development,Financial Health,Financial Resilience,"$3,059 ",73.00%,27.3% Reliable Evidence,0,0.0458333
+Z06.01.01,Z06.01,Effective School Leadership,Education,Quality Education,Effective School Leadership,,,,0,0.0083102
+Z06.01.02,Z06.01,Effective Teachers,Education,Quality Education,Effective Teachers,"$8,676 ",92.70%,50.0% Reliable Evidence,0,0.0498615
+Z06.01.03,Z06.01,Equitable Education,Education,Quality Education,Equitable Education,"$8,254 ",77.50%,33.3% Reliable Evidence,0,0.0166205
+Z06.01.04,Z06.01,Positive School Environment,Education,Quality Education,Positive School Environment,"$12,007 ",98.60%,27.3% Reliable Evidence,0,0.0304709
+Z06.02.01,Z06.02,Parental Readiness,Education,Early Childhood Education,Parental Readiness,"$8,160 ",83.20%,0.0% Reliable Evidence,0,0.0055402
+Z06.02.02,Z06.02,Social and Emotional Gains,Education,Early Childhood Education,Social and Emotional Gains,"$3,432 ",89.20%,45.0% Reliable Evidence,0,0.0554017
+Z06.02.03,Z06.02,School Readiness,Education,Early Childhood Education,School Readiness,"$2,992 ",84.10%,29.4% Reliable Evidence,0,0.0470914
+Z06.02.04,Z06.02,Development of Tools for Active Learning,Education,Early Childhood Education,Development of Tools for Active Learning,"$4,232 ",77.70%,75.0% Reliable Evidence,0,0.0110803
+Z06.02.05,Z06.02,Mathematics and Science Knowledge Gains,Education,Early Childhood Education,Mathematics and Science Knowledge Gains,,,,0,0.0055402
+Z06.02.06,Z06.02,Oral Language and Emergent Literacy Gains,Education,Early Childhood Education,Oral Language and Emergent Literacy Gains,"$4,289 ",88.70%,75.0% Reliable Evidence,0,0.0110803
+Z06.03.01,Z06.03,School Engagement and Persistence,Education,K-12 Student Achievement,School Engagement and Persistence,"$4,540 ",84.90%,13.3% Reliable Evidence,0,0.0415512
+Z06.03.02,Z06.03,Academic Habits of Mind,Education,K-12 Student Achievement,Academic Habits of Mind,$466 ,87.40%,50.0% Reliable Evidence,0,0.0443213
+Z06.03.03,Z06.03,Improved Academic Performance,Education,K-12 Student Achievement,Improved Academic Performance,"$2,677 ",73.00%,53.8% Reliable Evidence,0,0.1080332
+Z06.03.04,Z06.03,"Improved Academic Attitudes, Beliefs, and Motivations",Education,K-12 Student Achievement,"Improved Academic Attitudes, Beliefs, and Motivations",$597 ,89.00%,42.9% Reliable Evidence,0,0.0193906
+Z06.04.01,Z06.04,STEM Interest,Education,STEM,STEM Interest,"$1,169 ",79.30%,55.6% Reliable Evidence,0,0.0997230
+Z06.04.02,Z06.04,STEM Proficiency,Education,STEM,STEM Proficiency,"$1,404 ",85.10%,65.2% Reliable Evidence,0,0.0637119
+Z06.04.03,Z06.04,STEM Persistence,Education,STEM,STEM Persistence,"$1,618 ",81.90%,75.0% Reliable Evidence,0,0.0110803
+Z06.05.01,Z06.05,High School Completion,Education,College & Career Readiness,High School Completion,"$8,460 ",57.70%,68.4% Reliable Evidence,0,0.0526316
+Z06.05.02,Z06.05,College Access and Readiness,Education,College & Career Readiness,College Access and Readiness,"$2,342 ",85.10%,39.3% Reliable Evidence,0,0.1551247
+Z06.05.03,Z06.05,College Persistence and Completion,Education,College & Career Readiness,College Persistence and Completion,"$3,773 ",81.60%,19.2% Reliable Evidence,0,0.0720222
+Z06.05.04,Z06.05,Career Access and Readiness,Education,College & Career Readiness,Career Access and Readiness,"$5,555 ",75.20%,45.5% Reliable Evidence,0,0.0914127
+Z08.01.01,Z08.01,"Affordable, Quality Healthcare",Public Health,Healthcare Access,"Affordable, Quality Healthcare",$541 ,93.60%,8.3% Reliable Evidence,0,0.0689655
+Z08.01.02,Z08.01,Care Management,Public Health,Healthcare Access,Care Management,"$1,568 ",79.00%,0.0% Reliable Evidence,0,0.0287356
+Z08.02.01,Z08.02,Access to Services and Supports,Public Health,Mental Health,Access to Services and Supports,"$1,927 ",81.40%,20.0% Reliable Evidence,0,0.0574713
+Z08.02.02,Z08.02,Manage Mental Health,Public Health,Mental Health,Manage Mental Health,"$14,120 ",78.70%,30.0% Reliable Evidence,0,0.0574713
+Z08.02.03,Z08.02,Reduce Stigma,Public Health,Mental Health,Reduce Stigma,,,,0,0.0057471
+Z08.03.01,Z08.03,Awareness of Ailment or Condition,Public Health,Patient Advocacy,Awareness of Ailment or Condition,$373 ,95.90%,25.0% Reliable Evidence,0,0.0229885
+Z08.03.04,Z08.03,Patient Quality of Life,Public Health,Patient Advocacy,Patient Quality of Life,"$2,348 ",87.10%,33.3% Reliable Evidence,0,0.0172414
+Z08.04.01,Z08.04,Healthy Relationships,Public Health,Intimate Partner Violence,Healthy Relationships,"$2,847 ",72.30%,53.8% Reliable Evidence,0,0.0747126
+Z08.04.02,Z08.04,Identify and Refer Survivors,Public Health,Intimate Partner Violence,Identify and Refer Survivors,,,,0,0.0172414
+Z08.04.03,Z08.04,Reduce Domestic Violence Recurrence,Public Health,Intimate Partner Violence,Reduce Domestic Violence Recurrence,,,,0,0.0057471
+Z08.04.05,Z08.04,"Survivor Well-Being, Independence, and Financial Empowerment",Public Health,Intimate Partner Violence,"Survivor Well-Being, Independence, and Financial Empowerment","$1,241 ",88.40%,30.7% Reliable Evidence,0,0.5057471
+Z08.05.01,Z08.05,Infant Health,Public Health,Reproductive Health,Infant Health,"$1,268 ",70.00%,0.0% Reliable Evidence,0,0.0172414
+Z08.05.02,Z08.05,Maternal Health,Public Health,Reproductive Health,Maternal Health,$628 ,62.30%,0.0% Reliable Evidence,0,0.0287356
+Z08.05.05,Z08.05,Sexual Health Empowerment,Public Health,Reproductive Health,Sexual Health Empowerment,,,,0,0.0057471
+Z08.06.01,Z08.06,Prevent Substance Abuse,Public Health,Substance Abuse & Addictive Behaviour,Prevent Substance Abuse,,,,0,0.0057471
+Z08.06.03,Z08.06,Patient Quality of Life,Public Health,Substance Abuse & Addictive Behaviour,Patient Quality of Life,,,,0,0.0114943
+Z08.06.04,Z08.06,Reduce Substance Abuse,Public Health,Substance Abuse & Addictive Behaviour,Reduce Substance Abuse,"$16,861 ",37.60%,20.0% Reliable Evidence,0,0.0287356
+Z08.07.01,Z08.07,Healthy Food Consumption and Behaviour,Public Health,Obesity Prevention,Healthy Food Consumption and Behaviour,$496 ,81.10%,66.7% Reliable Evidence,0,0.0172414
+Z08.07.02,Z08.07,Physical Fitness,Public Health,Obesity Prevention,Physical Fitness,$690 ,84.00%,33.3% Reliable Evidence,0,0.0172414
+Z08.07.03,Z08.07,Reduce Obesity,Public Health,Obesity Prevention,Reduce Obesity,$456 ,91.20%,100.0% Reliable Evidence,0,0.0057471
+Z09.01.01,Z09.01,Strengthen Innovation Skills,Science & Technology,Innovation,Strengthen Innovation Skills,"$1,538 ",84.10%,33.3% Reliable Evidence,0,0.2400000
+Z09.01.02,Z09.01,Stimulate Entrepreneurship,Science & Technology,Innovation,Stimulate Entrepreneurship,"$2,378 ",84.10%,33.3% Reliable Evidence,0,0.3600000
+Z09.01.03,Z09.01,Influential Research,Science & Technology,Innovation,Influential Research,"$23,618 ",84.10%,0.0% Reliable Evidence,0,0.2400000
+Z09.01.04,Z09.01,Commercialize Innovations,Science & Technology,Innovation,Commercialize Innovations,,,,0,0.0400000
+Z09.02.01,Z09.02,Develop Technological Skills,Science & Technology,Technological Literacy,Develop Technological Skills,"$3,850 ",96.70%,33.3% Reliable Evidence,0,0.1200000
+Z10.01.01,Z10.01,Climate Change Adaptation,Sustainability and Environment,Climate Change Mitigation & Adaptation,Climate Change Adaptation,,,,0,0.0270270
+Z10.01.02,Z10.01,Climate Change Science and Awareness,Sustainability and Environment,Climate Change Mitigation & Adaptation,Climate Change Science and Awareness,,,,0,0.2162162
+Z10.01.03,Z10.01,Reduce Corporate Carbon Footprint,Sustainability and Environment,Climate Change Mitigation & Adaptation,Reduce Corporate Carbon Footprint,,,,0,0.0540541
+Z10.01.04,Z10.01,Reduce Individual Carbon Footprint,Sustainability and Environment,Climate Change Mitigation & Adaptation,Reduce Individual Carbon Footprint,$67 ,71.40%,33.3% Reliable Evidence,0,0.2432432
+Z10.01.05,Z10.01,Reduce National Carbon Footprint,Sustainability and Environment,Climate Change Mitigation & Adaptation,Reduce National Carbon Footprint,,,,0,0.0270270
+Z10.02.01,Z10.02,Conservation Awareness and Responsibility,Sustainability and Environment,Biodiversity & Habitat Protection,Conservation Awareness and Responsibility,$64 ,91.90%,8.3% Reliable Evidence,0,0.3243243
+Z10.02.02,Z10.02,Habitat Protection,Sustainability and Environment,Biodiversity & Habitat Protection,Habitat Protection,,,,0,0.0540541
+Z10.02.03,Z10.02,Species Conservation,Sustainability and Environment,Biodiversity & Habitat Protection,Species Conservation,,,,0,0.0270270
+Z10.03.01,Z10.03,Animal Wellness,Sustainability and Environment,Animal Welfare,Animal Wellness,,,,0,0.0270270
+Z12.01.01,Z12.01,Civic Engagement,Youth,Youth Development,Civic Engagement,$772 ,90.70%,28.1% Reliable Evidence,0,0.1711230
+Z12.01.02,Z12.01,Independent Living Skills,Youth,Youth Development,Independent Living Skills,"$2,626 ",86.70%,87.5% Reliable Evidence,0,0.0855615
+Z12.01.03,Z12.01,Reduce Risky Behavior,Youth,Youth Development,Reduce Risky Behavior,$345 ,84.50%,38.1% Reliable Evidence,0,0.1122995
+Z12.01.04,Z12.01,Social and Emotional Skills,Youth,Youth Development,Social and Emotional Skills,"$1,998 ",82.50%,50.8% Reliable Evidence,0,0.6310160
+7145,Z06.02.03,Kids are Gr8,,,,"$11,829",,,95,0.0027701
+7683,Z08.06.04,Pathways Bermuda,,,,"$4,154",,,142,0.0057471
+9541,Z12.01.04,Chicago Public Library Foundation,,,,$227,,,3735,0.0053476
+9546,Z06.03.03,City Year Chicago,,,,"$9,069",,,959,0.0027701
+9547,Z06.01.02,Golden Apple Foundation for Excellence in Teaching,,,,"$7,585",,,672,0.0027701
+9549,Z12.01.04,Center on Halsted,,,,"$63,375",,,8,0.0053476
+9550,Z06.05.02,Boys & Girls Clubs of Greater Milwaukee,,,,"$2,239",,,67,0.0027701
+9551,Z03.05.03,Heartland Alliance,,,,"$4,025",,,720,0.0037736
+9552,Z05.03.01,Access Living of Metropolitan Chicago,,,,"$5,126",,,63,0.0041667
+9553,Z06.03.03,Working In The Schools (WITS),,,,"$2,294",,,158,0.0027701
+9554,Z12.01.04,Spark,,,,"$3,213",,,1482,0.0053476
+9556,Z03.04.03,Neighborhood Housing Services (NHS) of Chicago,,,,"$8,434",,,243,0.0037736
+9557,Z03.04.03,Volunteers of America of Illinois,,,,"$6,562",,,299,0.0037736
+9558,Z06.05.02,Springboard to Success,,,,"$3,357",,,14,0.0027701
+9559,Z05.02.03,Sunshine Enterprises,,,,"$3,714",,,225,0.0041667
+9576,Z06.05.01,After School Matters,,,,"$2,137",,,15743,0.0027701
+9594,Z01.01.02,Northshore Schools Foundation,,,,$10,,,1215,0.0070922
+9595,Z08.07.01,Social Enterprise for Canada- Boys and Girls Club of York Region,,,,"$2,540",,,225,0.0057471
+9596,Z04.03.13,La Passerelle-I.D.E.,,,,"$6,190",,,210,0.0133333
+9597,Z04.03.13,County of Wellington Ontario Works,,,,"$12,064",,,10,0.0133333
+9599,Z05.03.04,WoodGreen,,,,"$40,871",,,59,0.0041667
+9600,Z04.03.12,Literacy Link South Central,,,,"$11,000",,,25,0.0133333
+9601,Z04.03.13,Mennonite New Life Centre of Toronto (MNLCT),,,,"$4,179",,,30,0.0133333
+9603,Z04.03.08,CHATS - Community & Home Assistance to Seniors,,,,"$1,602",,,64,0.0133333
+9607,Z04.03.08,YWCA St. Thomas-Elgin,,,,"$2,449",,,49,0.0133333
+9610,Z08.02.01,Tungasuvvingat Inuit,,,,$963,,,114,0.0057471
+9611,Z06.05.03,Six Nations Polytechnic Inc.,,,,$730,,,227,0.0027701
+9612,Z04.03.12,Community Living Essex County,,,,"$2,205",,,98,0.0133333
+9613,Z04.03.04,Legal Aid Society of San Mateo County,,,,"$7,470",,,39,0.0133333
+9614,Z04.03.12,City of Hamilton - Xperience Annex,,,,"$2,000",,,100,0.0133333
+9615,Z09.01.03,University of Western Ontario,,,,"$23,529",,,17,0.0400000
+9616,Z04.03.08,City of Gretaer Sudbury,,,,"$12,077",,,25,0.0133333
+9617,Z04.03.12,Canadore College,,,,"$3,363",,,30,0.0133333
+9619,Z04.03.13,Toronto District School Board,,,,$109,,,4097,0.0133333
+9620,Z06.03.01,John Howard Society of Belleville and District,,,,"$3,250",,,80,0.0027701
+9621,Z06.05.03,District of Nipissing Social Services Administration Board (DNSSAB),,,,"$11,361",,,66,0.0027701
+9622,Z04.03.09,Human Agenda,,,,$397,,,200,0.0133333
+9623,Z04.03.09,Immigrant Legal Resource Center,,,,$57,,,7152,0.0133333
+9624,Z04.03.12,Catholic Family Services Peel Dufferin,,,,"$5,110",,,41,0.0133333
+9625,Z06.03.01,United Way/Centraide Windsor-Essex County,,,,"$4,030",,,119,0.0027701
+9626,Z06.03.01,Youth Opportunities Unlimited,,,,"$7,451",,,63,0.0027701
+9628,Z04.03.08,Western University,,,,$817,,,164,0.0133333
+9629,Z03.04.03,Lawson Health Research Institute,,,,"$1,178",,,55,0.0037736
+9630,Z06.03.01,Culturelink Settlement and Community Services,,,,"$20,889",,,36,0.0027701
+9631,Z03.06.05,McMaster Family Practice,,,,$848,,,70,0.0037736
+9632,Z04.03.04,Catholic Charities,,,,"$1,301",,,548,0.0133333
+9633,Z04.03.08,Mission Services of Hamilton,,,,"$7,037",,,7,0.0133333
+9634,Z09.01.02,Community Innovation Lab,,,,"$16,019",,,43,0.0400000
+9635,Z04.03.12,The Salvation Army Bethany Hope Centre,,,,"$15,610",,,26,0.0133333
+9636,Z03.03.01,FoodShare Toronto,,,,$20,,,32000,0.0037736
+9637,Z03.03.01,FoodShare Toronto,,,,"$2,457",,,164,0.0037736
+9638,Z06.03.01,United Way/Centraide Windsor-Essex County,,,,"$3,338",,,68,0.0027701
+9639,Z09.01.02,Thorncliffe Neighbourhood Office,,,,"$3,955",,,89,0.0400000
+9645,Z04.03.04,Asian Law Alliance,,,,$190,,,5100,0.0133333
+9649,Z04.03.09,Coastside Hope,,,,$527,,,342,0.0133333
+9654,Z04.03.09,Pangea Legal Services,,,,$253,,,200,0.0133333
+9663,Z04.03.04,La Raza Centro Legal,,,,"$1,117",,,665,0.0133333
+9671,Z04.03.04,Community Legal Services in East Palo Alto,,,,"$8,827",,,287,0.0133333
+9677,Z09.01.02,Scadding Court Community Centre,,,,"$1,406",,,86,0.0400000
+9680,Z06.03.01,City of Brantford,,,,"$7,233",,,30,0.0027701
+9681,Z08.04.05,Ayiti Now Corp,,,,$120,,,100,0.0057471
+9683,Z04.03.09,Catholic Charities of Santa Clara County,,,,$762,,,8400,0.0133333
+9684,Z04.03.09,International Institute of the Bay Area,,,,$958,,,1000,0.0133333
+9687,Z03.02.02,City of Mississauga & University of Toronto,,,,$3,,,9860,0.0037736
+9688,Z04.03.09,National Immigration Forum,,,,$468,,,2500,0.0133333
+9690,Z04.03.09,International Rescue Committee,,,,$125,,,467,0.0133333
+9691,Z04.03.09,API Legal Outreach,,,,$430,,,135,0.0133333
+9692,Z04.03.03,Nuestra Casa de East Palo Alto,,,,$7,,,14000,0.0133333
+9693,Z04.03.09,"Services, Immigrant Rights and Education Network (SIREN)",,,,$47,,,9800,0.0133333
+9695,Z04.03.09,CET Immigration and Citizenship Program,,,,$196,,,299,0.0133333
+9699,Z04.03.05,Interfaith Movement for Human Integrity,,,,$526,,,95,0.0133333
+9700,Z04.03.09,Asian Americans Advancing Justice- Asian Law Caucus,,,,$400,,,200,0.0133333
+9706,Z04.02.03,Islamic Networks Group (ING),,,,$0,,,5000000,0.0133333
+9711,Z04.03.09,Puente de la Costa Sur,,,,$72,,,694,0.0133333
+9717,Z02.01.02,Guardian Group,,,,$95,,,2625,0.2000000
+9721,Z06.01.01,Schools That Can Milwaukee,,,,$162,,,15300,0.0027701
+9729,Z06.01.03,New Schools for Chicago,,,,$473,,,2892,0.0027701
+9735,Z06.01.02,Urban Teachers,,,,"$85,447",,,70,0.0027701
+9741,Z09.01.01,iCouldBe,,,,"$1,109",,,901,0.0400000
+9745,Z06.05.03,0,,,,"$2,451",,,574,0.0027701
+9750,Z06.03.03,"CommonLit, Inc.",,,,$9,,,368000,0.0027701
+9768,Z06.03.03,Quill.org,,,,$8,,,120000,0.0027701
+9785,Z06.01.03,Pinecrest Queensway Community Health Center,,,,"$3,856",,,64,0.0027701
+9787,Z03.05.03,Centre for Addiction and Mental Health,,,,"$7,500",,,60,0.0037736
+9797,Z08.02.02,SCHIZOPHRENIA SOCIETY OF ONTARIO,,,,"$51,574",,,2,0.0057471
+9799,Z03.05.03,Shepherds of Good Hope,,,,"$65,569",,,8,0.0037736
+9806,Z05.04.03,United Counties of Leeds and Grenville,,,,"$6,745",,,16,0.0041667
+9812,Z04.03.13,Kingston Community Health Centres,,,,"$50,000",,,10,0.0133333
+9819,Z09.01.02,ACCESS Community Capital Fund,,,,$291,,,1000,0.0400000
+9821,Z09.01.02,Working Women Community Centre,,,,"$5,197",,,63,0.0400000
+9822,Z12.01.04,St. Michael's Hospital,,,,$639,,,180,0.0053476
+9826,Z06.05.02,Kitchener-Waterloo Multicultural Centre,,,,"$4,483",,,24,0.0027701
+9835,Z12.01.04,Klineline Kids Fishing Nonprofit,,,,$54,,,2301,0.0053476
+9844,Z06.04.01,0,,,,"$4,211",,,1308,0.0027701
+9862,Z08.04.05,End Domestic Abuse WI: the Wisconsin Coalition Against Domestic Violence,,,,$70,,,639,0.0057471
+9865,Z05.04.02,Nevada Coalition to End Domestic and Sexual Violence,,,,$687,,,66,0.0041667
+9868,Z06.03.02,Chesterfield County Public Schools,,,,$5,,,789,0.0027701
+9894,Z05.04.02,Georgia Coalition Against Domestic Violence,,,,"$1,316",,,38,0.0041667
+9926,Z04.03.01,New American Pathways,,,,$367,,,3413,0.0133333
+9931,Z08.04.05,Rise Above It Outreach,,,,"$3,158",,,4,0.0057471
+9937,Z08.04.01,"Alpha Chi Omega Fraternity, Inc",,,,$0,,,115000,0.0057471
+9978,Z05.04.02,Vermont Network Against Domestic and Sexual Violence,,,,$149,,,302,0.0041667
+9987,Z06.01.02,Robert R. McCormick Foundation,,,,$0,,,200,0.0027701
+10014,Z05.04.02,NMCADV,,,,$571,,,96,0.0041667
+10023,Z06.03.03,New Horizons of SW FL,,,,"$2,996",,,147,0.0027701
+10024,Z06.03.03,New Horizons of SW FL,,,,"$3,451",,,290,0.0027701
+10027,Z05.04.02,Habitat for Humanity of Michigan,,,,$498,,,426,0.0041667
+10041,Z06.03.03,By The Hand Club For Kids,,,,"$2,597",,,91,0.0027701
+10056,Z12.01.04,"Charity for Change, Inc.",,,,$45,,,8245,0.0053476
+10064,Z03.06.10,Naples Senior Center at JFCS,,,,$154,,,322,0.0037736
+10066,Z06.03.03,The Salvation Army Naples,,,,"$1,203",,,332,0.0027701
+10067,Z06.02.03,Literacy Volunteers of Collier County,,,,$370,,,324,0.0027701
+10070,Z09.01.01,"Gargiulo Education Center, Inc.",,,,"$1,055",,,58,0.0400000
+10071,Z03.02.02,"Avow Hospice, Inc.",,,,$219,,,3200,0.0037736
+10076,Z03.03.03,First Baptist Church of Marco (Family Church),,,,$12,,,20027,0.0037736
+10079,Z03.06.03,Alzheimer's Association Florida Gulf Coast Chapter,,,,$192,,,304,0.0037736
+10080,Z03.06.03,Alzheimer's Association Florida Gulf Coast Chapter,,,,$27,,,304,0.0037736
+10089,Z01.02.01,The Marco Players Theater,,,,$285,,,70,0.0070922
+10092,Z06.03.03,"Big Brothers Big Sisters of the Sun Coast, Inc.",,,,"$1,804",,,1679,0.0027701
+10094,Z06.03.02,The Greater Marco Family YMCA,,,,$95,,,315,0.0027701
+10131,Z06.04.01,KISS Institute For Practical Robotics,,,,$139,,,3240,0.0027701
+10178,Z06.05.04,USO Metropolitan Washington-Baltimore,,,,"$2,000",,,75,0.0027701
+10184,Z06.04.01,Robotics Education & Competition (REC) Foundation,,,,$1,,,319500,0.0027701
+10199,Z06.04.02,JASON Learning,,,,$22,,,18500,0.0027701
+10234,Z06.04.01,Martin Sortun Elementary,,,,$24,,,630,0.0027701
+10252,Z06.05.01,Friends of Youth,,,,"$5,083",,,18,0.0027701
+10268,Z06.04.01,Thunder Mountain Middle School,,,,$104,,,72,0.0027701
+10375,Z03.02.03,The Bermuda Society for the Blind,,,,"$5,434",,,67,0.0037736
+10421,Z05.04.02,Doorways for Women and Families,,,,"$3,830",,,87,0.0041667
+10569,Z10.02.01,"The Battery Conservancy, Inc.",,,,$1,,,3500000,0.0270270
+10575,Z01.01.01,The Metropolitan Museum of Art,,,,$0,,,7000000,0.0070922
+10577,Z06.01.02,Council for Economic Education,,,,$110,,,53350,0.0027701
+10580,Z06.02.02,Place2Be,,,,"$3,501",,,31,0.0027701
+10583,Z10.02.01,The New York Botanical Garden,,,,$75,,,1100000,0.0270270
+10585,Z06.01.04,New York Cares,,,,$76,,,100000,0.0027701
+10586,Z10.02.02,HandsOn Bay Area,,,,"$7,000",,,4,0.0270270
+10592,Z04.03.08,Hamilton Families,,,,$268,,,1453,0.0133333
+10604,Z06.03.02,VocaÛÎ_ÛÎ£o - AÛÎ_ÛÎ£o ComunitÛÎria do Brasil SÛÎ£o Paulo,,,,$0,,,248,0.0027701
+10607,Z09.01.02,Kiva,,,,"$2,186",,,1400,0.0400000
+10622,Z05.03.03,"Year Up, Inc.",,,,"$38,555",,,227,0.0041667
+10623,Z06.05.04,Lutheran Immigration and Refugee Service,,,,"$1,021",,,135,0.0027701
+10624,Z05.03.01,EmployIndy,,,,"$1,379",,,134,0.0041667
+10625,Z05.03.01,Greater Chicago Food Depository,,,,"$19,601",,,51,0.0041667
+10626,Z05.03.03,Upwardly Global,,,,"$5,793",,,284,0.0041667
+10627,Z05.03.01,Boys & Girls Clubs of King County (BGCKC),,,,$564,,,316,0.0041667
+10629,Z03.05.02,Mary's Place,,,,"$4,764",,,2309,0.0037736
+10630,Z05.03.03,Teamwork Englewood,,,,$635,,,79,0.0041667
+10631,Z06.05.04,Community Action Partnership of Kern,,,,$458,,,120,0.0027701
+10633,Z06.05.04,MetroSquash,,,,"$1,054",,,37,0.0027701
+10749,Z12.01.04,Community Theatre of Greensboro,,,,$454,,,350,0.0053476
+10751,Z01.01.02,TheaterWorks,,,,$99,,,3177,0.0070922
+10752,Z06.04.01,"Girls Who Code, Inc.",,,,"$3,571",,,21,0.0027701
+10754,Z03.06.01,WindReach Bermuda,,,,"$17,467",,,21,0.0037736
+10755,Z03.02.02,WindReach Bermuda,,,,"$2,410",,,73,0.0037736
+10758,Z06.04.01,Girls Who Code,,,,"$4,310",,,17,0.0027701
+10759,Z03.03.01,The ARK,,,,$283,,,2500,0.0037736
+10774,Z01.01.02,Kimmel Center Inc.,,,,$91,,,16898,0.0070922
+10801,Z05.03.03,Living Classrooms Foundation,,,,"$12,541",,,85,0.0041667
+10808,Z08.05.01,The Family Tree,,,,"$3,334",,,9500,0.0057471
+10810,Z03.02.01,"V-LINC, Inc.",,,,"$5,285",,,38,0.0037736
+10812,Z04.03.13,"Paul's Place, Inc.",,,,"$15,956",,,42,0.0133333
+10816,Z03.04.01,Habitat for Humanity of the Chesapeake,,,,"$5,844",,,2000,0.0037736
+10817,Z04.03.12,Center for Urban Families,,,,"$18,634",,,351,0.0133333
+10834,Z01.01.01,Currier Museum of Art,,,,$12,,,7800,0.0070922
+10835,Z01.02.01,"Seven Stages, Inc.",,,,$87,,,1020,0.0070922
+10847,Z01.01.01,Musicopia,,,,$72,,,5796,0.0070922
+10855,Z08.01.02,P.A.L.S.,,,,"$6,250",,,300,0.0057471
+10856,Z05.03.01,Council for Economic Education,,,,$338,,,2000,0.0041667
+10874,Z08.06.04,Pathways Bermuda,,,,"$19,208",,,3,0.0057471
+10876,Z06.02.03,BSMART Development Foundation,,,,"$10,909",,,11,0.0027701
+10884,Z01.01.02,El Museo Latino,,,,$4,,,20000,0.0070922
+10885,Z06.04.01,"Girls Who Code, Inc.",,,,"$3,750",,,20,0.0027701
+10897,Z03.02.02,WindReach Bermuda,,,,"$2,749",,,82,0.0037736
+10899,Z03.02.02,WindReach Bermuda,,,,"$6,480",,,60,0.0037736
+10900,Z03.02.02,The Bermuda Society for the Blind,,,,"$11,173",,,20,0.0037736
+10902,Z06.02.02,Tomorrow’s Voices,,,,"$44,615",,,13,0.0027701
+10905,Z03.06.04,Bermuda Housing Trust,,,,$830,,,194,0.0037736
+10958,Z03.02.03,Saint Catherine Center,,,,"$50,781",,,13,0.0037736
+10974,Z05.02.03,Village Capital,,,,"$50,518",,,11,0.0041667
+10976,Z05.03.01,Prep for Prep,,,,"$4,683",,,138,0.0041667
+10982,Z06.03.02,NFTE (Network for Teaching Entrepreneurship),,,,$783,,,383,0.0027701
+11003,Z03.06.05,Age Concern Bermuda,,,,$767,,,150,0.0037736
+11004,Z01.01.02,Joslyn Art Museum,,,,$5,,,47069,0.0070922
+11005,Z01.01.02,"Artreach, Inc.",,,,$2,,,184712,0.0070922
+11008,Z01.01.02,"Dance Project, Inc.",,,,$8,,,2000,0.0070922
+11009,Z01.01.01,"Fort Wayne Philharmonic Orchestra, Inc.",,,,$13,,,29083,0.0070922
+11010,Z01.01.02,Arden Theatre Company,,,,$136,,,2200,0.0070922
+11013,Z04.02.02,Taller Puertorriqueño,,,,$334,,,1780,0.0133333
+11016,Z03.02.03,Omaha Theater Company,,,,$125,,,12,0.0037736
+11017,Z01.01.02,"Eastern Music Festival, Inc.",,,,$14,,,4500,0.0070922
+11018,Z01.01.02,Fort Wayne Ballet,,,,$13,,,16207,0.0070922
+11019,Z12.01.04,Hartford Stage Company,,,,$655,,,440,0.0053476
+11020,Z01.01.02,United Arts Council of Greater Greensboro dba ArtsGreensboro,,,,$8,,,487500,0.0070922
+11021,Z01.01.02,The Clay Studio,,,,$92,,,3186,0.0070922
+11022,Z01.01.02,The Music Academy of North Carolina,,,,$7,,,6100,0.0070922
+11025,Z01.02.01,"Fort Wayne Children's Choir, Inc.",,,,$292,,,1358,0.0070922
+11027,Z01.01.02,"Foundation for Art and Music In Elementary Education, Inc.",,,,$7,,,3500,0.0070922
+11033,Z01.02.01,Philadelphia Mural Arts Advocates,,,,$847,,,1900,0.0070922
+11034,Z01.02.01,Triad Stage,,,,$14,,,10934,0.0070922
+11035,Z01.02.01,Greater Hartford Arts Council,,,,"$1,577",,,97,0.0070922
+11041,Z01.01.01,"Embassy Theatre Foundation, Inc.",,,,$7,,,5343,0.0070922
+11042,Z01.01.01,Horace Bushnell Memorial Hall Corporation,,,,$57,,,10000,0.0070922
+11043,Z01.01.01,New Hampshire Music Festival,,,,$12,,,5200,0.0070922
+11044,Z01.01.01,Fort Wayne Museum of Art,,,,$5,,,22160,0.0070922
+11045,Z01.01.01,Wadsworth Atheneum Museum of Art,,,,$30,,,8799,0.0070922
+11046,Z01.01.01,Touring Theatre of North Carolina,,,,$19,,,800,0.0070922
+11047,Z01.01.01,Philadelphia Museum of Art,,,,"$2,128",,,50,0.0070922
+11048,Z01.01.01,Philadelphia Orchestra Association,,,,$12,,,16000,0.0070922
+11049,Z01.01.01,Philadelphia Museum of Art,,,,$33,,,4660,0.0070922
+11050,Z01.01.01,Omaha Theater Company,,,,$7,,,1240,0.0070922
+11052,Z01.01.01,Hartford Symphony Orchestra,,,,$25,,,3020,0.0070922
+11053,Z01.01.01,Red River Theatres,,,,$21,,,800,0.0070922
+11054,Z01.01.01,Fleisher Art Memorial,,,,$408,,,357,0.0070922
+11056,Z01.01.01,The Union for Contemporary Art,,,,$422,,,340,0.0070922
+11057,Z01.01.01,Omaha Symphony Association,,,,$24,,,24806,0.0070922
+11059,Z01.01.01,"Fort Wayne Civic Theatre, Inc.",,,,$21,,,4500,0.0070922
+11060,Z01.01.01,Barnes Foundation,,,,$76,,,8900,0.0070922
+11061,Z08.05.01,United Way of Greater Milwaukee & Waukesha County,,,,$175,,,2856,0.0057471
+11062,Z01.02.01,The Rock School for Dance Education,,,,$102,,,6500,0.0070922
+11063,Z01.02.01,Fort Wayne Dance Collective,,,,$125,,,994,0.0070922
+11064,Z01.02.02,Greater Philadelphia Cultural Alliance,,,,"$5,267",,,434,0.0070922
+11066,Z01.02.03,Nebraska Writers Collective,,,,$482,,,550,0.0070922
+11069,Z03.02.02,Concord Community Music School,,,,$213,,,772,0.0037736
+11070,Z03.02.03,WhyArts inc,,,,$29,,,486,0.0037736
+11092,Z06.04.01,Homewood Science Center,,,,$113,,,398,0.0027701
+11093,Z06.04.01,Project Exploration,,,,"$1,194",,,125,0.0027701
+11101,Z09.01.01,NFTE,,,,$299,,,1340,0.0400000
+11106,Z06.04.03,CodePath.org,,,,$500,,,1000,0.0027701
+11122,Z06.03.03,"Young Audiences of Maryland, Inc.",,,,"$2,132",,,1589,0.0027701
+11123,Z06.01.02,Waterfront Partnership of Baltimore,,,,"$2,487",,,16,0.0027701
+11124,Z06.05.01,"Baltimore School for the Arts Foundation, Inc.",,,,"$32,141",,,92,0.0027701
+11125,Z06.02.03,"Port Discovery Children's Museum (legal name: Baltimore Children""s Museum, Inc.)",,,,$17,,,33750,0.0027701
+11126,Z04.02.04,Maryland Historical Society,,,,$34,,,85000,0.0133333
+11127,Z01.01.02,Community Concerts at Second,,,,$326,,,500,0.0070922
+11128,Z01.01.02,The Baltimore Museum of Art,,,,$79,,,224818,0.0070922
+11130,Z01.01.01,Chesapeake Shakespeare Company,,,,$71,,,15562,0.0070922
+11131,Z01.02.02,Greater Baltimore Cultural Alliance,,,,"$24,164",,,9,0.0070922
+11132,Z01.02.02,Greater Baltimore Cultural Alliance,,,,$645,,,121,0.0070922
+11150,Z01.01.01,"Baltimore Chamber Orchestra, Inc.",,,,$79,,,3420,0.0070922
+11151,Z06.03.02,Baltimore Museum of Industry,,,,$25,,,22840,0.0027701
+11153,Z01.01.01,Baltimore Symphony Orchestra,,,,$11,,,24250,0.0070922
+11154,Z01.01.01,Baltimore Center Stage,,,,$97,,,5851,0.0070922
+11157,Z09.01.02,Impact Hub Baltimore,,,,"$1,290",,,310,0.0400000
+11158,Z06.02.02,"Irvine Natural Science Center, Inc.",,,,$174,,,115,0.0027701
+11159,Z06.04.01,Maryland Academy of Sciences at the Maryland Science Center,,,,$40,,,40000,0.0027701
+11160,Z10.02.01,"Maryland Zoological Society, Inc.",,,,$288,,,54177,0.0270270
+11164,Z10.02.01,The National Aquarium,,,,$37,,,1300000,0.0270270
+11165,Z01.02.03,The Peabody Institute of the Johns Hopkins University,,,,"$81,987",,,631,0.0070922
+11166,Z04.02.04,"Star-Spangled Banner Flag House Association, Inc.",,,,$36,,,4381,0.0133333
+11168,Z06.03.02,Reginald F. Lewis Museum of African American History & Culture,,,,$13,,,3500,0.0027701
+11174,Z06.01.01,The Chicago Public Education Fund,,,,"$3,226",,,310,0.0027701
+11181,Z01.02.01,"Baltimore School for the Arts Foundation, Inc.",,,,$757,,,654,0.0070922
+11188,Z06.04.02,Union League Boys and Girls Clubs of Chicago,,,,"$1,000",,,75,0.0027701
+11189,Z06.04.01,"Chicago Architecture Foundation, DBA Chicago Architecture Center (CAC)",,,,"$1,480",,,32,0.0027701
+11192,Z06.04.01,"Pathway to Adventure Council, Boy Scouts of America",,,,$309,,,320,0.0027701
+11193,Z06.04.01,After School Matters,,,,"$4,608",,,22,0.0027701
+11204,Z06.05.03,Knowledge Quest Ltd.,,,,"$1,854",,,147,0.0027701
+11205,Z03.06.10,Boccia Bermuda,,,,$900,,,57,0.0037736
+11206,Z06.05.04,"The Epsilon Theta Lambda Chapter of Alpha Phi Alpha Fraternity, Inc.",,,,"$8,800",,,5,0.0027701
+11207,Z01.02.01,Bermuda School of Music,,,,$833,,,24,0.0070922
+11209,Z12.01.04,Bermuda Basketball Association,,,,$19,,,135,0.0053476
+11211,Z06.02.02,Bermuda National Gallery,,,,$65,,,382,0.0027701
+11212,Z10.02.01,Bermuda Zoological Society,,,,$596,,,8392,0.0270270
+11213,Z08.07.02,Bermuda Sanshou Association,,,,$56,,,54,0.0057471
+11214,Z03.04.01,Bermuda Housing Trust,,,,"$6,667",,,180,0.0037736
+11215,Z12.01.03,Bermudas Brazilian Football School,,,,$25,,,600,0.0053476
+11216,Z12.01.03,Bermuda National Athletics Association,,,,"$23,098",,,10,0.0053476
+11217,Z05.02.01,Bermuda College,,,,"$24,333",,,13,0.0041667
+11219,Z03.05.03,The Salvation Army Bermuda,,,,"$1,305",,,1500,0.0037736
+11220,Z06.03.02,Bermuda Underwater Exploration Institute (BUEI),,,,$124,,,2700,0.0027701
+11225,Z06.04.02,Blok by Blok Chicago,,,,$200,,,90,0.0027701
+11228,Z06.03.03,Adult Education School,,,,"$3,116",,,60,0.0027701
+11229,Z06.04.02,Chicago Pre-College Science and Engineering Program (ChiS&E),,,,"$1,575",,,38,0.0027701
+11232,Z06.04.02,DePaul University,,,,"$7,195",,,18,0.0027701
+11239,Z08.01.01,Bermuda Diabetes Association,,,,$600,,,3500,0.0057471
+11240,Z06.04.01,Museum of Science and Industry,,,,"$1,667",,,30,0.0027701
+11245,Z06.04.01,Universidad Popular,,,,$466,,,40,0.0027701
+11246,Z06.04.03,Project SYNCERE,,,,"$3,684",,,19,0.0027701
+11248,Z06.04.02,National Museum of Mexican Art,,,,"$4,025",,,34,0.0027701
+11249,Z06.04.02,Loyola University Chicago,,,,$590,,,85,0.0027701
+11250,Z06.04.02,IMPACT Family Center,,,,"$2,193",,,228,0.0027701
+11251,Z06.04.02,High Jump,,,,$398,,,350,0.0027701
+11253,Z06.04.02,Family Matters Inc.,,,,$417,,,12,0.0027701
+11254,Z06.04.01,Community Television Network,,,,"$1,832",,,25,0.0027701
+11255,Z06.04.02,CoderDojoChi,,,,"$1,667",,,75,0.0027701
+11256,Z06.04.03,"CodeNow, Inc.",,,,$669,,,136,0.0027701
+11257,Z06.04.01,Code Nation,,,,"$1,551",,,456,0.0027701
+11258,Z06.04.03,Classroom Inc.,,,,"$2,000",,,15,0.0027701
+11271,Z04.02.04,"Star-Spangled Banner Flag House Association, Inc.",,,,$36,,,4381,0.0133333
+11277,Z01.02.02,Maryland Institute College of Art,,,,"$33,200",,,2500,0.0070922
+11278,Z01.01.01,"Intersection of Change, Inc.",,,,$237,,,1733,0.0070922
+11281,Z01.01.01,The Walters Art Museum,,,,$80,,,55800,0.0070922
+11284,Z03.02.05,Bermuda Centre for Creative Learning,,,,"$28,692",,,26,0.0037736
+11285,Z06.03.03,Adult Education School,,,,"$8,640",,,6,0.0027701
+11286,Z12.01.04,Bermuda Cricket Board,,,,"$1,206",,,100,0.0053476
+11287,Z03.04.01,Bermuda Housing Trust,,,,"$4,634",,,8,0.0037736
+11288,Z09.01.01,Bermuda Institute of Ocean Sciences,,,,$407,,,1000,0.0400000
+11292,Z12.01.04,Bermuda Sloop Foundation,,,,"$8,275",,,240,0.0053476
+11293,Z03.02.01,The Bermuda Society for the Blind,,,,"$4,245",,,91,0.0037736
+11294,Z10.02.01,Bemuda Zoological Society,,,,$65,,,7975,0.0270270
+11296,Z06.02.03,BSMART Development Foundation,,,,"$4,786",,,14,0.0027701
+11298,Z06.02.02,BSMART Development Foundation,,,,$83,,,150,0.0027701
+11299,Z12.01.04,Endeavour Community Sailing,,,,"$1,167",,,480,0.0053476
+11300,Z06.05.02,IMPACT Mentoring Academy,,,,"$332,500",,,2,0.0027701
+11301,Z03.03.01,Meals on Wheels,,,,"$1,548",,,325,0.0037736
+11303,Z09.01.02,Amref Flying Doctors,,,,"$14,186",,,12,0.0400000
+11304,Z09.01.03,Epicentre Niger,,,,"$5,675",,,20,0.0400000
+11305,Z05.03.05,Amref Flying Doctors,,,,$74,,,1200,0.0041667
+11306,Z12.01.04,IMC Weekendschool,,,,"$1,609",,,120,0.0053476
+11307,Z09.01.03,The World Academy of Sciences,,,,"$8,000",,,10,0.0400000
+11308,Z06.02.01,"Calvina J. Simons, Newborn Care Specialist",,,,$59,,,68,0.0027701
+11309,Z06.02.03,The Reading Clinic,,,,$882,,,110,0.0027701
+11310,Z06.03.02,The Reading Clinic,,,,"$4,333",,,60,0.0027701
+11312,Z06.02.03,Union Square Productions,,,,$71,,,70,0.0027701
+11313,Z03.01.01,SCARS (Saving Children and Revealing Secrets),,,,$114,,,70,0.0037736
+11315,Z01.02.01,Baltimore Rock Opera Society (BROS),,,,$170,,,148,0.0070922
+11318,Z09.01.01,Imperial College London,,,,"$4,802",,,84,0.0400000
+11321,Z06.04.01,The New York Academy of Sciences,,,,$720,,,625,0.0027701
+11330,Z12.01.04,Mindful Bermuda,,,,$74,,,270,0.0053476
+11331,Z06.02.02,YouthNet,,,,$986,,,207,0.0027701
+11333,Z09.01.03,The Elsevier Foundation,,,,"$42,500",,,2,0.0400000
+11334,Z04.02.03,Citizens Uprooting Racism in Bermuda (CURB),,,,$737,,,95,0.0133333
+11338,Z01.01.01,Bermuda National Gallery,,,,$9,,,1622,0.0070922
+11340,Z09.01.03,Organization for Women in Science in the Developing World (OWSD),,,,"$12,000",,,5,0.0400000
+11347,Z03.02.01,Equip for Equality,,,,"$1,280",,,1050,0.0037736
+11348,Z08.03.01,Open Airways,,,,$82,,,1025,0.0057471
+11349,Z06.05.02,Chicago Botanic Garden,,,,"$5,299",,,62,0.0027701
+11350,Z05.02.03,Young Women's Christian Association Oahu,,,,$750,,,60,0.0041667
+11351,Z10.02.02,Bermuda National Trust,,,,$633,,,3000,0.0270270
+11391,Z12.01.04,Philadelphia Young Playwrights,,,,$614,,,1700,0.0053476
+11402,Z06.04.01,Code in the Schools,,,,$750,,,80,0.0027701
+11403,Z06.03.02,"Baltimore Area Council, Boy Scouts of America",,,,$256,,,2280,0.0027701
+11404,Z06.05.01,Baltimore Educational Scholarship Trust,,,,"$14,518",,,28,0.0027701
+11408,Z06.03.02,Baltimore Urban Debate League,,,,$697,,,692,0.0027701
+11409,Z06.05.02,"The Baltimore Youth Alliance, Inc.",,,,$724,,,144,0.0027701
+11411,Z06.03.03,St. Vincent de Paul of Baltimore,,,,"$3,192",,,91,0.0027701
+11412,Z06.05.01,Children's Scholarship Fund Baltimore,,,,"$2,268",,,269,0.0027701
+11413,Z06.05.03,"CollegeBound Foundation, Inc.",,,,"$10,000",,,18,0.0027701
+11415,Z09.02.01,"Teach For America, Inc.",,,,"$2,500",,,40,0.0400000
+11416,Z06.01.02,"Teach For America, Inc.",,,,"$8,824",,,17,0.0027701
+11417,Z06.01.02,"Teach For America, Inc.",,,,"$12,500",,,20,0.0027701
+11420,Z12.01.04,Holistic Life Foundation,,,,$37,,,9000,0.0053476
+11422,Z06.03.03,The Ingenuity Project,,,,$398,,,641,0.0027701
+11423,Z06.05.04,Maryland Business Roundtable for Education,,,,$4,,,1250,0.0027701
+11426,Z06.01.02,Maryland Council on Economic Education,,,,$200,,,100,0.0027701
+11432,Z06.01.01,New Leaders,,,,"$50,992",,,18,0.0027701
+11433,Z06.05.02,Next One Up,,,,"$5,118",,,68,0.0027701
+11435,Z06.01.02,Ready At Five,,,,"$2,782",,,390,0.0027701
+11436,Z06.05.01,South Baltimore Learning Corp (SBLC),,,,"$3,212",,,33,0.0027701
+11437,Z12.01.01,Stevenson University,,,,"$1,667",,,6,0.0053476
+11439,Z06.01.02,Urban Teachers,,,,"$27,396",,,238,0.0027701
+11449,Z06.01.02,Teach for America Baltimore,,,,"$21,054",,,72,0.0027701
+11453,Z06.05.02,"Building Science Technology And Education Partnerships, Inc.",,,,"$2,132",,,296,0.0027701
+11454,Z06.03.01,Baltimore Community Foundation/Middle Grades Partnership,,,,"$2,253",,,455,0.0027701
+11455,Z06.05.02,St. Paul's School - Bridges,,,,"$72,727",,,11,0.0027701
+11457,Z06.04.02,ChiS&E,,,,"$1,750",,,40,0.0027701
+11466,Z12.01.04,Youth & Opportunity United (Y.O.U.),,,,"$5,452",,,650,0.0053476
+11467,Z01.01.01,Capitol Center for the Arts,,,,$11,,,9000,0.0070922
+11474,Z04.01.03,"Volunteer Lawyer Program of Northeast Indiana, Inc.",,,,$139,,,2100,0.0133333
+11481,Z08.04.05,HAVEN,,,,$238,,,42,0.0057471
+11483,Z05.03.03,"Easterseals Arc of Northeast Indiana, Inc",,,,"$3,581",,,148,0.0041667
+11485,Z05.04.02,Boys & Girls Clubs of Southwest Missouri,,,,$7,,,325,0.0041667
+11490,Z05.04.02,Arizona Council on Economic Education,,,,$2,,,160000,0.0041667
+11494,Z06.01.03,Houston Independent School District Foundation,,,,$239,,,1675,0.0027701
+11495,Z12.01.03,Injury Free Coalition for Kids of Rochester,,,,$17,,,900,0.0053476
+11496,Z05.03.01,Junior Achievement of Southwest Virginia,,,,$12,,,571,0.0041667
+11497,Z12.01.04,La Maestra Foundation,,,,"$2,857",,,150,0.0053476
+11506,Z08.04.05,Harbor House Domestic Abuse Programs,,,,$533,,,1126,0.0057471
+11508,Z12.01.04,Project&,,,,$628,,,285,0.0053476
+11511,Z06.03.02,PAST Foundation,,,,$54,,,5075,0.0027701
+11514,Z05.04.02,Junior Achievement of Central Ohio,,,,$69,,,13000,0.0041667
+11515,Z06.05.02,I Know I Can,,,,$226,,,7078,0.0027701
+11516,Z12.01.04,Ohio Energy Project,,,,$126,,,835,0.0053476
+11517,Z06.01.02,Ohio Energy Project,,,,$233,,,450,0.0027701
+11518,Z05.04.01,GRID Alternatives,,,,"$23,816",,,1652,0.0041667
+11519,Z05.03.01,IMPACT Community Action,,,,"$7,761",,,46,0.0041667
+11520,Z05.03.01,Ohio Energy Project,,,,$194,,,175,0.0041667
+11521,Z10.01.04,Ohio Energy Project,,,,$52,,,32637,0.0270270
+11522,Z05.04.01,HandsOn Central Ohio,,,,$3,,,500000,0.0041667
+11534,Z03.05.02,American Red Cross,,,,$896,,,1430,0.0037736
+11536,Z08.03.04,Cancer Services of Allen County dba Cancer Services of Northeast Indiana,,,,$340,,,3772,0.0057471
+11537,Z03.05.03,Mental Health America of Northeast Indiana,,,,"$9,770",,,25,0.0037736
+11539,Z08.01.01,Eagles Charitable Foundation,,,,$293,,,2739,0.0057471
+11540,Z08.04.05,"WINGS Program, Inc.",,,,"$5,455",,,448,0.0057471
+11541,Z12.01.01,MPSSAA,,,,$202,,,900,0.0053476
+11554,Z03.04.03,"Habitat for Humanity Philadelphia, Inc.",,,,"$4,651",,,334,0.0037736
+11555,Z05.04.02,Junior Achievement of Central Maryland,,,,$36,,,12600,0.0041667
+11560,Z05.04.02,Junior Achievement of Chicago,,,,$19,,,5367,0.0041667
+11561,Z05.04.02,"Junior Achievement of North Central Ohio, Inc.",,,,$33,,,20154,0.0041667
+11563,Z12.01.01,MPSSAA,,,,$207,,,414,0.0053476
+11564,Z05.04.02,Arizona Council on Economic Education,,,,$1,,,199262,0.0041667
+11591,Z08.04.05,Jane Doe Inc.,,,,"$4,058",,,31,0.0057471
+11635,Z05.04.03,YWCA,,,,$718,,,265,0.0041667
+11663,Z06.03.03,Urban Initiatives,,,,"$3,881",,,138,0.0027701
+11680,Z05.04.02,Boys & Girls Clubs of Northeast Florida,,,,$63,,,400,0.0041667
+11696,Z01.01.02,UMBC Foundation,,,,$200,,,100,0.0070922
+11704,Z04.03.12,Dress for Success Northern New Jersey -- 10 Counties,,,,$360,,,1136,0.0133333
+11707,Z03.04.03,Philadelphia VIP,,,,"$1,807",,,492,0.0037736
+11708,Z12.01.04,Erin's House for Grieving Children,,,,$446,,,1960,0.0053476
+11711,Z03.05.02,"Interfaith Hospitality Network of Greater Fort Wayne, Inc.",,,,"$2,110",,,263,0.0037736
+11712,Z03.06.10,Senior Resources of Guilford,,,,"$1,015",,,613,0.0037736
+11715,Z03.02.01,"Inglis Foundation, Philadelphia, PA",,,,$766,,,541,0.0037736
+11717,Z03.03.01,"Community Harvest Food Bank of Northeast Indiana, Inc.",,,,$42,,,85000,0.0037736
+11718,Z03.05.02,Veterans Multi-Service Center,,,,$126,,,2463,0.0037736
+11721,Z03.05.03,Together Inc of Metropolitan Omaha,,,,$642,,,1368,0.0037736
+11722,Z03.04.01,Habitat for Humanity of Omaha,,,,"$198,823",,,9,0.0037736
+11736,Z05.04.02,Junior Achievement of Central Maryland,,,,$61,,,9000,0.0041667
+11740,Z08.04.05,Rhode Island Coalition Against Domestic Violence,,,,$100,,,687,0.0057471
+11742,Z05.04.02,Junior Achievement of Southeastern Michigan,,,,$12,,,46400,0.0041667
+11744,Z05.03.01,Junior Achievement of North Central Ohio,,,,$31,,,21948,0.0041667
+11747,Z03.05.03,The Servant Center,,,,"$8,022",,,66,0.0037736
+11765,Z10.01.02,"Simon Kenton Council, Boy Scouts of America",,,,$300,,,50,0.0270270
+11766,Z05.03.01,Per Scholas,,,,"$10,068",,,86,0.0041667
+11771,Z08.04.05,"Center for Nonviolence, Inc",,,,"$2,159",,,158,0.0057471
+11782,Z03.01.02,"SCAN, Inc.",,,,"$2,345",,,2499,0.0037736
+11785,Z03.05.02,Greensboro Urban Ministry,,,,$553,,,771,0.0037736
+11786,Z03.05.03,Mercy Housing and Shelter Corporation,,,,"$42,983",,,58,0.0037736
+11791,Z03.05.03,Valley Youth House,,,,"$5,319",,,50,0.0037736
+11794,Z03.03.01,Capitol Region Food Program dba Capital Region Food Program,,,,$12,,,6953,0.0037736
+11796,Z03.05.02,Friends Program,,,,"$31,292",,,53,0.0037736
+11815,Z12.01.04,LOFT Community Services,,,,"$2,751",,,624,0.0053476
+11820,Z06.03.01,New Path Foundation,,,,"$1,048",,,10,0.0027701
+11822,Z08.05.02,Partners In Health Canada,,,,"$2,381",,,42,0.0057471
+11827,Z05.04.01,Canadian Feed The Children,,,,$65,,,266,0.0041667
+11828,Z06.02.03,The Children's Book Bank,,,,"$4,651",,,43,0.0027701
+11829,Z02.01.01,Book Clubs For Inmates,,,,$955,,,240,0.2000000
+11831,Z06.01.04,The Boundless School,,,,"$5,498",,,227,0.0027701
+11832,Z03.02.03,Geneva Centre for Autism Foundation,,,,"$1,196",,,160,0.0037736
+11839,Z08.07.01,Community Food Centres Canada,,,,$140,,,2550,0.0057471
+11841,Z10.01.02,Environmental Defence Canada Inc.,,,,$0,,,26887500,0.0270270
+11854,Z08.05.01,CARE Canada,,,,$392,,,16750,0.0057471
+11858,Z06.02.02,Nanny Angel Network,,,,$453,,,562,0.0027701
+11859,Z06.03.01,Pathways to Education Canada,,,,"$5,342",,,3238,0.0027701
+11864,Z10.01.05,Sustainability Network,,,,"$2,556",,,9,0.0270270
+11867,Z12.01.01,Tides Canada Foundation,,,,"$10,878",,,19,0.0053476
+11869,Z06.02.03,Fred Victor,,,,"$1,400",,,70,0.0027701
+11870,Z10.01.04,Earth Rangers,,,,$21,,,1864,0.0270270
+11890,Z05.04.02,Arizona Coalition to End Sexual and Domestic Violence,,,,"$1,442",,,52,0.0041667
+11891,Z08.04.05,Delaware Coalition Against Domestic Violence,,,,$599,,,142,0.0057471
+11892,Z08.04.05,"Indiana Coalition Against Domestic Violence, Inc.",,,,$227,,,440,0.0057471
+11894,Z08.04.05,Iowa Coalition Against Domestic Violence,,,,$169,,,422,0.0057471
+11896,Z12.01.02,"Junior Achievement of Georgia, Inc.",,,,$30,,,31000,0.0053476
+11897,Z12.01.04,Health World Education Ltd,,,,$2,,,9000,0.0053476
+11898,Z12.01.04,"Health World, Inc",,,,$2,,,14475,0.0053476
+11899,Z06.05.02,"100 BLACK MEN OF ATLANTA, INC",,,,$514,,,70,0.0027701
+11900,Z08.04.05,DOVE Center,,,,"$2,261",,,115,0.0057471
+11903,Z08.04.05,Friendship Home of Lincoln,,,,"$4,004",,,655,0.0057471
+11905,Z05.04.02,Junior Achievement of Arizona,,,,$71,,,20459,0.0041667
+11908,Z08.04.05,Houston Area Women's Center,,,,"$2,457",,,226,0.0057471
+11910,Z05.04.02,"La Casa, Inc.",,,,$485,,,103,0.0041667
+11911,Z12.01.04,"Lancaster City Police Foundation, Lancaster PAL",,,,$533,,,375,0.0053476
+11912,Z12.01.04,Lancaster City Police Foundation (Lancaster PAL),,,,$571,,,350,0.0053476
+11913,Z03.03.01,"Aging & In-Home Services of Northeast Indiana, Inc.",,,,$632,,,1050,0.0037736
+11925,Z03.05.03,Home Suite Hope Shared Living Corp.,,,,"$5,646",,,96,0.0037736
+11941,Z03.05.01,Homeless Advocacy Project (HAP),,,,"$1,115",,,1402,0.0037736
+11951,Z08.04.05,Louisiana Coalition Against Domestic Violence (LCADV),,,,$360,,,198,0.0057471
+11953,Z08.04.05,Maine Coalition to End Domestic Violence,,,,$976,,,73,0.0057471
+11955,Z08.04.05,New Hamsphire Coalition Against Domestic and Sexual Violence,,,,$159,,,1350,0.0057471
+11956,Z08.04.05,New Mexico Coalition Against Domestic Violence,,,,$423,,,130,0.0057471
+11965,Z08.04.05,Pennsylvania Coalition Against Domestic Violence,,,,$135,,,3334,0.0057471
+11968,Z08.04.05,Texas Council on Family Violence,,,,$39,,,1375,0.0057471
+11969,Z08.04.05,Utah Domestic Violence Coalition,,,,$48,,,1556,0.0057471
+11974,Z08.04.05,Domestic Abuse Project of Delaware County,,,,$142,,,235,0.0057471
+11977,Z08.04.05,"Holly's House, Inc.",,,,"$1,410",,,150,0.0057471
+11979,Z08.04.05,"Texas Advocacy Project, Inc.",,,,$533,,,4313,0.0057471
+11980,Z12.01.03,Vanderbilt University Medical Center,,,,$94,,,1700,0.0053476
+11981,Z08.04.05,YWCA OKC,,,,"$1,032",,,4305,0.0057471
+11982,Z06.03.02,Junior Achievement of Southwest Virginia,,,,$7,,,1150,0.0027701
+11994,Z09.01.04,National Renewable Energy Laboratory,,,,"$234,228",,,23,0.0400000
+12003,Z08.02.01,Sinai Health System,,,,"$4,259",,,49,0.0057471
+12006,Z03.04.01,Mercy Housing California,,,,"$17,981",,,470,0.0037736
+12007,Z05.04.03,Local Initiatives Support Corporation (LISC),,,,$693,,,12530,0.0041667
+12010,Z05.04.02,Communication Service for the Deaf,,,,$645,,,155,0.0041667
+12014,Z12.01.01,Warwick Academy,,,,$500,,,40,0.0053476
+12015,Z08.05.02,HealthBridge Foundation of Canada,,,,$541,,,9000,0.0057471
+12016,Z03.05.04,Aunt Leah's Independant Lifeskills Society,,,,"$15,287",,,17,0.0037736
+12017,Z12.01.04,Level. Changing Lives Through Law (Ãgaliser. Changeons des vies par le droit),,,,"$1,488",,,252,0.0053476
+12019,Z06.05.04,Youth Employment Services YES,,,,"$2,734",,,5172,0.0027701
+12020,Z12.01.04,Nanny Angel Network,,,,"$1,184",,,266,0.0053476
+12021,Z08.05.02,Jessie's - The June Callwood Centre for Young Women,,,,$382,,,935,0.0057471
+12024,Z12.01.04,York Region Rose of Sharon Services for Young Mothers,,,,"$6,005",,,276,0.0053476
+12026,Z05.04.02,Home Suite Hope Shared Services Ltd,,,,"$2,250",,,12,0.0041667
+12027,Z12.01.01,The Leacock Foundation,,,,"$1,100",,,50,0.0053476
+12028,Z03.04.03,Local Initiatives Support Corporation (LISC),,,,$875,,,120,0.0037736
+12029,Z03.04.03,National Urban League,,,,"$4,298",,,549,0.0037736
+12035,Z05.04.02,Greensboro Housing Coalition,,,,$99,,,302,0.0041667
+12066,Z05.02.03,"PathStone Enterprise Center, Inc.",,,,"$1,829",,,820,0.0041667
+12069,Z05.04.02,Grameen Foundation,,,,$18,,,5508,0.0041667
+12075,Z03.04.01,Prosperity Now,,,,"$28,721",,,45,0.0037736
+12080,Z05.02.01,Latino Business Action Network,,,,"$3,781",,,129,0.0041667
+12121,Z05.02.03,Local Initiatives Support Corporation (LISC),,,,"$25,000",,,40,0.0041667
+12124,Z12.01.04,PRIDE Bermuda,,,,$914,,,93,0.0053476
+12131,Z05.02.01,BBIF Florida,,,,"$45,000",,,10,0.0041667
+12132,Z03.05.02,Covenant House Toronto,,,,"$8,026",,,750,0.0037736
+12134,Z03.02.03,Geneva Centre for Autism Foundation,,,,$664,,,301,0.0037736
+12136,Z06.05.02,Greater Twin Cities United Way (GTCUW),,,,"$1,240",,,1693,0.0027701
+12137,Z06.05.03,Indspire,,,,"$4,861",,,3850,0.0027701
+12139,Z12.01.04,The Regent Park School of Music,,,,"$1,000",,,100,0.0053476
+12140,Z08.04.05,End Domestic Abuse Wisconsin,,,,$102,,,49,0.0057471
+12141,Z05.03.05,University of Cape Town,,,,"$28,610",,,43,0.0041667
+12142,Z08.04.05,New Jersey Coalition to End Domestic Violence,,,,$317,,,379,0.0057471
+12148,Z12.01.04,Child Development Institute,,,,"$6,570",,,42,0.0053476
+12150,Z05.03.01,Dress for Success Northern NJ - 10 Counties,,,,$263,,,1600,0.0041667
+12152,Z08.02.02,LOFT Community Services,,,,"$5,543",,,335,0.0057471
+12153,Z08.02.02,LOFT Community Services,,,,"$3,464",,,536,0.0057471
+12154,Z03.05.04,Milton Transitional Housing Corp,,,,"$2,857",,,14,0.0037736
+12155,Z12.01.04,Ndinawemaaganag Endaawaad Inc.,,,,$177,,,760,0.0053476
+12156,Z12.01.04,Outward Bound Canada,,,,"$6,517",,,128,0.0053476
+12157,Z03.02.03,"Variety, the Children's Charity of Ontario",,,,"$3,400",,,25,0.0037736
+12158,Z12.01.04,Art Starts,,,,$724,,,29,0.0053476
+12164,Z05.02.03,"University at Buffalo Foundation, Inc.",,,,"$1,863",,,39,0.0041667
+12166,Z06.04.01,We Care Solar,,,,$230,,,5035,0.0027701
+12171,Z05.02.03,National Urban League,,,,$130,,,10000,0.0041667
+12172,Z12.01.03,The Dori Slosberg Foundation DBA Dori Saves Lives,,,,$1,,,500000,0.0053476
+12173,Z05.02.01,U.S. Pan Asian American Chamber of Commerce Education Foundation,,,,"$1,111",,,45,0.0041667
+12174,Z05.04.03,HomeFree-USA,,,,"$9,091",,,110,0.0041667
+12175,Z03.04.03,Habitat for Humanity International,,,,"$14,634",,,41,0.0037736
+12176,Z03.04.01,Habitat for Humanity International,,,,"$1,601,800",,,5,0.0037736
+12177,Z05.02.01,U.S. Pan Asian American Chamber of Commerce Education Foundation,,,,"$16,667",,,6,0.0041667
+12178,Z05.02.01,U.S. Pan Asian American Chamber of Commerce Education Foundation,,,,$14,,,9471,0.0041667
+12180,Z05.04.02,Housing Partnership Network,,,,$14,,,219114,0.0041667
+12182,Z05.04.01,Housing Partnership Network,,,,$5,,,22500,0.0041667
+12183,Z05.02.03,National LGBT Chamber of Commerce (NGLCC),,,,$320,,,500,0.0041667
+12184,Z05.02.03,National LGBT Chamber of Commerce (NGLCC),,,,$160,,,250,0.0041667
+12185,Z05.02.03,National LGBT Chamber of Commerce (NGLCC),,,,$167,,,150,0.0041667
+12187,Z05.02.03,National LGBT Chamber of Commerce,,,,$667,,,90,0.0041667
+12206,Z10.01.04,Concordia University,,,,$247,,,300,0.0270270
+12208,Z10.01.04,Earth Rangers,,,,$39,,,9000,0.0270270
+12209,Z12.01.04,MacPhee Centre for Creative Learning,,,,$533,,,75,0.0053476
+12210,Z05.03.06,NPower Canada,,,,"$8,347",,,321,0.0041667
+12211,Z06.02.02,Oakville Parent-Child Centre,,,,$750,,,40,0.0027701
+12213,Z06.05.02,Seneca College of Applied Arts and Technology,,,,"$3,596",,,22,0.0027701
+12214,Z06.03.01,Take a Hike Youth at Risk Foundation,,,,"$22,930",,,71,0.0027701
+12215,Z06.03.01,Boundless Adventures Association,,,,"$66,000",,,25,0.0027701
+12216,Z12.01.04,"Trails Youth Initiatives, Inc.",,,,"$6,826",,,116,0.0053476
+12217,Z06.03.01,World Bicycle Relief,,,,$18,,,4328,0.0027701
+12218,Z03.05.01,YouthLink,,,,"$11,333",,,45,0.0037736
+12220,Z08.04.05,"YWCA Durham ""The Oshawa Young Women's Christian Association""",,,,$602,,,1355,0.0057471
+12222,Z05.02.03,Business in the Streets,,,,"$2,200",,,80,0.0041667
+12223,Z05.02.03,Canadian Feed The Children,,,,$200,,,200,0.0041667
+12225,Z03.03.02,Community Food Centres Canada,,,,$133,,,2625,0.0037736
+12226,Z12.01.04,Dixon Hall,,,,$400,,,300,0.0053476
+12228,Z06.05.04,Eva's Initiatives for Homeless Youth,,,,$689,,,235,0.0027701
+12229,Z03.05.04,Eva's Initiatives for Homeless Youth,,,,"$5,389",,,146,0.0037736
+12234,Z08.05.05,Horizons of Friendship,,,,$110,,,637,0.0057471
+12235,Z08.05.02,Horizons of Friendship,,,,$24,,,20399,0.0057471
+12237,Z05.03.01,United Way Greater Toronto,,,,"$7,624",,,36,0.0041667
+12238,Z06.03.01,Lakehead University,,,,$833,,,108,0.0027701
+12239,Z05.04.02,Safe+Sound Somerset,,,,"$1,509",,,159,0.0041667
+12240,Z12.01.03,Southeastern Chapter National Safety Council,,,,$70,,,11985,0.0053476
+12241,Z12.01.02,The Massey Centre for Women,,,,"$1,638",,,48,0.0053476
+12242,Z08.04.05,The Fair Housing Agency of Alabama,,,,$45,,,4359,0.0057471
+12243,Z03.05.02,Our Place Peel,,,,"$7,517",,,29,0.0037736
+12246,Z06.03.03,York University,,,,"$2,111",,,36,0.0027701
+12249,Z06.05.02,York University,,,,"$2,735",,,34,0.0027701
+12250,Z06.02.02,Vermont Square Parent-Child Mother Goose Program,,,,$344,,,272,0.0027701
+12251,Z10.02.01,Grand River Conservation Foundation,,,,$28,,,50000,0.0270270
+12252,Z08.04.05,Interval House,,,,"$5,000",,,192,0.0057471
+12254,Z06.01.02,Teach for Canada,,,,"$9,124",,,97,0.0027701
+12255,Z05.03.03,Up With Women,,,,"$7,935",,,53,0.0041667
+12258,Z06.05.02,Pediatric Oncology Group of Ontario,,,,"$2,228",,,166,0.0027701
+12259,Z09.01.02,Social Innovation Institute,,,,"$2,500",,,100,0.0400000
+12264,Z06.05.04,Home Suite Hope,,,,"$43,783",,,9,0.0027701
+12265,Z12.01.04,Girls Inc. of Halton,,,,$655,,,260,0.0053476
+12266,Z12.01.01,Girls Inc. of Halton,,,,"$1,301",,,16,0.0053476
+12267,Z06.05.01,Pathways to Education Canada,,,,"$3,604",,,3817,0.0027701
+12268,Z06.05.01,United Way Windsor Essex County,,,,"$5,491",,,100,0.0027701
+12270,Z10.01.04,Plan International Canada,,,,$35,,,11160,0.0270270
+12271,Z12.01.01,YMCA of Greater Toronto,,,,$879,,,1252,0.0053476
+12272,Z06.05.02,Youth Fusion,,,,$449,,,1396,0.0027701
+12274,Z12.01.04,Sistema Toronto,,,,"$4,619",,,175,0.0053476
+12275,Z12.01.04,Right To Play International,,,,"$1,435",,,4440,0.0053476
+12281,Z05.04.02,Junior Achievement of Washington,,,,$85,,,6500,0.0041667
+12284,Z12.01.02,Wide Angle Youth Media,,,,"$58,261",,,22,0.0053476
+12285,Z05.03.01,YWCA Southeast Wisconsin,,,,$280,,,535,0.0041667
+12287,Z12.01.01,East Bay Asian Youth Center,,,,$72,,,1200,0.0053476
+12289,Z12.01.01,Boys & Girls Clubs of Southeastern Michigan,,,,$217,,,347,0.0053476
+12291,Z08.04.05,Center Against Sexual and Family Violence,,,,$344,,,373,0.0057471
+12293,Z06.01.02,Facing History and Ourselves,,,,$77,,,6398,0.0027701
+12294,Z12.01.01,Middle Country Library Foundation,,,,$44,,,344,0.0053476
+12295,Z01.02.01,The Woodruff Arts Center,,,,"$4,500",,,20,0.0070922
+12296,Z08.04.05,YWCA Metropolitan Chicago,,,,"$1,550",,,725,0.0057471
+12302,Z10.01.02,The Climate Reality Project Canada,,,,$750,,,10,0.0270270
+12303,Z06.04.02,Illinois Science and Technology Institute,,,,$534,,,850,0.0027701
+12306,Z12.01.03,UMass Memorial Healthcare,,,,$54,,,1202,0.0053476
+12308,Z05.04.02,Working in Support of Education,,,,$487,,,117,0.0041667
+12309,Z05.04.02,Working in Support of Education,,,,$0,,,101763,0.0041667
+12310,Z12.01.04,Safety Center,,,,$365,,,634,0.0053476
+12312,Z05.04.02,Doorways for Women and Families,,,,"$3,850",,,81,0.0041667
+12315,Z08.04.05,Children's Home Society of Missouri dba FamilyForward,,,,$777,,,475,0.0057471
+12316,Z05.04.02,Junior Achievement of North Florida,,,,$95,,,809,0.0041667
+12319,Z08.04.05,Rose Brooks Center,,,,$844,,,120,0.0057471
+12320,Z12.01.04,White Plains Library Foundation,,,,$18,,,1000,0.0053476
+12326,Z05.03.03,"360°kids Support Services (previously Pathways For Children, Youth and Families of York Region)",,,,"$8,168",,,91,0.0041667
+12329,Z06.01.03,Ingenuity,,,,$3,,,243321,0.0027701
+12336,Z12.01.02,Huckleberry House,,,,"$19,004",,,75,0.0053476
+12347,Z06.04.02,Kids In Technology,,,,"$2,095",,,105,0.0027701
+12348,Z12.01.04,"Big Brothers Big Sisters of Central Ohio, Inc.",,,,"$2,620",,,869,0.0053476
+12349,Z03.05.02,YMCA of Central Ohio,,,,$688,,,1163,0.0037736
+12350,Z03.05.01,Star House,,,,"$2,218",,,1000,0.0037736
+12353,Z03.03.03,Mercy Housing & Shelter Corp,,,,$604,,,3800,0.0037736
+12369,Z03.05.03,Toronto Refugee Community Non-Profit Homes & Services (Romero House),,,,$560,,,75,0.0037736
+12371,Z08.07.03,Grace Medical Home,,,,$911,,,56,0.0057471
+12373,Z03.02.05,Arbor School of Central Florida,,,,"$4,100",,,100,0.0037736
+12374,Z06.05.04,Arbor School of Central Florida,,,,"$30,000",,,5,0.0027701
+12387,Z10.02.03,Audubon Center for Birds of Prey,,,,"$1,119",,,250,0.0270270
+12389,Z10.02.01,Audubon Center for Birds of Prey,,,,$4,,,25000,0.0270270
+12390,Z12.01.04,Central Florida Vocal Arts,,,,$500,,,150,0.0053476
+12391,Z06.01.04,Equality Florida Institute,,,,"$30,769",,,3,0.0027701
+12392,Z03.06.10,"LGBT+ Center Orlando, Inc.",,,,$600,,,25,0.0037736
+12393,Z12.01.04,New Hope for Kids,,,,"$1,728",,,463,0.0053476
+12395,Z08.01.01,"Shepherd's Hope, Inc.",,,,$250,,,6516,0.0057471
+12396,Z03.03.03,"The Salvation Army, A Georgia Corp.",,,,$955,,,3026,0.0037736
+12397,Z06.01.04,Valencia College Foundation,,,,"$3,144",,,8,0.0027701
+12398,Z06.02.04,Explorations V Children's Museum,,,,$43,,,20000,0.0027701
+12402,Z03.06.10,Easterseals Florida,,,,"$5,912",,,101,0.0037736
+12403,Z05.03.03,DIVERSEcity Community Resources Society,,,,"$14,237",,,71,0.0041667
+12404,Z12.01.04,"Central Florida Community Arts, Inc.",,,,$188,,,400,0.0053476
+12405,Z03.06.10,"Central Florida Community Arts, Inc.",,,,$225,,,200,0.0037736
+12406,Z03.02.02,"Central Florida Community Arts, Inc.",,,,$150,,,400,0.0037736
+12408,Z01.01.01,Cornell Fine Arts Museum at Rollins College,,,,$159,,,100,0.0070922
+12409,Z04.02.03,Building US,,,,$0,,,140000,0.0133333
+12410,Z04.01.03,"IDignity, Inc.",,,,$419,,,2358,0.0133333
+12423,Z05.02.03,"Valley Venture Mentoring Service, Inc.",,,,"$14,561",,,17,0.0041667
+12428,Z05.03.03,Operation Come Home,,,,"$19,430",,,48,0.0041667
+12432,Z05.04.02,Junior Achievement of Central Maryland,,,,$50,,,9000,0.0041667
+12433,Z05.04.02,Junior Achievement of Arizona,,,,$37,,,2576,0.0041667
+12440,Z06.05.02,Grace's Nonprofit,,,,$163,,,400,0.0027701
+12446,Z09.01.01,Connecticut Invention Convention Inc,,,,$368,,,1200,0.0400000
+12457,Z05.03.03,Segue Career Options Inc.,,,,"$6,053",,,34,0.0041667
+12460,Z05.03.06,Community Futures Development Corporation of the North Okanagan,,,,"$10,222",,,45,0.0041667
+12465,Z05.03.03,Causeway Work Centre,,,,"$10,580",,,40,0.0041667
+12468,Z05.04.02,"Junior Achievement of Southern Nevada, Inc.",,,,$16,,,18225,0.0041667
+12469,Z05.02.01,"Initiative for a Competitive Inner City, Inc.",,,,"$4,167",,,30,0.0041667
+12473,Z08.04.05,Nebraska Coalition to End Sexual and Domestic Violence,,,,$34,,,2069,0.0057471
+12474,Z08.04.05,Bradley Angle,,,,"$1,352",,,106,0.0057471
+12476,Z01.02.01,Community Music School of Springfield,,,,$110,,,200,0.0070922
+12477,Z01.01.02,Springfield Cultural Partnership,,,,$13,,,500,0.0070922
+12478,Z01.01.02,Springfield Cultural Partnership,,,,$222,,,900,0.0070922
+12479,Z06.01.02,Teach For America Inc,,,,"$6,329",,,232,0.0027701
+12482,Z12.01.04,Women's Fund of Western Massachusetts,,,,"$10,445",,,18,0.0053476
+12483,Z01.01.01,Springfield Symphony Orchestra,,,,$96,,,22500,0.0070922
+12486,Z06.05.04,Teach Western Mass,,,,"$4,429",,,35,0.0027701
+12487,Z05.01.01,"Springfield Library Foundation, Inc.",,,,"$9,500,000",,,1,0.0041667
+12488,Z01.01.02,Boys & Girls Club Family Center,,,,$104,,,240,0.0070922
+12490,Z05.04.03,Hampden County Bar Foundation Inc.,,,,"$3,540",,,65,0.0041667
+12491,Z01.01.01,Springfield Museums,,,,$2,,,13704,0.0070922
+12492,Z01.01.01,Springfield Museums,,,,$2,,,484602,0.0070922
+12493,Z05.04.02,"Way Finders, Inc.",,,,$967,,,850,0.0041667
+12494,Z12.01.03,Big Brothers Big Sisters of Hampden County,,,,"$1,502",,,87,0.0053476
+12495,Z05.04.02,"RISE Foundation, Inc.",,,,"$2,511",,,120,0.0041667
+12496,Z06.02.02,Horizons for Homeless Children,,,,"$17,656",,,266,0.0027701
+12506,Z05.03.03,Regina Immigrant Women Centre,,,,"$10,000",,,15,0.0041667
+12513,Z04.04.01,mack test jig,,,,$6,,,2,0.0133333
+12515,Z06.05.03,Philadelphia Futures,,,,"$3,429",,,262,0.0027701
+12526,Z05.03.03,Clean Foundation,,,,"$16,000",,,25,0.0041667
+12527,Z06.02.04,Big Brothers Big Sisters of Northeast Indiana,,,,"$1,910",,,1368,0.0027701
+12528,Z05.03.01,Literacy Volunteers of Greater Hartford,,,,$700,,,300,0.0041667
+12533,Z05.04.02,"New North Citizens' Council, Inc.",,,,$371,,,337,0.0041667
+12535,Z01.01.02,"Greensboro Downtown Parks, Inc.",,,,$2,,,40000,0.0070922
+12536,Z06.02.06,"Early Childhood Alliance, Inc.",,,,"$8,098",,,143,0.0027701
+12538,Z12.01.01,"Project for Public Spaces, Inc.",,,,$985,,,200,0.0053476
+12539,Z03.04.03,Revitalize Community Development Corporation,,,,"$1,843",,,330,0.0037736
+12541,Z05.03.06,Gladden Community House,,,,"$1,000",,,200,0.0041667
+12544,Z06.03.03,Scholar Athletes,,,,$318,,,347,0.0027701
+12547,Z06.04.01,"Urban League of Springfield, Inc.",,,,"$2,083",,,48,0.0027701
+12548,Z05.02.03,"Valley Venture Mentoring Service, Inc.",,,,"$16,503",,,15,0.0041667
+12550,Z05.02.03,"Valley Venture Mentoring Service, Inc.",,,,"$18,138",,,22,0.0041667
+12565,Z05.04.02,Junior Achievement of Northern Indiana,,,,$31,,,18501,0.0041667
+12580,Z03.05.01,Aunt Leah's Place,,,,"$21,606",,,23,0.0037736
+12581,Z03.05.02,Covenant House Toronto,,,,"$5,122",,,923,0.0037736
+12583,Z08.02.02,Little Warriors,,,,"$36,458",,,58,0.0057471
+12586,Z10.01.02,Foundation for Environmental Stewardship,,,,$6,,,100000,0.0270270
+12595,Z05.03.03,Mission Community Skills Centre Society,,,,"$24,172",,,42,0.0041667
+12602,Z06.02.05,Greensboro Science Center,,,,$14,,,3600,0.0027701
+12603,Z12.01.04,Big Brothers Big Sisters of the Central Piedmont,,,,$375,,,88,0.0053476
+12604,Z06.03.03,Omaha Home for Boys,,,,"$23,893",,,50,0.0027701
+12605,Z05.03.01,"The Women's Resource Center of Greensboro, Inc.",,,,"$1,336",,,181,0.0041667
+12606,Z06.03.03,The Granite YMCA,,,,"$1,929",,,108,0.0027701
+12607,Z12.01.04,The Connecticut Forum,,,,$521,,,426,0.0053476
+12608,Z05.03.01,"Connecticut Public Broadcasting, Inc.",,,,"$6,449",,,48,0.0041667
+12610,Z06.02.02,Greensboro Children's Museum,,,,$26,,,1900,0.0027701
+12612,Z05.02.03,"Northeast Indiana Innovation Center, Inc.",,,,$345,,,854,0.0041667
+12613,Z05.03.01,Curriculum Opportunities and Resources for Educators (CORE),,,,"$6,629",,,45,0.0041667
+12614,Z05.04.02,Habitat for Humanity of Greater Fort Wayne,,,,"$16,391",,,11,0.0041667
+12615,Z05.01.02,Springfield Business Improvement District,,,,"$1,200,000",,,1,0.0041667
+12617,Z12.01.04,Girl Scouts of Northern Indiana - Michiana,,,,$240,,,262,0.0053476
+12618,Z06.03.02,"Junior Achievement of the Midlands, Inc.",,,,$15,,,8792,0.0027701
+12619,Z06.04.01,Kids Can Community Center,,,,"$2,046",,,1161,0.0027701
+12620,Z05.02.03,Wellspring Cooperative Corporation,,,,"$1,056",,,45,0.0041667
+12621,Z05.03.03,"Blue Jacket, Inc.",,,,"$8,498",,,223,0.0041667
+12623,Z06.03.04,"Innovations for Learning, Inc.",,,,$604,,,5600,0.0027701
+12624,Z06.03.02,The Durham Museum,,,,$13,,,4542,0.0027701
+12625,Z05.04.02,"Junior Achievement of the Triad, Inc.",,,,$33,,,12353,0.0041667
+12626,Z05.02.03,Bunker Labs,,,,$424,,,45,0.0041667
+12627,Z05.03.01,Forge Greensboro,,,,$500,,,35,0.0041667
+12647,Z04.04.04,TAMID Group,,,,"$1,000",,,100,0.0133333
+12650,Z04.04.02,Oshman Family Jewish Community Center,,,,$120,,,250,0.0133333
+12652,Z04.04.02,OneTable,,,,$152,,,33000,0.0133333
+12653,Z04.04.01,KAHAL,,,,$195,,,1600,0.0133333
+12654,Z04.04.01,Jewish Council for Youth Services (JCYS),,,,"$5,733",,,30,0.0133333
+12656,Z06.03.01,Springfield Public Schools,,,,$380,,,5800,0.0027701
+12657,Z06.05.01,The Literacy Alliance,,,,"$16,575",,,40,0.0027701
+12659,Z06.05.04,Boys & Girls Clubs of Metro Atlanta,,,,"$1,696",,,434,0.0027701
+12661,Z06.03.02,The Mark Twain House & Museum,,,,$67,,,956,0.0027701
+12662,Z06.05.04,"The Philadelphia Academies, Inc.",,,,$136,,,733,0.0027701
+12663,Z05.04.03,"Family Service of the Piedmont, Inc.",,,,$97,,,5192,0.0041667
+12664,Z06.03.03,Boys & Girls Clubs of Philadelphia,,,,$665,,,936,0.0027701
+12665,Z05.04.02,CATCH Neighborhood Housing,,,,"$1,885",,,232,0.0041667
+12666,Z06.05.02,Partnership 4 Kids,,,,"$2,174",,,966,0.0027701
+12667,Z06.02.06,"Reading Connections, Inc.",,,,"$1,370",,,93,0.0027701
+12668,Z12.01.03,TeamMates Mentoring,,,,$36,,,8800,0.0053476
+12669,Z01.01.02,Smithsonian Institution,,,,$4,,,9205,0.0070922
+12670,Z06.03.03,"Allen County - Fort Wayne Historical Society, History Center",,,,$36,,,4885,0.0027701
+12671,Z05.03.01,Greensboro Chamber Foundation,,,,"$3,019",,,64,0.0041667
+12672,Z06.02.06,"Springfield Operations ECS, Inc.",,,,"$4,498",,,830,0.0027701
+12673,Z05.03.06,"Billings Forge Community Works, Inc.",,,,"$14,250",,,16,0.0041667
+12674,Z06.05.01,East Wayne Street Center,,,,"$8,027",,,14,0.0027701
+12675,Z05.03.06,"Lutheran Social Services of Indiana, Inc.",,,,"$6,393",,,58,0.0041667
+12676,Z05.04.02,Junior Achievement of Northern Indiana,,,,$44,,,3315,0.0041667
+12679,Z06.04.01,The Franklin Institute,,,,"$3,338",,,207,0.0027701
+12683,Z06.03.03,City Year Philadelphia,,,,"$6,206",,,48,0.0027701
+12684,Z06.02.02,Concord Family YMCA,,,,"$17,762",,,62,0.0027701
+12685,Z12.01.04,Fort Wayne Park Foundation,,,,"$2,713",,,143,0.0053476
+12686,Z05.03.01,"Our Piece of the Pie, Inc.",,,,"$3,280",,,600,0.0041667
+12687,Z06.03.03,The Salvation Army Boys and Girls Club of Greensboro,,,,"$1,015",,,367,0.0027701
+12689,Z05.03.03,American Red Cross,,,,"$1,982",,,265,0.0041667
+12690,Z05.03.01,Chicano Awareness Center DBA Latino Center of the Midlands,,,,$580,,,385,0.0041667
+12691,Z05.03.01,Community Learning Center,,,,"$3,785",,,367,0.0041667
+12695,Z06.03.04,Omaha Children's Museum,,,,$58,,,3542,0.0027701
+12696,Z12.01.04,Mayhew Program,,,,"$5,711",,,230,0.0053476
+12697,Z06.04.01,"Science Central, Inc.",,,,$1,,,32226,0.0027701
+12698,Z06.01.02,Teach For America,,,,"$53,879",,,92,0.0027701
+12699,Z12.01.04,YMCA of Greater Fort Wayne,,,,$129,,,2342,0.0053476
+12700,Z06.03.03,YMCA of Greater Omaha,,,,$345,,,77,0.0027701
+12704,Z05.03.06,Congreso de Latinos Unidos Inc.,,,,"$13,346",,,117,0.0041667
+12710,Z05.03.01,University City District,,,,"$10,556",,,113,0.0041667
+12711,Z06.03.03,Boys & Girls Clubs of Fort Wayne,,,,"$5,461",,,225,0.0027701
+12713,Z06.05.02,Hartford Promise,,,,$762,,,143,0.0027701
+12714,Z06.03.03,"Ivy Tech Foundation, Inc.",,,,$300,,,200,0.0027701
+12725,Z12.01.04,Completely KIDS,,,,"$2,344",,,1260,0.0053476
+12728,Z06.01.04,"The National Conference for Community and Justice of the Piedmont Triad, Inc.",,,,$144,,,1865,0.0027701
+12729,Z06.04.01,Purdue University Fort Wayne,,,,"$6,250",,,32,0.0027701
+12730,Z06.03.03,The Southeast Youth Council dba Cornerstone Youth Center,,,,"$2,957",,,201,0.0027701
+12731,Z06.02.02,Nebraska Children's Home Society,,,,"$6,999",,,91,0.0027701
+12733,Z06.02.02,Heartland Family Service,,,,"$1,063",,,194,0.0027701
+12734,Z06.05.03,"Hartford Youth Scholars Foundation, Inc.",,,,"$2,179",,,55,0.0027701
+12737,Z06.05.02,YMCA of Greensboro,,,,"$2,115",,,26,0.0027701
+12738,Z05.03.01,"The Arc of Greensboro, Inc.",,,,"$1,917",,,121,0.0041667
+12739,Z05.03.01,The Urban League of Philadelphia,,,,$929,,,648,0.0041667
+12742,Z06.02.05,Martin Luther King Montessori School,,,,"$10,307",,,56,0.0027701
+12743,Z12.01.04,Big Brothers Big Sisters of the Midlands,,,,"$1,884",,,1042,0.0053476
+12744,Z01.01.02,Springfield Cultural Partnership,,,,$17,,,3000,0.0070922
+12746,Z12.01.04,Police Athletic League of Philadelphia,,,,$357,,,491,0.0053476
+12747,Z12.01.04,Police Athletic League of Philadelphia,,,,$309,,,653,0.0053476
+12748,Z06.03.04,Children's Museum of New Hampshire,,,,$13,,,2192,0.0027701
+12750,Z06.03.04,Need in Deed,,,,$164,,,2912,0.0027701
+12752,Z06.02.06,Achieve Now,,,,$270,,,1243,0.0027701
+12756,Z05.03.01,Fresh Start Women's Foundation,,,,"$5,269",,,26,0.0041667
+12763,Z12.01.04,Wellspring Interfaith Social Services,,,,$447,,,489,0.0053476
+12764,Z06.03.03,Wellspring Interfaith Social Services,,,,"$2,528",,,70,0.0027701
+12765,Z06.04.01,Fort Wayne Children's Zoo,,,,$53,,,2880,0.0027701
+12766,Z06.03.03,Operation Xcel,,,,"$1,174",,,86,0.0027701
+12768,Z05.03.01,Mountain West Philanthropies,,,,$0,,,20,0.0041667
+12770,Z03.04.03,Coalition for the Homeless of Central Florida,,,,"$4,759",,,382,0.0037736
+12773,Z05.04.01,"Family Housing Advisory Services, Inc.",,,,"$1,242",,,515,0.0041667
+12774,Z01.02.02,Artlink Inc,,,,"$3,846",,,26,0.0070922
+12775,Z03.05.04,Easterseals New Hampshire,,,,"$12,171",,,159,0.0037736
+12778,Z05.04.02,Junior Achievement of Oregon and SW Washington,,,,$28,,,1104,0.0041667
+12779,Z12.01.01,California Friday Night Live Partnership (housed in the Tulare County Office of Education,,,,$163,,,8000,0.0053476
+12780,Z12.01.04,Connecticut Children's Medical Center,,,,$126,,,475,0.0053476
+12782,Z08.04.01,Connecticut Children's Medical Center,,,,$444,,,90,0.0057471
+12784,Z12.01.04,Facets,,,,$18,,,10890,0.0053476
+12785,Z01.01.02,Navy Pier,,,,$54,,,500,0.0070922
+12786,Z12.01.03,DRIVE SMART Weld County,,,,$10,,,3100,0.0053476
+12790,Z08.04.05,"Hubbard House, Inc.",,,,"$2,992",,,650,0.0057471
+12792,Z08.04.05,Florida Coalition Against Domestic Violence,,,,$53,,,701,0.0057471
+12793,Z08.04.05,Florida Coalition Against Domestic Violence,,,,$179,,,503,0.0057471
+12795,Z12.01.03,AR Children's Foundation,,,,$30,,,6908,0.0053476
+12799,Z05.03.03,Canadian Museums Association,,,,"$4,991",,,1781,0.0041667
+12801,Z05.03.06,Greater Chicago Food Depository,,,,"$19,048",,,42,0.0041667
+12802,Z05.02.03,The Hatchery Chicago,,,,$400,,,125,0.0041667
+12803,Z06.05.01,"Embarc, Inc.",,,,"$2,560",,,99,0.0027701
+12805,Z06.03.03,St. Francis Neighborhood Center,,,,"$6,884",,,56,0.0027701
+12806,Z12.01.02,"Girl Scouts of Central Maryland, Inc.",,,,$181,,,3200,0.0053476
+12810,Z05.04.03,United Way of Pioneer Valley,,,,"$1,622",,,170,0.0041667
+12822,Z06.05.01,Boys & Girls Clubs of Greater Kansas City,,,,"$3,407",,,150,0.0027701
+12827,Z05.03.03,Colleges and Institutes Canada,,,,"$16,250",,,176,0.0041667
+12831,Z06.05.03,Horatio Alger Association,,,,"$6,355",,,3147,0.0027701
+12832,Z05.04.02,Ladder Up,,,,$44,,,2034,0.0041667
+12833,Z06.05.02,New Jersey SEEDS,,,,"$18,750",,,40,0.0027701
+12839,Z01.01.02,Remos Test,,,,$10,,,20,0.0070922
+12842,Z06.01.04,Facing History and Ourselves,,,,"$41,145",,,12,0.0027701
+12849,Z08.04.01,Futures Without Violence,,,,$6,,,80750,0.0057471
+12850,Z08.04.01,The One Love Foundation in Honor of Yeardley Love,,,,$9,,,342780,0.0057471
+12854,Z03.05.01,The Baltimore Station,,,,"$10,667",,,300,0.0037736
+12855,Z05.03.03,Living Classrooms Foundation,,,,"$14,325",,,104,0.0041667
+12856,Z08.04.01,"House of Ruth Maryland, Inc.",,,,"$2,878",,,183,0.0057471
+12858,Z08.04.01,House of Ruth Maryland,,,,"$2,785",,,200,0.0057471
+12859,Z03.05.04,Fuel Fund of Maryland,,,,$17,,,18000,0.0037736
+12860,Z03.01.01,The Family Tree,,,,$27,,,147000,0.0037736
+12861,Z05.04.02,Civic Works,,,,$417,,,60,0.0041667
+12862,Z08.03.04,"Sinai Hospital of Baltimore, Inc.",,,,"$5,333",,,75,0.0057471
+12865,Z08.06.04,"Helping Up Mission, Inc.",,,,"$43,412",,,113,0.0057471
+12868,Z05.03.03,SUCO,,,,"$25,000",,,8,0.0041667
+12876,Z12.01.01,Embarc,,,,$200,,,100,0.0053476
+12882,Z05.03.03,Marine Institute,,,,"$26,500",,,20,0.0041667
+12941,Z05.03.01,Fédération de la jeunesse canadienne-française (FJCF),,,,"$3,484",,,178,0.0041667
+12943,Z05.03.01,Environmental Careers Organization Canada (ECO Canada),,,,"$27,528",,,640,0.0041667
+12957,Z05.02.01,Industrial Council of Nearwest Chicago,,,,$303,,,33,0.0041667
+12964,Z06.05.02,First Generation College Bound,,,,$556,,,450,0.0027701
+12968,Z03.03.01,Loyola University Maryland,,,,$25,,,2536,0.0037736
+12973,Z06.05.03,CollegeBound Foundation,,,,"$2,722",,,71,0.0027701
+12974,Z08.02.02,Family Centre,,,,"$9,398",,,106,0.0057471
+12976,Z06.05.02,CollegeCommunityCareer,,,,$732,,,637,0.0027701
+12977,Z06.05.02,OneGoal,,,,"$7,429",,,1750,0.0027701
+12979,Z03.05.05,"Paul's Place, Inc.",,,,$265,,,283,0.0037736
+12980,Z12.01.04,"YMCA of Central Maryland, Inc.",,,,"$1,536",,,700,0.0053476
+12983,Z01.01.02,Chicago Children's Museum,,,,$4,,,36200,0.0070922
+12985,Z05.04.02,Working in Support of Education (W!se),,,,"$2,000",,,6,0.0041667
+12991,Z06.05.03,East Harlem Tutorial Program,,,,"$5,580",,,123,0.0027701
+12993,Z06.05.03,The Pittsburgh Promise,,,,"$9,389",,,2109,0.0027701
+12994,Z06.05.01,"De La Salle, Inc.",,,,"$1,582",,,158,0.0027701
+12996,Z06.03.03,High Jump,,,,"$8,055",,,270,0.0027701
+12997,Z06.05.02,Career Compass of Louisiana,,,,$119,,,13979,0.0027701
+12998,Z06.05.02,Bay Area Community Foundation,,,,$33,,,2500,0.0027701
+13011,Z06.05.02,DC Prep Academy,,,,"$8,769",,,65,0.0027701
+13013,Z06.05.03,"Collegiate Directions, Inc.",,,,"$1,629",,,140,0.0027701
+13014,Z06.05.02,Crosby Scholars Community Partnership,,,,$770,,,956,0.0027701
+13016,Z03.03.01,"The Foodbank, Inc.",,,,$3,,,3,0.0037736
+13019,Z06.05.03,"SquashBusters, Inc.",,,,"$1,940",,,50,0.0027701
+13020,Z03.03.01,Fairbanks Community Food Bank,,,,$26,,,45400,0.0037736
+13022,Z06.05.04,Holland Bloorview Kids Rehabilitation Hospital Foundation,,,,"$9,107",,,14,0.0027701
+13023,Z06.05.03,Degrees of Change,,,,"$4,434",,,351,0.0027701
+13024,Z06.05.02,Summit Education Initiative,,,,$87,,,202,0.0027701
+13025,Z06.05.03,"CollegeTracks, Inc.",,,,"$1,760",,,302,0.0027701
+13026,Z06.05.02,College Match,,,,"$2,083",,,624,0.0027701
+13027,Z06.05.02,College Now Greater Cleveland,,,,"$3,625",,,40,0.0027701
+13028,Z06.05.02,College Advising Corps,,,,$300,,,95400,0.0027701
+13029,Z06.05.02,MOSTe MOTIVATING OUR STUDENTS THROUGH EXPERIENCE,,,,"$2,714",,,35,0.0027701
+13034,Z03.03.03,"Maryland Food Bank, Inc.",,,,"$2,009",,,38216,0.0037736
+13035,Z12.01.03,Safe America Foundation,,,,$167,,,1608,0.0053476
+13037,Z08.01.01,Partners In Health Canada,,,,$274,,,3072,0.0057471
+13038,Z08.04.05,"Alternatives to Violence, Inc.",,,,"$2,436",,,128,0.0057471
+13039,Z08.04.05,Family Justice Center of Erie County,,,,$526,,,42,0.0057471
+13040,Z08.04.05,The Family Place,,,,"$1,295",,,200,0.0057471
+13041,Z08.04.05,Fresh Start Women's Foundation,,,,$105,,,1573,0.0057471
+13043,Z12.01.01,Henrik Lundqvist Foundation,,,,"$2,500",,,12,0.0053476
+13044,Z08.04.05,Kentucky Coalition Against Domestic Violence,,,,$607,,,2046,0.0057471
+13045,Z03.05.01,Saint John's Program for Real Change,,,,"$41,743",,,157,0.0037736
+13046,Z12.01.04,Sandy Hook Promise (SHP),,,,$1,,,4000000,0.0053476
+13047,Z12.01.04,Sandy Hook Promise,,,,$1,,,4000000,0.0053476
+13048,Z12.01.04,Step Up,,,,"$1,807",,,325,0.0053476
+13049,Z08.04.05,"The Spring of Tampa Bay, Inc.",,,,$453,,,554,0.0057471
+13050,Z05.03.01,projectHandUp,,,,"$1,637",,,115,0.0041667
+13052,Z12.01.04,Chicago Children's Choir,,,,"$11,582",,,98,0.0053476
+13053,Z01.02.01,League of Chicago Theatres Foundation,,,,$37,,,1500,0.0070922
+13054,Z01.02.01,Marwen,,,,$534,,,783,0.0070922
+13055,Z06.05.02,University of North Florida,,,,$525,,,12,0.0027701
+13056,Z06.04.01,The Morton Arboretum,,,,$17,,,15000,0.0027701
+13057,Z05.04.02,Women's and Children's Alliance,,,,$419,,,233,0.0041667
+13059,Z05.04.02,Junior Achievement Central Carolinas,,,,$149,,,8000,0.0041667
+13060,Z06.05.01,LINK Unlimited Scholars,,,,"$7,760",,,150,0.0027701
+13061,Z12.01.03,"Texas Family, Career and Community Leaders of America",,,,$4,,,12800,0.0053476
+13062,Z06.03.04,"Texas Association Family, Career and Community Leaders of America",,,,$2,,,15000,0.0027701
+13065,Z06.05.02,Iredell County Crosby Scholars Community Partnership,,,,$147,,,170,0.0027701
+13066,Z06.05.02,Partnership for the Future,,,,"$3,414",,,390,0.0027701
+13067,Z06.05.03,The Scholarship Foundation of St. Louis,,,,"$14,474",,,380,0.0027701
+13068,Z06.05.02,Cypress Hills Local Development Corp. (CHLDC),,,,$491,,,1278,0.0027701
+13069,Z03.03.03,"Maryland Food Bank, Inc.",,,,$696,,,120000,0.0037736
+13071,Z06.05.02,Education Opens Doors,,,,$164,,,11598,0.0027701
+13073,Z06.05.02,"College Goal Maryland, Inc.",,,,$2,,,10700,0.0027701
+13074,Z05.03.06,"Maryland New Directions, Inc. (MND)",,,,"$6,008",,,183,0.0041667
+13075,Z06.05.03,College Track,,,,"$3,687",,,1003,0.0027701
+13076,Z06.05.02,Jack Kent Cooke Foundation,,,,"$93,756",,,50,0.0027701
+13077,Z06.05.02,Chase County College Access (Emporia Community Foundation),,,,$600,,,10,0.0027701
+13078,Z03.05.03,"The Women's Housing Coalition, Inc.",,,,"$18,589",,,108,0.0037736
+13081,Z05.03.06,Center for Urban Families,,,,"$6,301",,,201,0.0041667
+13082,Z05.03.01,Goodwill Industries of the Chesapeake Inc.,,,,"$1,222",,,168,0.0041667
+13083,Z03.06.09,"Meals On Wheels of Central Maryland, Inc.",,,,"$2,101",,,3142,0.0037736
+13085,Z03.03.01,Moveable Feast,,,,"$1,912",,,1459,0.0037736
+13086,Z04.03.11,New Hampshire Humanities,,,,$742,,,271,0.0133333
+13088,Z06.05.02,Philadelphia Futures,,,,"$45,417",,,89,0.0027701
+13089,Z06.05.02,College Crusade of Rhode Island,,,,"$1,050",,,4000,0.0027701
+13093,Z06.05.02,"Bridgeport Public Education Fund, Inc.",,,,$446,,,224,0.0027701
+13094,Z05.02.03,Baltimore Corps,,,,"$10,667",,,15,0.0041667
+13106,Z08.06.01,PRIDE Bermuda,,,,"$1,400",,,135,0.0057471
+13107,Z06.03.03,The Reading Clinic,,,,"$9,250",,,80,0.0027701
+13108,Z03.06.04,Bermuda Housing Trust,,,,"$9,794",,,194,0.0037736
+13109,Z12.01.01,Epsilon Theta Lambda Chapter,,,,"$5,000",,,10,0.0053476
+13110,Z12.01.04,Raleigh Bermuda,,,,"$8,945",,,23,0.0053476
+13112,Z10.02.01,Bermuda National Trust,,,,$114,,,14000,0.0270270
+13118,Z12.01.04,The Duke of Edinburgh's International Award Bermuda,,,,"$1,807",,,166,0.0053476
+13119,Z06.03.02,IMPACT Mentoring Academy,,,,"$23,636",,,22,0.0027701
+13125,Z12.01.02,Junior Achievement USA,,,,$1,,,67000,0.0053476
+13126,Z01.01.01,Court Theatre,,,,$385,,,500,0.0070922
+13127,Z06.05.04,Careers through Culinary Arts Program (C-CAP),,,,$787,,,540,0.0027701
+13128,Z12.01.04,Little Kids Rock,,,,$10,,,48000,0.0053476
+13140,Z03.03.01,Los Angeles Mission,,,,$69,,,16000,0.0037736
+13175,Z03.03.01,"Roadrunner Food Bank, Inc.",,,,$25,,,24838,0.0037736
+13181,Z03.03.02,United Way of Roanoke Valley,,,,$129,,,465,0.0037736
+13183,Z03.03.01,United Way of Roanoke Valley,,,,$43,,,1799,0.0037736
+13186,Z08.01.02,United Way of Roanoke Valley,,,,"$1,770",,,160,0.0057471
+13192,Z12.01.04,Family & Children's Services of Central Maryland,,,,"$3,892",,,41,0.0053476
+13193,Z03.03.01,Mary's Place,,,,$250,,,2000,0.0037736
+13209,Z05.04.02,Civic Works,,,,$417,,,60,0.0041667
+13214,Z06.05.04,"Junior Achievement of Southern Nevada, Inc.",,,,$16,,,18489,0.0027701
+13223,Z06.05.04,BestPrep,,,,"$1,634",,,320,0.0027701
+13225,Z12.01.02,BestPrep,,,,$97,,,3380,0.0053476
+13226,Z06.05.04,Boys & Girls Clubs of Southwest Virginia,,,,$213,,,469,0.0027701
+13227,Z08.04.01,Joe Torre Safe At Home Foundation,,,,"$2,987",,,148,0.0057471
+13228,Z12.01.04,Urban Initiatives,,,,"$1,217",,,255,0.0053476
+13229,Z03.05.03,Lydia Place,,,,"$26,834",,,25,0.0037736
+13230,Z12.01.04,Youth Guidance,,,,"$3,188",,,1362,0.0053476
+13231,Z12.01.04,Youth Guidance,,,,"$3,522",,,4125,0.0053476
+13232,Z01.01.01,Ravinia Festival,,,,$310,,,5000,0.0070922
+13233,Z03.04.01,Chicago Rehab Network,,,,"$9,085",,,36,0.0037736
+13235,Z12.01.02,Junior Achievement of Central Indiana,,,,$243,,,8700,0.0053476
+13236,Z08.04.05,United Way of Metro Chicago,,,,$151,,,8911,0.0057471
+13237,Z01.01.02,"Chicago Theatre Group, Inc. (DBA Goodman Theatre)",,,,$354,,,6000,0.0070922
+13240,Z06.05.02,Capital Partners for Education,,,,"$6,565",,,170,0.0027701
+13241,Z03.03.01,"Intermountain Healthcare Foundation, Inc.",,,,"$1,000",,,1000,0.0037736
+13243,Z03.03.01,LA Promise Fund,,,,$99,,,590,0.0037736
+13244,Z03.03.01,United Food Bank,,,,$87,,,333000,0.0037736
+13245,Z03.03.01,"Dare to Care, Inc",,,,$8,,,134683,0.0037736
+13247,Z03.03.01,Feeding America Eastern Wisconsin,,,,$4,,,22500,0.0037736
+13249,Z03.03.01,Denver Rescue Mission,,,,"$2,756",,,10392,0.0037736
+13250,Z03.03.01,Freestore Foodbank,,,,$105,,,6500,0.0037736
+13251,Z03.03.01,Hosea Feed The Hungry,,,,$46,,,46183,0.0037736
+13252,Z03.03.01,The Storehouse,,,,$260,,,200,0.0037736
+13254,Z06.03.03,City Year Detroit,,,,$943,,,529,0.0027701
+13257,Z05.04.02,Bexar County Family Justice Center Foundation,,,,$437,,,213,0.0041667
+13258,Z12.01.04,Boys & Girls Clubs of Metro Denver,,,,"$1,994",,,7262,0.0053476
+13261,Z03.03.01,St. Mary's Food Bank Alliance,,,,$9,,,276905,0.0037736
+13262,Z03.03.01,Greater Chicago Food Depository,,,,$5,,,280000,0.0037736
+13264,Z03.03.01,Downtown Women's Center (DWC),,,,$350,,,4900,0.0037736
+13267,Z08.07.01,Boys & Girls Clubs of Greater San Diego,,,,$19,,,12582,0.0057471
+13268,Z03.03.01,Cache Community Food Pantry,,,,$154,,,12000,0.0037736
+13272,Z03.03.03,"Maryland Food Bank, Inc.",,,,$696,,,120000,0.0037736
+13278,Z06.05.04,Junior Achievement of Chicago,,,,$8,,,416056,0.0027701
+13281,Z03.03.01,Hunger Task Force,,,,$19,,,14692,0.0037736
+13283,Z03.03.01,Forgotten Harvest,,,,$14,,,280000,0.0037736
+13284,Z03.03.01,Food Finders Food Bank,,,,$80,,,2300,0.0037736
+13287,Z03.03.01,Food Gatherers,,,,$287,,,44500,0.0037736
+13289,Z12.01.01,Girl Scouts of Greater Los Angeles,,,,$43,,,610,0.0053476
+13290,Z03.03.01,"God's Pantry Food Bank, Inc.",,,,$29,,,13974,0.0037736
+13291,Z03.03.01,Houston Food Bank,,,,$286,,,14000,0.0037736
+13292,Z03.03.01,Kitchens for Good,,,,$673,,,1500,0.0037736
+13293,Z03.03.01,MEND-Meet Each Need with Dignity,,,,$72,,,7295,0.0037736
+13296,Z05.03.06,Bridges From School To Work,,,,"$3,052",,,661,0.0041667
+13301,Z03.03.01,Phoenix Children's Hospital Foundation,,,,$7,,,14000,0.0037736
+13303,Z03.03.01,Society of St Vincent de Paul,,,,$13,,,1200000,0.0037736
+13304,Z03.03.01,"Sunshine Division, Inc.",,,,$41,,,7000,0.0037736
+13305,Z03.03.01,"Brazos Valley Food Bank, Inc.",,,,$15,,,48216,0.0037736
+13306,Z06.05.04,Congressional Hunger Center,,,,"$72,850",,,19,0.0027701
+13307,Z03.03.02,FEAST,,,,"$1,115",,,168,0.0037736
+13310,Z03.03.01,Gleaners Community Food Bank,,,,$24,,,34713,0.0037736
+13312,Z03.03.03,United Service Organizations,,,,$17,,,75000,0.0037736
+13313,Z03.03.01,"CLNkids, Inc.",,,,"$1,000",,,100,0.0037736
+13314,Z03.03.01,Interfaith Ministries for Greater Houston,,,,"$2,011",,,4400,0.0037736
+13315,Z03.03.01,Eastern Michigan University Foundation,,,,$219,,,300,0.0037736
+13316,Z03.03.02,"Idaho Foodbank Warehouse, Inc, DBA: The Idaho Foodbank",,,,$713,,,401,0.0037736
+13318,Z03.03.01,FUEL NKU,,,,$46,,,2500,0.0037736
+13319,Z03.03.01,Project Angel Food,,,,"$2,665",,,2367,0.0037736
+13322,Z03.03.01,SnowCap Community Charities,,,,"$1,451",,,28000,0.0037736
+13324,Z05.04.01,Fair Trade USA,,,,$28,,,900000,0.0041667
+13325,Z03.03.02,United Way of Roanoke Valley,,,,$694,,,36,0.0037736
+13326,Z08.01.02,University of New Mexico Foundation,,,,$30,,,66000,0.0057471
+13327,Z10.01.02,World Wildlife Fund,,,,$14,,,17400,0.0270270
+13328,Z03.03.01,Community Foundation of Greater Rochester,,,,$100,,,3705,0.0037736
+13329,Z03.03.01,Food Bank of the Rockies,,,,$170,,,592833,0.0037736
+13331,Z03.03.01,Toledo Northwestern Ohio Food Bank,,,,$42,,,2161,0.0037736
+13332,Z03.03.02,YMCA of Orange County,,,,$79,,,4593,0.0037736
+13333,Z03.03.01,Operation Homefront,,,,$20,,,2000,0.0037736
+13334,Z03.03.01,Mountaineer Food Bank,,,,$15,,,40000,0.0037736
+13335,Z03.03.01,Southeast Ohio Foodbank (HAPCAP),,,,$27,,,13000,0.0037736
+13344,Z08.01.01,St. Rose Dominican Health Foundation,,,,$912,,,500,0.0057471
+13346,Z03.03.01,Northern Illinois Food Bank,,,,$353,,,10200,0.0037736
+13347,Z06.03.03,Boys & Girls Clubs of Central Orange Coast,,,,$468,,,738,0.0027701
+13350,Z03.03.01,Jacobs & Cushman San Diego Food Bank,,,,$215,,,2600,0.0037736
+13351,Z03.03.01,Caterina's Club,,,,$81,,,11908,0.0037736
+13352,Z03.03.03,Food Bank of Alaska,,,,$2,,,105953,0.0037736
+13353,Z03.03.01,Olive Crest,,,,"$1,710",,,154,0.0037736
+13367,Z05.03.01,Junior Achievement of Chicago,,,,$77,,,1075,0.0041667
+13368,Z06.03.04,YMCA of Metropolitan Chicago,,,,"$2,146",,,932,0.0027701
+13369,Z06.04.01,Metropolitan State University of Denver,,,,$431,,,174,0.0027701
+13375,Z03.03.01,"Idaho Foodbank Warehouse, Inc, DBA: The Idaho Foodbank",,,,$120,,,2872,0.0037736
+13380,Z02.02.01,Homeboy Industies,,,,"$44,444",,,450,0.2000000
+13381,Z03.06.10,Store to Door,,,,"$1,668",,,655,0.0037736
+13389,Z12.01.02,Boys and Girls Clubs of Metro Denver,,,,"$2,227",,,6500,0.0053476
+13390,Z03.03.01,"Care and Share, Inc.",,,,$628,,,1200,0.0037736
+13393,Z06.05.02,iMentor,,,,"$6,262",,,3832,0.0027701
+13394,Z06.05.02,Bright Prospect,,,,$239,,,209,0.0027701
+13411,Z06.05.03,Cypress Hills Local Development Corp. (CHLDC),,,,$760,,,671,0.0027701
+13422,Z05.04.01,"Community Coordinated Care for Children, Inc.",,,,"$5,418",,,7970,0.0041667
+13426,Z05.03.06,"Christian HELP Foundation, Inc.",,,,"$1,865",,,107,0.0041667
+13427,Z03.05.03,"Christian Sharing Center, Inc",,,,"$4,000",,,34,0.0037736
+13430,Z03.05.03,"Community Hope Center, Inc.",,,,"$5,000",,,14,0.0037736
+13431,Z06.02.02,Early Learning Coalition of Orange County,,,,"$6,510",,,48,0.0027701
+13432,Z08.03.01,"Epilepsy Association of Central Florida, Inc .DBA Epilepsy Association",,,,$19,,,11541,0.0057471
+13433,Z08.01.01,"Epilepsy Association of Central Florida, Inc. - DBA Epilepsy Association",,,,$874,,,715,0.0057471
+13434,Z03.05.03,Family Promise of Greater Orlando,,,,"$4,894",,,66,0.0037736
+13435,Z03.02.02,Freedom Ride,,,,"$1,111",,,90,0.0037736
+13436,Z03.03.01,"HOPE Helps, Inc.",,,,$197,,,500,0.0037736
+13437,Z10.03.01,Pet Alliance of Greater Orlando,,,,$171,,,1069,0.0270270
+13439,Z03.06.03,Share the Care,,,,"$1,667",,,1050,0.0037736
+13440,Z08.02.02,Victim Service Center of Central Florida,,,,"$1,701",,,114,0.0057471
+13442,Z03.03.01,Feeding Children Everywhere,,,,$6,,,152000,0.0037736
+13443,Z05.03.06,Goodwill of Silicon Valley,,,,"$7,390",,,118,0.0041667
+13444,Z05.03.06,Goodwill of Silicon Valley,,,,"$8,861",,,110,0.0041667
+13445,Z02.02.01,San Diego Second Chance Program,,,,$746,,,170,0.2000000
+13446,Z05.03.06,Goodwill Industries of Orange County,,,,"$9,507",,,873,0.0041667
+13447,Z05.03.06,Community Kitchen Pittsburgh,,,,"$12,378",,,74,0.0041667
+13449,Z08.02.01,The Mission Continues,,,,"$1,493",,,3350,0.0057471
+13451,Z08.04.05,"WINGS Program, Inc.",,,,"$5,501",,,412,0.0057471
+13452,Z06.01.02,Arts Education Collaborative (Carnegie Institute / Carnegie Museums of Pittsburgh),,,,"$5,000",,,9,0.0027701
+13453,Z10.01.02,Community Foundation for the Alleghenies,,,,$200,,,1000,0.0270270
+13457,Z10.01.01,Grounded Strategies,,,,"$33,333",,,3,0.0270270
+13461,Z12.01.04,"Pathway to Adventure Council, Inc. Boy Scouts of America",,,,"$2,183",,,120,0.0053476
+13468,Z12.01.04,YMCA of Metropolitan Chicago,,,,"$15,997",,,192,0.0053476
+13470,Z01.01.01,The Union Project,,,,$8,,,1051,0.0070922
+13471,Z10.01.02,Community Foundation for the Alleghenies,,,,$3,,,130000,0.0270270
+13491,Z03.04.03,Rebuilding Together Pittsburgh,,,,"$21,429",,,21,0.0037736
+13493,Z06.05.04,United Way of Southwestern Pennsylvania,,,,"$2,083",,,310,0.0027701
+13495,Z10.01.04,Bike Share Pittsburgh Inc.,,,,$22,,,13500,0.0270270
+13496,Z06.05.02,"Wireless Neighborhoods, dba Neighborhood Learning Alliance",,,,"$6,190",,,105,0.0027701
+13499,Z06.05.02,OneGoal,,,,"$1,098",,,4100,0.0027701
+13503,Z06.04.01,Project Exploration,,,,$20,,,50,0.0027701
+13514,Z06.03.01,Right Moves For Youth,,,,$696,,,1348,0.0027701
+13516,Z12.01.04,Arts Refreshing the Soul,,,,$861,,,30,0.0053476
+13518,Z01.01.02,Charlotte Youth Ballet,,,,$24,,,1700,0.0070922
+13525,Z12.01.04,Storycatchers Theatre,,,,"$16,834",,,37,0.0053476
+13533,Z01.01.01,"Morgan State University Foundation, Inc.",,,,$955,,,44,0.0070922
+13536,Z05.03.03,"Jewish Vocational Service, Inc.",,,,"$7,296",,,48,0.0041667
+13537,Z05.02.03,Young Womens Christian Association of Oahu,,,,$167,,,60,0.0041667
+13538,Z01.02.01,Broadway For All,,,,$170,,,1000,0.0070922
+13539,Z08.04.05,North Suburban Legal Aid Clinic,,,,"$1,963",,,160,0.0057471
+13540,Z08.04.05,"House of Ruth, Inc.",,,,"$3,373",,,1005,0.0057471
+13541,Z06.03.03,"SitStayRead, Inc",,,,$310,,,2283,0.0027701
+13542,Z12.01.04,The First Tee of Greater Chicago,,,,$31,,,128,0.0053476
+13543,Z01.01.01,Writers Theatre Inc,,,,$26,,,7011,0.0070922
+13546,Z12.01.02,Forest Preserve Foundation,,,,"$3,647",,,102,0.0053476
+13547,Z06.05.03,ONE MILLION DEGREES,,,,$778,,,487,0.0027701
+13548,Z01.01.01,Victory Gardens Theater,,,,$144,,,1200,0.0070922
+13549,Z04.02.02,Veterans Network Committee Honor Flight of Northern & Western IL,,,,"$2,222",,,45,0.0133333
+13550,Z12.01.04,YMCA of Metropolitan Chicago,,,,"$7,835",,,310,0.0053476
+13552,Z12.01.02,Girl Scouts of Greater Chicago and Northwest Indiana (GSGCNWI),,,,$37,,,1200,0.0053476
+13553,Z04.02.03,Newberry Library,,,,$166,,,1200,0.0133333
+13555,Z06.05.01,By The Hand Club For Kids,,,,"$20,711",,,26,0.0027701
+13556,Z05.03.01,Chicago Foundation for Women,,,,"$8,857",,,42,0.0041667
+13557,Z12.01.04,Chicago Horticultural Society,,,,"$4,730",,,84,0.0053476
+13558,Z12.01.04,Enlace Chicago,,,,"$7,004",,,23,0.0053476
+13559,Z06.01.04,"Facing History and Ourselves, Inc.",,,,"$6,317",,,141,0.0027701
+13561,Z12.01.04,Juvenile Protective Association,,,,$485,,,255,0.0053476
+13562,Z12.01.01,"Mikva Challenge Grant Foundation, Inc",,,,$112,,,3500,0.0053476
+13564,Z05.03.06,North Lawndale Employment Network,,,,"$23,421",,,19,0.0041667
+13565,Z12.01.04,Northwestern Settlement's Adventure Stage Chicago,,,,"$2,552",,,30,0.0053476
+13566,Z06.05.01,Options for Youth,,,,"$2,286",,,35,0.0027701
+13567,Z08.02.01,Rush University Medical Center,,,,$290,,,1423,0.0057471
+13568,Z12.01.04,"Hero Spark, Inc.",,,,$132,,,151,0.0053476
+13569,Z01.01.01,The Joffrey Ballet,,,,"$10,597",,,92,0.0070922
+13570,Z08.01.01,Lakeland Volunteers In Medicine,,,,$838,,,1430,0.0057471
+13576,Z12.01.01,Cradles to Crayons Chicago,,,,"$1,483",,,24,0.0053476
+13577,Z06.01.04,Umoja Student Development Corporation,,,,"$114,651",,,11,0.0027701
+13578,Z05.03.06,North Lawndale Employment Network,,,,"$17,877",,,49,0.0041667
+13581,Z05.03.06,North Lawndale Employment Network,,,,"$6,585",,,106,0.0041667
+13582,Z12.01.01,Voices for Illinois Children,,,,"$2,692",,,13,0.0053476
+13587,Z01.01.02,Braddock Carnegie Library Association,,,,$316,,,174,0.0070922
+13589,Z03.04.01,"Hazelwood Initiative, Inc.",,,,"$133,333",,,6,0.0037736
+13591,Z08.03.01,Southwest Pennsylvania Environmental Health Project,,,,"$1,318",,,277,0.0057471
+13593,Z10.01.03,Green Building Alliance,,,,"$4,710",,,71,0.0270270
+13594,Z06.01.02,Young Voices for the Planet,,,,$556,,,180,0.0027701
+13595,Z01.02.01,Three Rivers Young Peoples Orchestras,,,,"$1,674",,,247,0.0070922
+13597,Z06.02.04,Breakthrough,,,,"$10,744",,,63,0.0027701
+13598,Z06.03.03,Breakthrough,,,,"$2,884",,,184,0.0027701
+13599,Z06.04.01,Breakthrough,,,,$654,,,154,0.0027701
+13600,Z12.01.04,Breakthrough,,,,$301,,,675,0.0053476
+13601,Z02.01.02,Breakthrough,,,,"$750,000",,,1,0.2000000
+13603,Z01.01.01,Steppenwolf Theatre Company,,,,$72,,,20030,0.0070922
+13604,Z06.01.03,Achievement First,,,,$500,,,100,0.0027701
+13606,Z06.01.04,"University of Maryland Baltimore Foundation, Inc.",,,,"$102,283",,,12,0.0027701
+13614,Z01.02.01,Gene Siskel Film Center of the School of the Art Institute of Chicago,,,,$98,,,102,0.0070922
+13618,Z01.02.01,Porchlight Music Theatre,,,,"$1,046",,,26,0.0070922
+13619,Z12.01.03,"SGA Youth and Family Services, NFP",,,,"$1,792",,,657,0.0053476
+13620,Z08.04.05,Cabrini Green Legal Aid,,,,"$2,857",,,7,0.0057471
+13627,Z08.04.01,YWCA Nashville & Middle Tennessee,,,,"$1,059",,,548,0.0057471
+13629,Z12.01.04,Young Chicago Authors,,,,$614,,,654,0.0053476
+13631,Z01.01.01,Lookingglass Theatre Company,,,,$95,,,898,0.0070922
+13640,Z06.01.04,Perspectives Charter Schools,,,,"$8,000",,,5,0.0027701
+13641,Z01.02.01,Urban Gateways,,,,$351,,,350,0.0070922
+13644,Z12.01.02,Cooke School and Institute,,,,"$8,454",,,162,0.0053476
+13645,Z03.03.01,Meals of Hope,,,,$252,,,400,0.0037736
+13647,Z08.01.01,"PANIRA Healthcare Clinic, Inc.",,,,$289,,,225,0.0057471
+13655,Z06.05.04,Rush University System for Health,,,,"$4,261",,,176,0.0027701
+13659,Z06.02.02,Ounce of Prevention Fund,,,,"$86,420",,,81,0.0027701
+13660,Z06.02.02,HANA Center,,,,$0,,,67,0.0027701
+13670,Z06.05.04,Public Health Sudbury & Districts,,,,"$5,113",,,37,0.0027701
+13674,Z03.03.01,Community Development Council of Quiinte,,,,$200,,,750,0.0037736
+13675,Z01.02.01,The Centre for Aboriginal (Ontario) o/a imagineNATIVE,,,,"$14,000",,,4,0.0070922
+13676,Z05.03.06,Employment + Education Centre,,,,"$4,010",,,49,0.0041667
+13677,Z08.02.02,Ve'ahavta,,,,"$9,167",,,30,0.0057471
+13678,Z01.01.01,White Buffalo Road Healing Lodge Inc.,,,,"$1,667",,,30,0.0070922
+13681,Z01.02.01,Talk Is Free Theatre,,,,"$3,421",,,57,0.0070922
+13682,Z01.01.02,Unity Charity,,,,$78,,,6184,0.0070922
+13683,Z01.01.02,Toronto Ward Museum Inc.,,,,$701,,,338,0.0070922
+13684,Z12.01.04,Chicago Lions Charitable Association,,,,$826,,,161,0.0053476
+13686,Z01.01.02,Chicago Humanities Festival,,,,$75,,,300,0.0070922
+13688,Z08.04.05,UIC John Marshall Law School,,,,"$1,082",,,42,0.0057471
+13691,Z01.02.01,Gene Siskel Film Center of the School of the Art Institute of Chicago,,,,$201,,,202,0.0070922
+13697,Z05.04.02,VeteransPlus,,,,$10,,,125000,0.0041667
+13702,Z12.01.04,Art Starts,,,,$410,,,400,0.0053476
+13703,Z05.04.03,Neighborhood Trust Financial Partners,,,,"$5,486",,,669,0.0041667
+13704,Z05.03.06,Newark Alliance,,,,"$20,892",,,12,0.0041667
+13705,Z06.05.01,"YouthBuild USA, Inc. dba YouthBuild International",,,,$690,,,290,0.0027701
+13706,Z08.07.02,Boys & Girls Club of Newark Inc,,,,$729,,,800,0.0057471
+13709,Z05.03.06,LeadersUp,,,,"$4,126",,,206,0.0041667
+13714,Z06.05.02,Moneythink,,,,$545,,,1740,0.0027701
+13716,Z05.02.01,University of Hartford,,,,"$3,261",,,23,0.0041667
+13718,Z06.05.04,"Year Up, Inc.",,,,"$45,188",,,2899,0.0027701
+13720,Z05.03.01,Lakeside HOPE House,,,,"$2,917",,,24,0.0041667
+13721,Z05.02.03,Greater Newark Enterprises Corporation (GNEC),,,,"$1,250",,,229,0.0041667
+13723,Z05.03.05,"HEDCO, Inc",,,,$237,,,38,0.0041667
+13724,Z03.04.01,LISC,,,,"$176,872",,,6,0.0037736
+13726,Z06.05.04,"Our Piece of the Pie, Inc.",,,,$288,,,670,0.0027701
+13734,Z12.01.01,U.S.-Japan Council,,,,"$4,000",,,25,0.0053476
+13738,Z05.04.02,SaverLife,,,,$20,,,105307,0.0041667
+13740,Z06.05.01,La Casa de Don Pedro,,,,"$13,333",,,15,0.0027701
+13742,Z05.03.06,Per Scholas,,,,"$15,287",,,88,0.0041667
+13748,Z10.02.01,Trout Lake Nature Center,,,,$6,,,20800,0.0270270
+13750,Z03.03.02,Edible Education Experience,,,,$375,,,80,0.0037736
+13751,Z01.01.01,Friends of the Mennello Museum of American Art,,,,$5,,,1726,0.0070922
+13752,Z03.02.01,"Center for Independent Living in Central Florida, Inc.",,,,$810,,,247,0.0037736
+13753,Z06.05.02,Big Brothers Big Sisters Lone Star,,,,$921,,,783,0.0027701
+13754,Z08.02.02,"Heavenly Hoofs, DBA McCormick Research Institute",,,,"$4,167",,,90,0.0057471
+13755,Z12.01.03,Children's Safety Village of Central Florida Inc.,,,,$26,,,2501,0.0053476
+13759,Z05.04.02,"NCBW of 100 INC, M.A.C",,,,$104,,,384,0.0041667
+13765,Z12.01.04,Gene Siskel Film Center of the School of the Art Institute of Chicago,,,,"$1,598",,,15,0.0053476
+13766,Z01.01.02,Gene Siskel Film Center of the School of the Art Institute of Chicago,,,,$54,,,179,0.0070922
+13767,Z03.04.03,Pathway Homes of Florida Inc,,,,"$9,524",,,99,0.0037736
+13768,Z08.02.03,Mental Health Association of Central Florida,,,,$513,,,39,0.0057471
+13769,Z06.02.02,Winter Park Day Nursery,,,,"$13,303",,,78,0.0027701
+13770,Z01.02.03,"International Fringe Festival of Central Florida, Inc.",,,,$533,,,2400,0.0070922
+13771,Z01.02.01,A Gift For Teaching,,,,$405,,,316,0.0070922
+13772,Z06.01.03,A Gift For Teaching,,,,"$3,131",,,208,0.0027701
+13773,Z01.01.02,Chicago Architecture Biennial,,,,$2,,,250000,0.0070922
+13774,Z12.01.01,Centre R.I.R.E. 2000,,,,$932,,,220,0.0053476
+13784,Z04.03.15,Festival des traditions du monde de Sherbrooke,,,,$1,,,68640,0.0133333
+13785,Z04.02.03,SADC région de Coaticook,,,,$686,,,55,0.0133333
+13787,Z06.04.02,Young Women's Christian Association El Paso del Norte Region,,,,"$1,717",,,1670,0.0027701
+13791,Z12.01.04,BRICK Education Network,,,,"$1,452",,,430,0.0053476
+13794,Z12.01.04,Carole Robertson Center for Learning,,,,"$4,167",,,60,0.0053476
+13804,Z01.02.02,City of Chicago Department of Cultural Affairs & Special Events,,,,$900,,,150,0.0070922
+13805,Z12.01.01,WE Charity,,,,$15,,,216900,0.0053476
+13808,Z01.02.01,Gene Siskel Film Center of the School of the Art Institute of Chicago,,,,$930,,,22,0.0070922
+13809,Z01.01.02,Gene Siskel Film Center of the School of the Art Institute of Chicago,,,,$113,,,179,0.0070922
+13811,Z03.03.01,Related Affordable Foundation,,,,$229,,,70,0.0037736
+13813,Z12.01.03,Related Affordable Foundation,,,,"$3,000",,,50,0.0053476
+13814,Z06.05.03,Related Affordable Foundation,,,,"$10,000",,,3,0.0027701
+13815,Z12.01.01,John Humphrey Centre for Peace and Human Rights,,,,$386,,,623,0.0053476
+13816,Z05.04.02,Bexar County Family Justice Center Foundation,,,,$657,,,158,0.0041667
+13820,Z08.04.05,YWCA USA,,,,$241,,,685,0.0057471
+13821,Z06.05.04,Braven,,,,"$3,790",,,59,0.0027701
+13822,Z06.03.03,Pratham Education Foundation,,,,"$903,506",,,2419,0.0027701
+13841,Z04.02.04,Alberta Recreation and Parks Association,,,,"$1,500",,,100,0.0133333
+13842,Z01.01.02,Vancouver Asian Heritage Month Society,,,,$3,,,15000,0.0070922
+13843,Z05.03.05,AFP Foundation for Philanthropy - Canada,,,,"$7,444",,,18,0.0041667
+13844,Z04.02.03,Armenian Holy Apostolic Church Canadian Diocese,,,,$782,,,273,0.0133333
+13845,Z01.02.03,Africa Festival of Arts and Culture Society (AFACS),,,,$405,,,200,0.0070922
+13846,Z04.02.04,Iranian-Canadian Centre for Art and Culture,,,,$36,,,13500,0.0133333
+13847,Z04.02.03,Métis Addictions Council of Saskatchewan Inc.,,,,$56,,,1900,0.0133333
+13856,Z03.03.01,End 68 Hours of Hunger,,,,$26,,,3500,0.0037736
+13860,Z03.04.03,Rebuilding Together Philadelphia,,,,"$10,471",,,88,0.0037736
+13866,Z03.03.01,St. Mary's Food Bank,,,,$55,,,300000,0.0037736
+13869,Z12.01.01,Rwandan Canadian Healing Centre,,,,$863,,,150,0.0053476
+13874,Z05.03.01,Hack the Hood,,,,"$6,793",,,58,0.0041667
+13875,Z06.04.02,Gladesmore Community School,,,,$194,,,235,0.0027701
+13880,Z05.03.01,NAF,,,,$199,,,15147,0.0041667
+13882,Z12.01.04,KELY Support Group,,,,"$2,083",,,24,0.0053476
+13883,Z06.04.02,Hetrick-Martin Institute,,,,"$4,278",,,18,0.0027701
+13892,Z05.02.01,The Fore (operating under The Bulldog Trust),,,,"$35,015",,,47,0.0041667
+13896,Z05.03.01,NFTE (Network for Teaching Entrepreneurship),,,,$783,,,383,0.0041667
+13901,Z06.02.04,Related Affordable Foundation,,,,"$2,400",,,50,0.0027701
+13902,Z06.03.03,"House of Bread, Inc.",,,,$188,,,520,0.0027701
+13903,Z03.03.01,House of Bread,,,,$149,,,650,0.0037736
+13904,Z03.03.01,People's Emergency Center,,,,$3,,,14577,0.0037736
+13907,Z05.02.03,"Hispanic Business Initiative Fund of Florida Inc., dba Prospera",,,,$622,,,5000,0.0041667
+13908,Z06.05.04,"The Foundation for Osceola Education, Inc.",,,,$125,,,800,0.0027701
+13909,Z06.03.03,"The Foundation for Osceola Education, Inc.",,,,$223,,,480,0.0027701
+13911,Z03.03.01,"Share Food Program, Inc",,,,$6,,,15000,0.0037736
+13916,Z03.03.01,Aging & In-Home Services of Northeast Indiana,,,,$723,,,919,0.0037736
+13917,Z06.01.04,The Foundation for Osceola Education,,,,"$2,284",,,67,0.0027701
+13920,Z04.02.03,L'Anonyme U.I.M.,,,,$677,,,223,0.0133333
+13922,Z04.03.09,"Volunteer Lawyer Program of Northeast Indiana, Inc.",,,,$144,,,2043,0.0133333
+13923,Z03.04.03,Habitat for Humanity Philadelphia,,,,"$31,200",,,55,0.0037736
+13925,Z03.03.02,MANNA,,,,"$1,538",,,3738,0.0037736
+13926,Z05.03.01,"The Arc of Northeast Indiana, dba Easterseals Arc of Northeast Indiana",,,,$865,,,650,0.0041667
+13941,Z03.03.01,Mercy Housing & Shelter Corporation,,,,$656,,,3500,0.0037736
+13944,Z03.03.01,Foodshare,,,,$7,,,68850,0.0037736
+13945,Z03.05.03,Bethesda Project,,,,"$13,589",,,139,0.0037736
+13946,Z03.05.02,Interfaith Hospitality Network of Greater Fort Wayne (Just Neighbors Interfaith Homeless Network),,,,"$1,838",,,302,0.0037736
+13951,Z04.02.03,Centre for Race and Culture,,,,"$1,925",,,67,0.0133333
+13952,Z04.02.03,North Shore Multicultural Society,,,,$182,,,192,0.0133333
+13953,Z04.02.03,Council of Agencies Serving South Asians,,,,$774,,,225,0.0133333
+13955,Z03.05.02,American Red Cross Philadelphia Chapter,,,,"$1,531",,,949,0.0037736
+13956,Z03.04.03,"Community Housing Solutions of Guilford, Inc.",,,,"$2,773",,,342,0.0037736
+13957,Z03.03.01,"Loaves and Fishes Ministries, Inc.",,,,$14,,,6265,0.0037736
+13959,Z03.04.03,Rebuilding Together Philadelphia,,,,"$15,169",,,62,0.0037736
+13960,Z03.02.02,"Turnstone Center for Children and Adults with Disabilities, Inc.",,,,"$2,211",,,3091,0.0037736
+13961,Z08.04.05,"Hartford Interval House, Inc.",,,,"$3,729",,,207,0.0057471
+13962,Z03.04.03,"Philadelphia VIP, Inc.",,,,"$1,593",,,605,0.0037736
+13965,Z12.01.02,Junior Achievement of New Jersey,,,,$50,,,2220,0.0053476
+13966,Z08.04.05,YWCA Northeast Indiana,,,,"$3,232",,,351,0.0057471
+13967,Z03.03.01,Hands On Hartford,,,,$791,,,974,0.0037736
+13980,Z05.04.02,YWCA USA,,,,$329,,,619,0.0041667
+13988,Z12.01.01,The Mosaic Institute,,,,$91,,,946,0.0053476
+13989,Z04.02.03,Maison Saint Columba House,,,,$400,,,250,0.0133333
+13995,Z01.01.02,Ballet Nebraska DBA American Midwest Ballet,,,,$0,,,10658,0.0070922
+14003,Z04.02.03,Multicultural Council of Saskacthewan,,,,$7,,,20000,0.0133333
+14008,Z03.03.01,Out of the Garden Project,,,,$77,,,27104,0.0037736
+14018,Z05.04.01,Community Action of N.E. Indiana (dba:Brightpoint),,,,"$4,635",,,312,0.0041667
+14023,Z03.05.02,"The Friends Program, Inc.",,,,"$26,112",,,27,0.0037736
+14024,Z03.02.01,Inglis Foundation,,,,$597,,,563,0.0037736
+14043,Z12.01.01,ALLIANCE JEUNESSE-FAMILLE DE L'ALBERTA SOCIETY,,,,$6,,,55000,0.0053476
+14044,Z04.02.03,Nunavut Black History Society,,,,$25,,,3579,0.0133333
+14048,Z03.04.03,West End Ministries,,,,"$1,705",,,103,0.0037736
+14052,Z08.04.05,"Center for Nonviolence, Inc",,,,$634,,,538,0.0057471
+14055,Z01.01.02,The Shoe Project,,,,"$1,400",,,100,0.0070922
+14056,Z03.03.01,"Community Harvest Food Bank of Northeast Indiana, Inc.",,,,$17,,,51300,0.0037736
+14057,Z03.05.02,Concord Coalition to End Homelessness,,,,$363,,,193,0.0037736
+14062,Z03.03.01,"Grafton County Senior Citizens Council, Inc.",,,,$367,,,8652,0.0037736
+14063,Z03.05.03,Greensboro Urban Ministry,,,,"$3,725",,,200,0.0037736
+14067,Z08.05.02,HealthBridge Foundation of Canada,,,,$541,,,9000,0.0057471
+14070,Z05.02.01,Village Capital,,,,"$46,308",,,12,0.0041667
+14086,Z10.01.04,Nova Institute NPC,,,,$34,,,2435,0.0270270
+14090,Z05.03.01,Oprah Winfrey Leadership Academy Foundation,,,,"$1,667",,,42,0.0041667
+14105,Z03.03.01,Three Square,,,,$18,,,2830,0.0037736
+14113,Z05.03.01,Working in Support of Education,,,,$268,,,850,0.0041667
+14114,Z08.03.01,Dancing for Diabetes,,,,$27,,,1500,0.0057471
+14115,Z05.04.02,National Foundation for Credit Counseling,,,,"$10,000",,,100,0.0041667
+14116,Z03.04.01,Habitat for Humanity of Omaha,,,,"$197,400",,,12,0.0037736
+14117,Z03.05.01,Homeless Advocacy Project (HAP),,,,"$1,242",,,1429,0.0037736
+14123,Z10.01.04,The Resource Foundation,,,,$34,,,8778,0.0270270
+14131,Z03.05.02,YWCA Greensboro,,,,"$3,923",,,52,0.0037736
+14136,Z03.05.03,Women's Community Revitalization Project (WCRP),,,,$718,,,268,0.0037736
+14138,Z03.05.03,Valley Youth House,,,,"$2,422",,,172,0.0037736
+14141,Z12.01.04,Uplift Center for Grieving Children,,,,$850,,,1470,0.0053476
+14142,Z03.03.01,The Greater Boston Food Bank,,,,$107,,,4500,0.0037736
+14144,Z03.03.01,The Food Trust,,,,$14,,,23540,0.0037736
+14145,Z03.05.04,The Connecticut Coalition to End Homelessness,,,,"$2,428",,,226,0.0037736
+14148,Z03.03.01,Share Food Program,,,,$7,,,300000,0.0037736
+14150,Z03.05.03,"SCAN, Inc.",,,,"$3,378",,,43,0.0037736
+14152,Z03.05.03,Project HOME,,,,"$23,046",,,719,0.0037736
+14161,Z03.03.03,Out of the Garden Project,,,,$651,,,3500,0.0037736
+14166,Z08.04.05,Legal Aid of Nebraska,,,,"$1,563",,,400,0.0057471
+14167,Z08.04.05,Legal Aid of Nebraska,,,,"$1,293",,,509,0.0057471
+14169,Z08.04.05,Women's Center for Advancement,,,,"$1,077",,,4703,0.0057471
+14170,Z03.05.01,Veterans Multi-Service Center,,,,$208,,,1900,0.0037736
+14176,Z05.02.03,The Fore (operating under The Bulldog Trust),,,,"$56,195",,,26,0.0041667
+14180,Z03.03.03,Greater Philadelphia Coalition Against Hunger,,,,$48,,,5000,0.0037736
+14202,Z06.04.02,Hetrick-Martin Institute,,,,"$3,667",,,21,0.0027701
+14204,Z03.04.03,The Mustard Seed of Central Florida,,,,"$893,237",,,1,0.0037736
+14208,Z08.01.01,Community Transportation Network,,,,"$2,387",,,808,0.0057471
+14209,Z03.05.03,The Servant Center,,,,"$14,573",,,17,0.0037736
+14211,Z06.03.04,Boys & Girls Clubs of Hartford,,,,$344,,,750,0.0027701
+14214,Z06.05.02,"CollegeTracks, Inc.",,,,"$1,313",,,533,0.0027701
+14216,Z08.04.01,YWCA Northeast Indiana,,,,$19,,,6892,0.0057471
+14217,Z08.04.05,YWCA Northeast Indiana,,,,"$1,466",,,324,0.0057471
+14219,Z03.02.01,"League for the Blind & Disabled, Inc.",,,,"$4,647",,,485,0.0037736
+14223,Z05.03.01,YWCA Northeast Indiana,,,,$700,,,100,0.0041667
+14224,Z08.06.04,YWCA Northeast Indiana,,,,"$10,614",,,114,0.0057471
+14229,Z03.03.01,Senior Resources Guilford,,,,"$1,165",,,625,0.0037736
+14230,Z08.04.05,National Network to End Domestic Violence,,,,$731,,,479,0.0057471
+14231,Z03.03.01,"Community Servings, Inc.",,,,"$2,790",,,2012,0.0037736
+14232,Z03.03.01,Second Harvest Food Bank of Metrolina,,,,$183,,,8176,0.0037736
+14233,Z03.05.02,"Vincent Village, Inc",,,,"$14,137",,,90,0.0037736
+14239,Z10.01.04,HandsOn Hong Kong,,,,$2,,,1456,0.0270270
+14240,Z03.06.10,HandsOn Hong Kong,,,,$156,,,27,0.0037736
+14241,Z05.03.01,Hack the Hood,,,,"$13,198",,,10,0.0041667
+14242,Z05.03.01,Hack the Hood,,,,"$10,351",,,51,0.0041667
+14245,Z05.02.03,Vrutti,,,,$299,,,95,0.0041667
+14246,Z05.03.01,Brunel University London,,,,"$1,546",,,134,0.0041667
+14247,Z05.03.01,Career Ready,,,,"$1,371",,,1744,0.0041667
+14248,Z05.02.03,Echoing Green,,,,"$10,552",,,70,0.0041667
+14249,Z06.04.02,Gladesmore Community School,,,,$452,,,100,0.0027701
+14251,Z09.01.03,Community Safety Knowledge Alliance,,,,"$40,000",,,10,0.0400000
+14255,Z05.04.03,Hampden County Bar Foundation Inc.,,,,"$1,904",,,80,0.0041667
+14257,Z03.03.01,"Sunshine Division, Inc.",,,,$639,,,100,0.0037736
+14258,Z05.03.01,Career Ready,,,,$27,,,45500,0.0041667
+14269,Z03.06.10,senior resource alliance,,,,$1,,,250,0.0037736
+14277,Z03.03.03,Capitol Region Food Program dba Capital Region Food Program,,,,$14,,,6623,0.0037736
+14278,Z03.03.01,Capitol Region Food Program dba Capital Region Food Program,,,,$11,,,6800,0.0037736
+14279,Z05.03.01,HandsOn Hong Kong,,,,$600,,,5,0.0041667
+14288,Z01.01.02,Everyman Theatre,,,,$203,,,16000,0.0070922
+14294,Z03.04.03,"Pathway Homes of Florida, Inc.",,,,"$6,300",,,100,0.0037736
+14295,Z06.05.02,Los Angeles United Methodist Urban Foundation,,,,"$1,143",,,350,0.0027701
+14296,Z06.05.03,The Scholarship Fund of Alexandria,,,,"$3,333",,,300,0.0027701
+14298,Z10.01.03,Environmental Integrity Project,,,,"$14,200",,,25,0.0270270
+14300,Z05.03.06,"Second Harvest Food Bank of Central Florida, Inc.",,,,"$5,027",,,77,0.0041667
+14302,Z03.05.04,Youth Emergency Services,,,,"$4,442",,,205,0.0037736
+14303,Z12.01.02,"Lifeline Youth & Family Services, Inc.",,,,"$35,623",,,16,0.0053476
+14304,Z03.01.02,"Lifeline Youth & Family Services, Inc.",,,,"$5,565",,,257,0.0037736
+14305,Z06.02.02,"Lifeline Youth & Family Services, Inc.",,,,"$5,094",,,33,0.0027701
+14306,Z12.01.04,Child Saving Institute,,,,"$13,975",,,63,0.0053476
+14307,Z12.01.02,Child Saving Institute Inc,,,,"$8,061",,,21,0.0053476
+14308,Z03.02.03,"Harc, Inc.",,,,"$28,927",,,260,0.0037736
+14316,Z12.01.03,"MORE HEALTH, Inc",,,,"$45,000",,,1,0.0053476
+14319,Z01.01.02,Northlight Theatre,,,,$45,,,3300,0.0070922
+14321,Z10.02.01,Surfrider Foundation Europe,,,,$3,,,91160,0.0270270
+14325,Z08.04.01,YWCA Nashville & Middle Tennessee,,,,$154,,,3780,0.0057471
+14333,Z04.02.05,Bureau Associatif pour la Diversité et la Réinsertion,,,,$298,,,600,0.0133333
+14338,Z05.02.03,The Asia Foundation,,,,"$1,510",,,69,0.0041667
+14339,Z05.02.01,"Acumen, Inc.",,,,"$59,318",,,100,0.0041667
+14340,Z05.02.03,TechnoServe Inc.,,,,$439,,,2400,0.0041667
+14341,Z05.02.03,The Resource Foundation,,,,$677,,,523,0.0041667
+14342,Z05.02.03,Foundation for Small Business Development,,,,$604,,,250,0.0041667
+14343,Z12.01.04,New Horizons of SW FL,,,,"$1,326",,,113,0.0053476
+14344,Z12.01.01,Sing for Hope Inc,,,,$6,,,82000,0.0053476
+14345,Z12.01.01,The Chicago Community Trust,,,,$89,,,1850,0.0053476
+14346,Z03.02.04,Start Me Up Niagara,,,,"$175,000",,,2,0.0037736
+14347,Z08.04.01,House of Deliverance for Battered Women,,,,"$15,165",,,8,0.0057471
+14350,Z06.05.01,C.A.R.E. Learning Centre,,,,"$7,059",,,42,0.0027701
+14351,Z03.04.03,John Howard Society of Ontario,,,,"$9,224",,,61,0.0037736
+14352,Z03.04.03,Habitat for Humanity of Collier County,,,,"$4,124",,,7032,0.0037736
+14353,Z03.04.03,"Legal Aid Service of Collier County, a Division of Legal Aid Service of Broward County, Inc.",,,,$209,,,262,0.0037736
+14354,Z03.05.01,Youth Haven,,,,"$12,375",,,291,0.0037736
+14355,Z03.05.03,Services and Housing In the Province (SHIP),,,,"$14,226",,,27,0.0037736
+14356,Z03.05.03,WoodGreen Community Services,,,,"$21,492",,,28,0.0037736
+14357,Z12.01.03,OMNI Youth Services,,,,"$2,562",,,888,0.0053476
+14358,Z08.06.04,Mackay Manor Inc.,,,,$868,,,420,0.0057471
+14359,Z12.01.04,Youth Guidance,,,,"$4,238",,,1050,0.0053476
+14360,Z12.01.04,Friends of the Children,,,,"$3,747",,,1248,0.0053476
+14361,Z12.01.04,Hospitality Workers Training Centre (HWTC),,,,"$45,683",,,10,0.0053476
+14362,Z12.01.04,KaBOOM!,,,,$90,,,1200,0.0053476
+14363,Z12.01.04,Chain Reaction Bermuda,,,,$137,,,1170,0.0053476
+14364,Z12.01.04,"Health World Education, Inc",,,,$0,,,75962,0.0053476
+14365,Z12.01.04,Big Brothers Big Sisters Lone Star,,,,"$1,325",,,531,0.0053476
+14366,Z12.01.04,Junior Achievement of New Jersey,,,,$49,,,1824,0.0053476
+14367,Z12.01.04,Better Boys Foundation,,,,$351,,,498,0.0053476
+14368,Z12.01.04,"Boys & Girls Clubs of Metro Denver, Inc.",,,,"$2,447",,,6060,0.0053476
+14369,Z12.01.04,"The Bridge Family Center, Inc.",,,,$714,,,510,0.0053476
+14370,Z12.01.04,Harrisburg Area YMCA,,,,"$1,961",,,20,0.0053476
+14371,Z12.01.04,Street Soccer USA,,,,$31,,,2760,0.0053476
+14372,Z12.01.04,Valerie's House,,,,"$1,345",,,298,0.0053476
+14373,Z12.01.04,Juvenile Protective Association,,,,$351,,,174,0.0053476
+14374,Z06.04.01,Girls Inc. of New York City,,,,"$1,389",,,90,0.0027701
+14375,Z06.04.01,The Franklin Institute,,,,$6,,,100000,0.0027701
+14376,Z06.04.01,Innovation High School,,,,$505,,,20,0.0027701
+14377,Z06.04.01,Museum of Science and Industry,,,,$25,,,4000,0.0027701
+14378,Z05.02.03,One by One Foundation,,,,"$2,055",,,71,0.0041667
+14379,Z01.02.01,826 National,,,,$376,,,850,0.0070922
+14380,Z01.02.01,"The Shelter for Abused Women & Children, Inc.",,,,$902,,,61,0.0070922
+14381,Z01.02.01,Forward Momentum Chicago NFP,,,,$538,,,160,0.0070922
+14382,Z08.04.05,YWCA Greenwich Connecticut Inc,,,,$225,,,6500,0.0057471
+14383,Z05.03.01,Social Planning Council of Sudbury,,,,"$7,429",,,7,0.0041667
+14384,Z08.04.05,Saint John's Program for Real Change,,,,"$16,096",,,414,0.0057471
+14385,Z08.04.05,Houston Area Urban League,,,,$147,,,347,0.0057471
+14386,Z08.04.05,Children's Home Society of Missouri dba FamilyForward,,,,"$1,068",,,267,0.0057471
+14387,Z08.04.05,"Indiana Coalition Against Domestic Violence, Inc.",,,,"$1,194",,,42,0.0057471
+14388,Z08.04.05,Love You Girl Foundation,,,,$67,,,300,0.0057471
+14389,Z08.04.05,Plumas Rural Services,,,,"$1,150",,,3,0.0057471
+14390,Z08.04.05,"liveSAFE Resources, Inc.",,,,"$22,096",,,1051,0.0057471
+14391,Z03.03.01,Food4Kids,,,,$600,,,2500,0.0037736
+14392,Z03.03.01,Community Food Centres Canada,,,,$444,,,384,0.0037736
+14393,Z03.03.01,Chewelah Faith Resources Group,,,,$327,,,73,0.0037736
+14394,Z08.02.01,Egale Canada Human Rights Trust,,,,"$8,560",,,120,0.0057471
+14395,Z08.02.01,Lanark County Mental Health--Perth and Smiths Falls District Hospital,,,,$0,,,100,0.0057471
+14396,Z08.02.01,London Family Court Clinic,,,,"$7,467",,,78,0.0057471
+14397,Z08.02.01,Healthcare Network of Southwest Florida,,,,"$8,521",,,125,0.0057471
+14398,Z08.02.01,"David Lawrence Mental Health Center, Inc.",,,,$489,,,3192,0.0057471
+14399,Z03.05.02,oneROOF Youth Services,,,,"$6,618",,,72,0.0037736
+14400,Z05.03.03,Per Scholas,,,,"$4,690",,,215,0.0041667
+14401,Z05.03.03,"Associated Catholic Charities, Inc.",,,,"$6,317",,,52,0.0041667
+14402,Z05.03.03,"Associated Catholic Charities, Inc.",,,,"$13,538",,,67,0.0041667
+14403,Z08.01.01,Vanier Community Service Centre,,,,"$4,527",,,50,0.0057471
+14404,Z08.01.01,"Partners for Breast Cancer Care, Inc.",,,,$234,,,363,0.0057471
+14405,Z08.01.02,Centre for Effective Practice,,,,"$1,647",,,175,0.0057471
+14406,Z08.01.02,Naples Lions Club Foundation,,,,$0,,,12738,0.0057471
+14407,Z06.05.04,Pathways Skill Development and Placement Centre,,,,"$79,728",,,8,0.0027701
+14408,Z06.05.04,Chicago Architecture Foundation,,,,"$2,476",,,30,0.0027701
+14409,Z06.05.04,YouthBuild USA,,,,"$5,385",,,33,0.0027701
+14410,Z06.05.04,Roadtrip Nation,,,,$7,,,306030,0.0027701
+14411,Z05.03.05,Coro New York Leadership Center,,,,"$2,900",,,100,0.0041667
+14412,Z05.03.05,Free Spirit Media,,,,"$4,324",,,61,0.0041667
+14413,Z12.01.01,Sweetwater County School District #1,,,,"$2,894",,,49,0.0053476
+14414,Z06.05.02,OneGoal,,,,"$1,218",,,7220,0.0027701
+14415,Z06.05.02,"Champions For Learning (The Education Foundation of Collier County, Inc.)",,,,"$1,704",,,754,0.0027701
+14416,Z06.05.02,New Horizons of SW FL,,,,"$4,000",,,20,0.0027701
+14417,Z10.02.01,south florida national parks trust,,,,$97,,,2673,0.0270270
+14418,Z04.02.03,HOLOCAUST MUSEUM & EDUCATION CENTER OF SWFL,,,,$83,,,7229,0.0133333
+14419,Z03.04.01,Residential Options of Florida (ROOF),,,,"$139,535",,,4,0.0037736
+14420,Z03.04.01,"Habitat for Humanity of Jacksonville, Inc.",,,,"$50,000",,,3,0.0037736
+14421,Z06.02.02,BSMART Development Foundation,,,,$159,,,312,0.0027701
+14424,Z03.03.03,Harry Chapin Food Bank of Southwest Florida,,,,$4,,,150000,0.0037736
+14425,Z01.01.01,The Old Vic Theatre,,,,$32,,,283,0.0070922
+14426,Z01.01.01,San Francisco Museum of Modern Art,,,,$59,,,1188000,0.0070922
+14427,Z01.01.01,The Museum of Modern Art,,,,$0,,,150000,0.0070922
+14428,Z01.01.01,DC Film Alliance,,,,$7,,,11000,0.0070922
+14429,Z01.01.01,Classic Chamber Concerts,,,,$76,,,262,0.0070922
+14430,Z01.01.01,Gulfshore Playhouse,,,,$10,,,3000,0.0070922
+14432,Z03.03.02,YWCA Peterborough Haliburton,,,,$926,,,540,0.0037736
+14433,Z03.03.02,Kawartha Pine Ridge District School Board,,,,"$7,589",,,19,0.0037736
+14434,Z08.04.01,Artemis Center,,,,$14,,,1806,0.0057471
+14435,Z12.01.02,Junior Achievement of Arizona,,,,$51,,,27268,0.0053476
+14436,Z05.03.01,The Guelph Community Health Centre,,,,"$4,133",,,15,0.0041667
+14437,Z01.01.02,Whitney Museum of American Art,,,,$107,,,550000,0.0070922
+14438,Z01.01.02,Staten Island Children's Museum,,,,$16,,,107800,0.0070922
+14439,Z01.01.02,The Children's Museum of Manhattan,,,,$0,,,50000,0.0070922
+14441,Z01.01.02,Sing for Hope Inc,,,,$32,,,12500,0.0070922
+14442,Z01.01.02,Chicago Symphony Orchestra,,,,$25,,,200000,0.0070922
+14444,Z06.04.01,Girls Who Code,,,,"$4,310",,,17,0.0027701
+14445,Z08.01.01,Region of Waterloo,,,,"$1,278",,,400,0.0057471
+14446,Z10.01.02,Conservancy of Southwest Florida,,,,$5,,,6807,0.0270270
+14447,Z06.05.03,EALgreen,,,,"$1,045",,,574,0.0027701
+14448,Z08.04.01,Wellspring (inc. as Domestic Violence and Rape Crisis Services of Saratoga County),,,,$259,,,4057,0.0057471
+14450,Z03.04.03,Unity Project for Relief of Homelessness in London,,,,"$1,293",,,209,0.0037736
+14451,Z03.04.03,"Housing Development Corporation of SW Florida, Inc., d/b/a HELP",,,,$660,,,326,0.0037736
+14452,Z08.06.03,Good Shepherd Refuge Social Ministries,,,,"$8,989",,,33,0.0057471
+14453,Z08.06.03,St. Matthew's House,,,,"$22,208",,,146,0.0057471
+14455,Z08.07.02,Durham District School Board,,,,"$3,262",,,168,0.0057471
+14456,Z03.05.03,Brampton Caledon Community Living,,,,$0,,,19,0.0037736
+14457,Z03.05.03,Good Shepherd Centre Hamilton,,,,"$1,787",,,174,0.0037736
+14460,Z06.02.03,Breakthrough Urban Ministries,,,,"$10,526",,,57,0.0027701
+14461,Z06.02.03,BSMART Development Foundation,,,,"$5,733",,,11,0.0027701
+14462,Z06.02.03,Naples Music Club/Music Foundation of Greater Naples,,,,$247,,,320,0.0027701
+14463,Z06.02.03,Friends of Foster Children Forever,,,,$728,,,172,0.0027701
+14464,Z06.02.03,FUN TIME EARLY CHILDHOOD ACADEMY,,,,"$16,348",,,95,0.0027701
+14465,Z06.02.03,Pathways Early Education Center of Immokalee,,,,"$17,564",,,85,0.0027701
+14466,Z06.02.03,"Grace Place for Children and Families, Inc.",,,,"$5,246",,,139,0.0027701
+14467,Z06.02.03,"Florida Gulf Coast University Foundation, Inc.",,,,$12,,,1800,0.0027701
+14468,Z12.01.04,Naples Concert Band,,,,$15,,,5000,0.0053476
+14469,Z12.01.04,Gulfshore Opera,,,,$9,,,3825,0.0053476
+14470,Z06.02.01,Literacy Volunteers of Collier County,,,,$784,,,128,0.0027701
+14471,Z08.02.01,"Holly's House, Inc.",,,,$158,,,730,0.0057471
+14472,Z06.05.04,Junior Achievement of Central Indiana,,,,$127,,,15500,0.0027701
+14473,Z06.05.04,BestPrep,,,,$176,,,3524,0.0027701
+14474,Z12.01.01,Maryland Public Secondary School Athletic Association,,,,$204,,,420,0.0053476
+14475,Z06.05.03,ONE MILLION DEGREES,,,,"$7,829",,,62,0.0027701
+14476,Z06.05.03,LINK Unlimited Scholars,,,,"$3,368",,,500,0.0027701
+14477,Z01.01.01,Lookingglass Theatre Company,,,,$584,,,843,0.0070922
+14478,Z08.04.02,Utah Domestic Violence Advisory Council,,,,"$10,000",,,5,0.0057471
+14479,Z08.04.02,"La Casa, Inc.",,,,"$3,056",,,673,0.0057471
+14480,Z08.02.02,Adler University,,,,"$30,387",,,34,0.0057471
+14481,Z08.04.03,YWCA Oklahoma City,,,,$969,,,3921,0.0057471
+14482,Z12.01.03,Southeastern Chapter - National Safety Council,,,,$50,,,16967,0.0053476
+14483,Z12.01.03,UMass Memorial Healthcare,,,,$161,,,404,0.0053476
+14484,Z12.01.03,"Facets Multi-Media, Inc",,,,$32,,,6188,0.0053476
+14485,Z12.01.04,East Bay Asian Youth Center,,,,"$1,176",,,112,0.0053476
+14486,Z12.01.04,Chicago Humanities Festival,,,,$79,,,276,0.0053476
+14487,Z12.01.04,Boys and Girls Club of the Pikes Peak Region,,,,"$1,982",,,51,0.0053476
+14488,Z12.01.04,White Plains Library Foundation,,,,$11,,,2250,0.0053476
+14489,Z05.02.03,Young Women's Christian Association of Oahu,,,,"$3,367",,,18,0.0041667
+14490,Z01.02.01,The Woodruff Arts Center,,,,"$3,352",,,25,0.0070922
+14491,Z01.02.01,League of Chicago Theatres,,,,$34,,,1500,0.0070922
+14492,Z01.02.01,"Hubbard Street Dance Chicago, Inc",,,,$251,,,3036,0.0070922
+14493,Z01.02.01,Chicago Children's Choir,,,,$34,,,7040,0.0070922
+14494,Z01.02.01,Hyde Park Art Center,,,,"$1,782",,,98,0.0070922
+14495,Z08.04.05,Maine Coalition to End Domestic Violence,,,,$631,,,79,0.0057471
+14496,Z08.04.05,"Domestic Abuser Project of Delaware County, Inc.",,,,$7,,,3496,0.0057471
+14497,Z08.04.05,Houston Area Women's Center,,,,$132,,,56700,0.0057471
+14498,Z08.04.05,Fresh Start Women's Foundation,,,,$831,,,288,0.0057471
+14499,Z08.04.05,"Susan B. Anthony Project, Inc.",,,,$29,,,2145,0.0057471
+14500,Z08.04.05,projectHandUp/The Gatehouse,,,,"$2,619",,,90,0.0057471
+14501,Z08.04.05,Florida Coalition Against Domestic Violence,,,,$24,,,3922,0.0057471
+14502,Z08.04.05,Pennsylvania Coalition Against Domestic Violence,,,,$369,,,452,0.0057471
+14503,Z08.04.05,Ohio Domestic Violence Network,,,,"$5,500",,,10,0.0057471
+14504,Z08.04.05,: Delaware Coalition Against Domestic Violence,,,,$278,,,180,0.0057471
+14505,Z08.04.05,Texas Council on Family Violence,,,,"$1,852",,,27,0.0057471
+14506,Z08.04.05,Louisiana Coalition Against Domestic Violence,,,,$225,,,222,0.0057471
+14507,Z08.04.05,Safe+Sound Somerset,,,,"$1,159",,,189,0.0057471
+14508,Z08.04.05,The Family Place,,,,"$2,744",,,94,0.0057471
+14509,Z08.04.05,YWCA Evanston/North Shore,,,,"$2,332",,,700,0.0057471
+14510,Z08.04.05,Oklahoma Coalition Against Domestic Violence and Sexual Assault,,,,"$5,391",,,62,0.0057471
+14511,Z08.04.05,Between Friends,,,,$578,,,2769,0.0057471
+14512,Z08.04.05,Partners for Women and Justice,,,,"$3,014",,,400,0.0057471
+14513,Z08.04.05,"WINGS Program, Inc.",,,,"$5,118",,,469,0.0057471
+14514,Z03.02.06,"Special Olympics Pennsylvania, Inc.",,,,$100,,,805,0.0037736
+14517,Z05.03.01,JA Asia Pacific Limited,,,,$402,,,280,0.0041667
+14518,Z05.03.01,Working in Support of Education (W!se),,,,$492,,,449,0.0041667
+14519,Z06.04.02,Girls Inc. of New York City,,,,"$1,220",,,123,0.0027701
+14520,Z05.03.01,The Posse Foundation,,,,"$4,533",,,660,0.0041667
+14521,Z05.03.01,Columbia University School of General Studies,,,,"$10,000",,,5,0.0041667
+14523,Z05.03.01,Prep for Prep,,,,"$2,035",,,314,0.0041667
+14524,Z05.03.01,"Creating an Environment of Success, Inc",,,,"$5,000",,,300,0.0041667
+14526,Z05.03.01,Junior Achievement Lithuania,,,,$4,,,4406,0.0041667
+14527,Z06.04.02,Girls Who Code,,,,"$6,496",,,1053,0.0027701
+14528,Z05.03.01,NAF,,,,$182,,,14276,0.0041667
+14529,Z06.04.02,Liberty LEADS at Bank Street College,,,,"$13,171",,,85,0.0027701
+14534,Z05.02.03,WEConnect International,,,,"$3,133",,,75,0.0041667
+14536,Z05.03.01,CareerTrackers Indigenous Internship Program,,,,$724,,,73,0.0041667
+14537,Z09.02.01,KELY Support Group,,,,"$2,632",,,19,0.0400000
+14538,Z06.04.02,Girls Inc.,,,,"$3,704",,,135,0.0027701
+14539,Z05.03.01,Network for Teaching Entrepreneurship,,,,$205,,,2536,0.0041667
+14540,Z05.03.01,Network for Teaching Entrepreneurship,,,,$550,,,868,0.0041667
+14541,Z03.02.02,NextStep Orlando,,,,"$4,795",,,73,0.0037736
+14542,Z03.05.02,Siena Francis House,,,,$726,,,2719,0.0037736
+14543,Z03.02.01,"League for the Blind and Disabled, Inc.",,,,"$1,728",,,497,0.0037736
+14544,Z03.03.01,Food Bank for the Heartland,,,,$63,,,26000,0.0037736
+14545,Z08.02.02,The Devereux Foundation,,,,"$1,375",,,20,0.0057471
+14546,Z01.02.01,Hyde Park Art Center,,,,"$1,520",,,162,0.0070922
+14547,Z06.05.03,Campus Compact for New Hampshire,,,,$393,,,450,0.0027701
+14548,Z12.01.04,Bellevue West Little League,,,,$240,,,500,0.0053476
+14549,Z05.02.03,Nussbaum Center for Entrepreneurship,,,,$30,,,500,0.0041667
+14550,Z08.03.04,Friends of Hope Academy,,,,$800,,,75,0.0057471
+14551,Z12.01.01,Claretian Associate,,,,"$2,000",,,30,0.0053476
+14552,Z01.02.01,Chicago Jazz Philharmonic,,,,$268,,,1100,0.0070922
+14553,Z05.04.03,Bon Secours of Maryland Foundation DBA Bon Secours Community Works,,,,$691,,,644,0.0041667
+14554,Z05.04.02,Junior Achievement of Washington,,,,$28,,,111188,0.0041667
+14555,Z05.04.03,FreeFrom,,,,"$42,694",,,20,0.0041667
+14556,Z09.02.01,Enoch Pratt Free Library,,,,"$9,038",,,5534,0.0400000
+14559,Z08.04.02,the National Domestic Violence Hotline,,,,$66,,,221057,0.0057471

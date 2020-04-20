@@ -1,0 +1,83 @@
+#wrapper {
+  width:1000px;
+  height:700px;
+  position: relative;
+}
+
+#tester {
+   width:100%;
+   height:100%;
+}
+#progInfo {
+  width:100%;
+  height:100%;
+  position: absolute;
+  top:0;
+  left:0;
+  display: none;
+  font-family: "Poppins";
+}
+
+#bghider {
+  width:100%;
+  height:100%;
+  position: absolute;
+  top:0;
+  left:0;
+  background-color:rgba(255,255,255,.8);
+}
+
+#topbar {
+  background-color: #898D8D;
+  width:60%;
+  height:80%;
+  position: absolute;
+  top:10%;
+  left:20%;
+  box-shadow: 0px 70px 100px -40px grey;
+  
+}
+
+#cpoSection{
+  width:90%;
+  height:20%;
+  top:25%;
+  left:5%;
+  background-color: lightblue;
+  position: absolute;
+
+}
+#progTitle {
+  background-color: lightblue;
+  width:50%;
+  height:20%;
+  position: absolute;
+  top:0%;
+  left:0%;
+}
+
+
+
+#donateLink {
+
+  width:40%;
+  height:15%;
+  position: absolute;
+  top:2.5%;
+  left:55%;
+  text-align: center;
+}
+#donateLink:link {
+  background-color: white;
+  color:black;
+}
+#donateLink:hover{
+  background-color: lightyellow;
+  color:red;
+}
+#donateLink span {
+
+  top:50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+}
