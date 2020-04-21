@@ -3,8 +3,7 @@
   <head>
     <meta charset="utf-8">
      <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-     <link rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=Poppins">
+     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
           <link rel="stylesheet"
                href="https://fonts.googleapis.com/css?family=Roboto">
           <link rel="stylesheet" type="text/css" href="css/styling.css">
@@ -27,6 +26,12 @@
             </a>
 
             <div id="benchmarkSection">
+              <div id="outcomeTitle">Primary Outcome</div>
+                <div id="outcomeData" >
+                    <div id='outcomeName'></div>
+                  <div id="outcomeDefinition"></div>
+
+                </div>
 
                 <table>
                 <tr>
@@ -49,13 +54,32 @@
                 </tr>
               </table>
             </div>
+            <div id="otherOutcomesSection">
+              <div id="otherOutcomesTitle">Additional Outcomes</div>
+                <div id="otherOutcomesWrapper">
+                  <div id="otherOutcomeList"></div>
+                </div>
 
-          </div>
+              </div>
+            <div id="budgetReachSection">
+              <div id="budgetSection">
+                <span>Budget</span>
+                <div id="budget"></div>
+              </div>
+              <div id="reachSection">
+                <span>Reach</span>
+                <div id="reach"></div>
+              </div>
 
-        </div>
+            </div>
+
+
+
       </div>
 
-
+    </div>
+      </div>
+        </div>
       <script>
         var myPlot = document.getElementById('tester');
         var progInfo = document.getElementById('progInfo');
@@ -63,21 +87,49 @@
         var bghider = document.getElementById('bghider');
         var orgName = document.getElementById('orgName');
 
-        Plotly.d3.csv("fullTaxonomy.csv", function (err, rows) {
+        Plotly.d3.csv("ImpactMapDataset.csv", function (err, rows) {
            function unpack(rows, key) {
                return rows.map(function (row) { return row[key]; });
            }
-           var cpos = unpack(rows,'Benchmark CPO');
-           var effs = unpack(rows,'Benchmark Efficacy');
-           var evidence = unpack(rows,'Benchmark Evidence');
+           function customizeHover(rows,key){
+             return rows.map(function(row){
+               switch(row['Type']){
+                 case 'Root':
+                  return row['Label']+'<br>Annual Outcomes: '+row['Outcomes'];
+                 case 'Impact Area':
+                  return row['Label']+'<br>Annual Outcomes: '+row['Outcomes'];
+                 case 'Focus Area':
+                  return row['Label']+'<br>Annual Outcomes: '+row['Outcomes'];
+                 case 'Outcome':
+                  return row['Label']+'<br>Annual Outcomes: '+row['Outcomes']+'<br>Average CPO: '+row['CPO'];
+                 case 'Program':
+                  return row['Label']+'<br>Annual Outcomes: '+row['Outcomes']+'<br>Program CPO: '+row['CPO']+'<br>Click on program to learn more';
+               }
+
+
+
+             });
+           }
+           var cpos = unpack(rows,'CPO');
+           var effs = unpack(rows,'Efficacy');
+           var evidence = unpack(rows,'Evidence');
+           var progNames = unpack(rows,'ProgramName');
+           var parOutcome = unpack(rows,'Parent');
+           var ids = unpack(rows,"UOID");
+           var definitions = unpack(rows,"Definition");
+           var otherOutcomes = unpack(rows,"OtherOutcomes");
+           var budget = unpack(rows,"Budget");
+           var reach = unpack(rows,"Reach");
+
             data = [{
               type: "treemap",
               ids: unpack(rows,'UOID'),
               labels: unpack(rows,'Label'),
               parents: unpack(rows,'Parent'),
-              text: unpack(rows,'Benchmark CPO'),
-              //values: unpack(rows,'Outcomes Adjusted'),
-              //branchvalues: 'total',
+              text: unpack(rows,'CPO'),
+              values: unpack(rows,'Adjusted'),
+              customdata: customizeHover(rows,'test'),
+              branchvalues: 'total',
               textposition:'middle center',
               /*tiling:{
                 squarifyratio:2,
@@ -87,7 +139,7 @@
 
               textfont:{
 
-                family:"Poppins"
+                family:"sans-serif"
               },
               hoverlabel:{
                 font:{
@@ -96,7 +148,7 @@
                 }
               },
               texttemplate:'%{label}<br>%{text}',
-              //hovertemplate:'%{label}<br>CPO: %{text}<br>Outcomes: %{value:,f}<extra></extra>',
+              hovertemplate:'%{customdata}<extra></extra>',
               marker: {"line": {"width": 2}}
               /*pathbar:{
                 thickness:25,
@@ -117,24 +169,57 @@
             }
 
           Plotly.newPlot( 'tester', data,layout,{displayModeBar: false});
+          function findOutcomeIndex(outcomeID) {
+            for (var i = 0; i < ids.length; i++) {
+              if(ids[i]===outcomeID){return i;}
+            }
+          }
+
+
+
           myPlot.on('plotly_click', function(data){
               var pts = '';
               var showThis = data.points[0].pointNumber;
               var clickedProg = "";
+              var selectedOutcome="";
+              var selectedOutcomeLabel=0;
               var showThat = data.points.map(function(d){
                 clickedProg= String(d.data.labels[showThis]);
+                selectedOutcome = d.data.parents[showThis];
+                selectedOutcomeLabel=d.data.labels[findOutcomeIndex(selectedOutcome)];
+                selectedOutcomeDef=definitions[findOutcomeIndex(selectedOutcome)];
+                selectedOutcomeCPO=cpos[findOutcomeIndex(selectedOutcome)];
+                selectedOutcomeEff=effs[findOutcomeIndex(selectedOutcome)];
+                selectedOutcomeEv=evidence[findOutcomeIndex(selectedOutcome)];
+                selectedOtherOutcomes=otherOutcomes[showThis];
                 return d.data.ids[showThis];
 
               });
+
               showThat = String(showThat).charAt(0);
-              if (showThat!="Z" && showThat!="") {
+              if (showThat!="Z" && showThat!="A") {
+
+                //orgName.innerHTML=clickedProg;
+                if(progNames[showThis].length>66) {
+                  progName.innerHTML= progNames[showThis].substring(0,60)+"...";
+                } else {
+                  progName.innerHTML= progNames[showThis];
+                }
 
                 orgName.innerHTML=clickedProg;
-                progName.innerHTML=showThis;
+
 
                 document.getElementById('progCPO').innerHTML=cpos[showThis];
+                document.getElementById('benchCPO').innerHTML=selectedOutcomeCPO;
                 document.getElementById('progEff').innerHTML=effs[showThis];
+                document.getElementById('benchEff').innerHTML=selectedOutcomeEff;
                 document.getElementById('progEv').innerHTML=evidence[showThis];
+                document.getElementById('benchEv').innerHTML=selectedOutcomeEv;
+                document.getElementById('outcomeName').innerHTML=selectedOutcomeLabel;
+                document.getElementById('outcomeDefinition').innerHTML=selectedOutcomeDef;
+                document.getElementById('otherOutcomeList').innerHTML=selectedOtherOutcomes;
+                document.getElementById('budget').innerHTML=budget[showThis];
+                document.getElementById('reach').innerHTML=reach[showThis];
                 document.getElementById('donateLink').href=("http://www.google.com/search?q="+clickedProg);
                 //window.setTimeout(function(){
                   progInfo.style.display="block";

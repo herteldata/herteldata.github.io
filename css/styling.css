@@ -28,7 +28,7 @@
 }
 
 #topbar {
-  background-color: #898D8D;
+  background-color: #5B6770;
   width:60%;
   height:80%;
   position: absolute;
@@ -40,83 +40,221 @@
 
 
 #progTitle {
-  background-color: lightblue;
+  background-color: #5B6770;
   width:60%;
   height:15%;
   position:relative;
   top:0%;
   left:0%;
+  color:white
 }
 
 #progName {
-  font-size: 20px;
-  padding:5px;
+  font-size: 14px;
+  font-weight: 700;
+  padding-top:15px;
+  padding-left:15px;
 }
 #orgName {
-  font-size:14px;
-  padding:5px;
+  font-size:10px;
+  padding-bottom:0px;
+  padding-left: 15px;
   font-style: italic;
 }
-
-#primaryOutcome {
-
+#outcomeName {
+  font-weight: 700;
 }
 
 
 
 #benchmarkSection {
-  background-color:green;
-  position: absolute;
-  top:22%;
+  background-color:#898D8D;
+  position: relative;
+
   left:5%;
   width: 90%;
-  height: 30%;
+
   font-size: 12px;
 
 }
-#benchmarkSection table {
-  height:100%;
-  width:100%;
+
+#outcomeTitle {
+  top:0%;
+  height:10%;
+  max-height: 15%;
+  font-size: 14px;
+  font-weight: 700;
+  padding-top:5px;
+  padding-left:10px;
+
 }
+#otherOutcomesSection {
+  background-color:#898D8D;
+  position: relative;
+
+  left:5%;
+  width: 90%;
+  margin-top:10px;
+  font-size: 12px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+#otherOutcomesTitle {
+  top:0%;
+  height:10%;
+
+  font-size: 14px;
+  font-weight: 700;
+  padding-top:5px;
+  padding-left:10px;
+
+}
+#otherOutcomesWrapper {
+  background-color: #5B6770;
+  margin-left:10px;
+  margin-right:10px;
+
+
+  position: relative;
+  color:white;
+
+}
+#otherOutcomeList {
+  padding-left: 10px;
+  padding-right:10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+#outcomeData {
+  background-color: #5B6770;
+  margin-left:10px;
+  margin-right:10px;
+  position: relative;
+  color:white;
+
+}
+
+#outcomeData div {
+  padding-left: 10px;
+  padding-right:10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
 #benchmarkSection table, th, td {
   border-collapse:collapse;
   border:10px solid #898D8D;
   padding: 5px;
 }
+#benchmarkSection table {
+
+  width:100%;
+
+  position: relative;
+}
 
 #benchmarkSection td {
 
   text-align: center;
-  background-color:green;
+  background-color:#5B6770;
+  color: white;
 }
 #benchmarkSection th {
-
+  height:15%;
+  padding:0px;
 
   background-color:#898D8D;
 }
 #benchmarkSection th:first-child {
   background-color: #898D8D;
-  width:35%;
+  width:20%;
 }
 
 #benchmarkSection td:first-child {
   background-color: #898D8D;
-  width:35%;
+  width:20%;
   text-align: left;
   font-style: italic;
+  color:black;
 }
 
-#additionalOutcomes {
+#budgetReachSection {
+
+  position: relative;
+
+  left:5%;
+  width: 90%;
+  margin-top:10px;
+  font-size: 12px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  padding-bottom: 10px;
+}
+#budgetReachSection span {
+  position: relative;
+  font-size: 14px;
+  font-weight: 700;
+  padding-top:3px;
+  padding-left:10px;
+  margin-top: 10px;
+  float:left;
+  width:20%;
+}
+
+#budgetSection, #reachSection {
+  width: 49%;
+
+  background-color:#898D8D;
+}
+#budgetSection {
+  float:left;
+
+}
+#reachSection {
+
+  float:right;
+
+}
+
+#budgetSection >* {
+float: left;
+  top:0%;
+
+  padding-top:5px;
+}
+#reachSection >* {
+  float:left;
+  top:0%;
+
+  padding-top:5px;
+
+}
+
+#budget, #reach {
+  padding-left: 10px;
+  padding-right:10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #5B6770;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right:10px;
+  margin-bottom: 10px;
+  color:white;
+  width:60%;
+  float: right;
+  text-align: center;
 
 }
 
 #donateLink {
 
-  width:30%;
+
   height:10%;
   position: absolute;
   top:2.5%;
   left:65%;
+  right:15px;
   text-align: center;
 }
 #donateLink:link {
@@ -124,12 +262,13 @@
   color:black;
 }
 #donateLink:hover{
-  background-color: lightyellow;
-  color:red;
+  background-color: #0095C8;
+  color:white;
 }
 #donateLink span {
-
+  font-size: 24px;
   top:50%;
   position: absolute;
   transform: translate(-50%,-50%);
+  font-weight: 700;
 }
