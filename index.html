@@ -103,7 +103,7 @@
                  case 'Outcome':
                   return row['Label']+'<br>Annual Outcomes: '+row['Outcomes']+'<br>Average CPO: '+row['CPO'];
                  case 'Program':
-                  return row['Label']+'<br>Annual Outcomes: '+row['Outcomes']+'<br>Program CPO: '+row['CPO']+'<br>Click on program to learn more';
+                  return row['ProgramName']+'<br><i>'+row['OrgName']+'</i><br>Annual Outcomes: '+row['Outcomes']+'<br>Program CPO: '+row['CPO']+'<br>Click on program to learn more';
                }
 
 
@@ -114,6 +114,7 @@
            var effs = unpack(rows,'Efficacy');
            var evidence = unpack(rows,'Evidence');
            var progNames = unpack(rows,'ProgramName');
+           var orgNames = unpack(rows,'OrgName');
            var parOutcome = unpack(rows,'Parent');
            var ids = unpack(rows,"UOID");
            var definitions = unpack(rows,"Definition");
@@ -149,23 +150,25 @@
               },
               texttemplate:'%{label}<br>%{text}',
               hovertemplate:'%{customdata}<extra></extra>',
-              marker: {"line": {"width": 2}}
-              /*pathbar:{
+              marker: {"line": {"width": 2}},
+              pathbar:{
                 thickness:25,
                 textfont:{
-                  size:20
+                  size:16
                 }
-              }*/
+              }
             }];
             layout={
               margin:{
                 l:00,
                 r:00,
                 b:25,
-                t:25,
+                t:30,
                 pad:0
               },
-              colorway:["#cc5142","#64ac48","#c254b9","#9a963f","#7064cd","#c98542","#5a8fcd","#c6557c","#4aac8b","#b17dbe"]
+
+              colorway:['#8dd3c7','#fff2ae','#bebada','#fb8072','#80b1d3','#fdb462','#b3de69','#fccde5']
+
             }
 
           Plotly.newPlot( 'tester', data,layout,{displayModeBar: false});
@@ -191,6 +194,7 @@
                 selectedOutcomeCPO=cpos[findOutcomeIndex(selectedOutcome)];
                 selectedOutcomeEff=effs[findOutcomeIndex(selectedOutcome)];
                 selectedOutcomeEv=evidence[findOutcomeIndex(selectedOutcome)];
+
                 selectedOtherOutcomes=otherOutcomes[showThis];
                 return d.data.ids[showThis];
 
@@ -206,7 +210,7 @@
                   progName.innerHTML= progNames[showThis];
                 }
 
-                orgName.innerHTML=clickedProg;
+                orgName.innerHTML=orgNames[showThis];
 
 
                 document.getElementById('progCPO').innerHTML=cpos[showThis];
@@ -231,6 +235,7 @@
       document.getElementById('bghider').addEventListener('click',function(){
         document.getElementById('progInfo').style.display="none";
       });
+
       </script>
   </body>
 </html>
